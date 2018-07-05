@@ -1,0 +1,69 @@
+<!-- Service Start -->
+<section id="service">
+  <div class="container service">
+    
+    <!-- Intro -->
+    <div class="row">
+      <div class="section-title">
+        <h2>{{ .Site.Data.service.title }}</h2>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="row">
+      {{ range .Site.Data.service.content }}
+      <div class="col-md-5 col-sm-3">
+        <div class="service-item">
+          <i class="{{ .icon }}"></i>
+          <h4>{{ .name }}</h4>
+        </div>
+      </div>
+      {{ end }}
+    </div>    
+    <hr/>
+    <div class="service-two">
+      <!-- Intro -->
+      <div class="row">
+        <div class="section-title">
+          <h2>{{ .Site.Data.service.title_two }}</h2>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div class="row">
+        {{ range .Site.Data.service.content_two }}
+        <div class="col-sm-6 col-md-3">
+          <div class="service-item">
+            <i class="{{ .icon }}"></i>
+            <h4>{{ .name }}</h4>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    <hr/>
+    <div class="service-three">
+      <!-- Intro -->
+      <div class="row">
+        <div class="section-title">
+          <h2>{{ .Site.Data.service.title_three }}</h2>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div class="row">
+        {{ range .Site.Data.service.content_three }}
+        <div class="col-md-5 col-sm-3">
+          <div class="service-item">
+            <a href="{{ .link }}" target="_blank">
+            <img src="{{ .Site.BaseURL }}/{{ .image }}"></i>
+            <h4>{{ .name }}</h4>
+            </a>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+  </div>
+</section>

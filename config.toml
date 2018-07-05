@@ -1,0 +1,347 @@
+title = "Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology"
+baseURL = "https://www.example.com"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+[menu]
+
+  [[menu.header]]
+    weight = 2
+    name = "About Us"
+    identifier = "about"
+    url = "/about-us"
+      [[menu.header]]
+      parent = "about"
+      weight = 1
+      name = "Our Team"
+      url = "/about-us/team/"
+      [[menu.header]]
+       parent = "about"
+       weight = 2
+       name = "Clients"
+       url = "/about-us/clients/"     
+      [[menu.header]]
+       parent = "about"
+       weight = 5
+       name = "Contact Us"
+       url = "/about-us/contact"
+  [[menu.header]]
+    weight = 3
+    name = "Industries"
+    identifier = "industries"
+    url = "#"
+      [[menu.header]]
+      parent = "industries"
+      weight = 1
+      name = "Healthcare"
+      url = "/industries/healthcare"
+      [[menu.header]]
+      parent = "industries"
+      weight = 2
+      name = "Government"
+      url = "/industries/government"       
+      [[menu.header]]
+      parent = "industries"
+      weight = 3
+      name = "Medical Technology"
+      url = "/industries/medical-technology" 
+  [[menu.header]]
+    weight = 4
+    name = "Technology Services"
+    url = "/technology-services"
+    identifier = "technology-services"
+    [[menu.header]]
+      parent = "technology-services"
+      weight = 1
+      name = "Development"
+      identifier = "development"
+      url = "/technology-services/development/"
+      [[menu.header]]
+        parent = "development"
+        weight = 1
+        name = "Architecture"
+        url = "/technology-services/development/architecture"
+      [[menu.header]]
+        parent = "development"
+        weight = 2
+        name = "Coding and Engineering"
+        url = "/technology-services/development/coding-and-engineering"
+      [[menu.header]]
+        parent = "development"
+        weight = 3
+        name = "U.I. & I.D."
+        url = "/technology-services/development/ui-id/"
+      [[menu.header]]
+        parent = "development"
+        weight = 4
+        name = "Integration"
+        url = "/technology-services/development/integration"
+      [[menu.header]]
+        parent = "development"
+        weight = 5
+        name = "Web 2.0"
+        url = "/technology-services/development/web-2.0"
+      [[menu.header]]
+        parent = "development"
+        weight = 6
+        name = "Mobility"
+        url = "/technology-services/development/mobility"
+    [[menu.header]]
+      parent = "technology-services"
+      weight = 2
+      name = "Testing"
+      identifier = "testing"
+      url = "/technology-services/testing/"
+      [[menu.header]]
+        parent = "testing"
+        weight = 1
+        name = "IV & V"
+        url = "/technology-services/testing/iv-v"
+      [[menu.header]]
+        parent = "testing"
+        weight = 2
+        name = "Test Automation"
+        url = "/technology-services/testing/test-automation"
+      [[menu.header]]
+        parent = "testing"
+        weight = 3
+        name = "compliance"
+        url = "/technology-services/testing/compliance"
+    [[menu.header]]
+      parent = "technology-services"
+      weight = 3
+      name = "Sustenance"
+      identifier = "sustenance"
+      url = "/technology-services/sustenance/"
+      [[menu.header]]
+        parent = "sustenance"
+        weight = 1
+        name = "Platform"
+        url = "/technology-services/sustenance/platform"
+      [[menu.header]]
+        parent = "sustenance"
+        weight = 2
+        name = "Product Or Application"
+        url = "/technology-services/sustenance/product-or-application"
+      [[menu.header]]
+        parent = "sustenance"
+        weight = 3
+        name = "Legacy Modernization"
+        url = "/technology-services/sustenance/legacy-modernization"
+    [[menu.header]]
+      parent = "technology-services"
+      weight = 4
+      name = "Deployment"
+      identifier = "deployment"
+      url = "/technology-services/deployment/"
+      [[menu.header]]
+        parent = "deployment"
+        weight = 1
+        name = "Cloud"
+        url = "/technology-services/deployment/cloud"
+      [[menu.header]]
+        parent = "deployment"
+        weight = 2
+        name = "Security"
+        url = "/technology-services/deployment/security"
+      [[menu.header]]
+        parent = "deployment"
+        weight = 3
+        name = "Release Management"
+        url = "/technology-services/deployment/release-management"
+    [[menu.header]]
+      parent = "technology-services"
+      weight = 5
+      name = "Manage"
+      identifier = "manage"
+      url = "/technology-services/manage/"
+      [[menu.header]]
+        parent = "manage"
+        weight = 1
+        name = "Infrastructure"
+        url = "/technology-services/manage/infrastructure"
+      [[menu.header]]
+        parent = "manage"
+        weight = 2
+        name = "Data"
+        url = "/technology-services/manage/data"
+      [[menu.header]]
+        parent = "manage"
+        weight = 3
+        name = "Access"
+        url = "/technology-services/manage/access"
+      [[menu.header]]
+        parent = "manage"
+        weight = 4
+        name = "Enterprise I.T."
+        url = "/technology-services/manage/enterprise-i-t"
+      [[menu.header]]
+        parent = "manage"
+        weight = 5
+        name = "Content"
+        url = "/technology-services/manage/content"
+  [[menu.header]]
+    weight = 5
+    name = "Consulting Services"
+    url = "/consulting-services"
+    identifier = "consulting-services"
+      [[menu.header]]
+      parent = "consulting-services"
+      weight = 1
+      name = "Go To Market"
+      url = "/consulting-services/go-to-market/"
+      [[menu.header]]
+      parent = "consulting-services"
+      weight = 2
+      name = "Business Process Management"
+      url = "/consulting-services/business-process-management"
+      identifier = "business-process-management"
+        [[menu.header]]
+        parent = "business-process-management"
+        weight = 1
+        name = "Operational Excellence with Lean Six Sigma"
+        url = "/consulting-services/operational-excellence-lean-six-sigma"
+      [[menu.header]]
+      parent = "consulting-services"
+      identifier = "strategy"
+      weight = 3
+      name = "Strategy"
+      url = "/consulting-services/strategy/"  
+        [[menu.header]]
+        parent = "strategy"
+        weight = 1
+        name = "Business"
+        url = "/consulting-services/strategy/business"
+        [[menu.header]]
+        parent = "strategy"
+        weight = 2
+        name = "Product"
+        url = "/consulting-services/strategy/product"
+        [[menu.header]]
+        parent = "strategy"
+        weight = 3
+        name = "Innovation"
+        url = "/consulting-services/strategy/innovation"
+        [[menu.header]]
+        parent = "strategy"
+        weight = 4
+        name = "Vendor"
+        url = "/consulting-services/strategy/vendor"
+        [[menu.header]]
+        parent = "strategy"
+        weight = 5
+        name = "Technology"
+        url = "/consulting-services/strategy/technology"
+      [[menu.header]]
+      parent = "consulting-services"
+      weight = 4
+      name = "Industry and Technology Research"
+      url = "/consulting-services/industry-and-technology-research"  
+      [[menu.header]]
+      parent = "consulting-services"
+      weight = 5
+      name = "Regulatory Compliance & Standards"
+      url = "/consulting-services/regulatory-compliance-standards"  
+  [[menu.header]]
+      weight = 6
+      name = "Solutions"
+      url = "#"  
+  
+
+  [[menu.social]]
+    name = "fa fa-google-plus"
+    url = "https://plus.google.com/+Netspective"
+  [[menu.social]]
+    name = "fa fa-linkedin"
+    url = "https://www.linkedin.com/company/netspective-communications-llc"
+  [[menu.social]]
+    name = "fa fa-rss"
+    url = "https://feeds.feedburner.com/NetspectiveBlog"
+  [[menu.social]]
+    name = "fa fa-twitter"
+    url = "https://twitter.com/netspective" 
+
+  [[menu.footer]]
+    weight = 1
+    name = "About us"
+    url = "#"
+  [[menu.footer]]
+    weight = 2
+    name = "Contact us"
+    url = "#"
+  [[menu.footer]]
+    weight = 3
+    name = "How it works"
+    url = "#"
+  [[menu.footer]]
+    weight = 4
+    name = "Blog"
+    url = "#"
+  [[menu.footer]]
+    weight = 5
+    name = "Terms"
+    url = "#"
+
+# The site's parameters
+[params]
+
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+
+  date_format = "6 January 2006"
+
+  home = "Home"
+
+  [params.slider]
+    enable = true
+    title = "A digital marketing &amp; design agency"
+    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+
+  [params.wrapper]
+    enable = true
+    title = "About Us"
+    italic = "Netspective is a leader in Technology and Consulting services in regulated markets – Healthcare, Government and Medical Technology"
+    paragraph = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997.<p>Netspective’s mission is simple – to extend our client’s enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from our consistent ability to simplify the complex world of regulatory markets with people, processes and technology, helping navigate our clients in Healthcare, Government and Medical Technology markets.</p>"
+
+  [params.blog]
+    enable = true
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.feature]
+    enable = true
+    title = "Breaking News: Frost and Sullivan confers Netspective with"
+    content = "New Product Innovation Award Medical Device Interoperability North America, 2013"
+    image = "/img/Netspective-Communications-Award-Logo-150x150.jpg"
+    [params.feature.button]
+      caption = "View Works"
+      url = "#"
+
+  [params.call]
+    enable = true
+    title = "Netspective is a leader in Technology and Consulting services in regulated markets – Healthcare, Government and Medical Technology."
+    paragraph = "Technology, consulting, and solutions focused on firms impacted by FDA, ONC, NIST or other safety, privacy, and security regulations."
+
+  [params.team]
+    title1 = "Senior Management"
+    title2 = "Engineering Associates" 
+    title3 = "Corporate Governance"  
+
+  [params.contact]
+    enable = true
+    title = "Contact Us"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Name"
+      email = "Email"
+      subject = "Subject"
+      message = "Message"
+      button = "Send message"
+    [params.contact.box]
+      title = "Our Office"
+      address = "Netspective Communications LLC, 1802 Brightseat Rd. Suite 101, Landover, MD 20785"     
+      email = "Email: sales@netspective.com"
+      phone = "Phone: (202) 657-4064"
+    [params.contact.gmaps]
+      title = "We Also Count in Google Maps"

@@ -1,0 +1,75 @@
+enable: true
+title: Engineering Services
+subtitle: >
+  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+content:
+
+  - icon: fa fa-hand-o-up
+    name: UI/UX
+
+  - icon: fa fa-cogs
+    name: Development
+
+  - icon: fa fa-check-circle
+    name: Testing
+
+  - icon: fa fa-cloud
+    name: Cloud
+
+  - icon: fa fa-mobile
+    name: Mobile
+
+title_two: Consulting Services
+subtitle_two: >
+  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+content_two:
+
+  - icon: fa fa-users
+    name: Strategy & Thought Leadership
+
+  - icon: fa fa-inbox
+    name: Regulatory Compliance & Standards
+
+  - icon: fa fa-lightbulb-o
+    name: Industry & Technology Research
+
+  - icon: fa fa-bar-chart
+    name: Business Process Management
+
+title_three: Solutions
+content_three:
+  - image: img/solutions/medigy.png
+    name: Medigy
+    link: https://www.netspective.com/medigy
+
+  - image: img/solutions/narthex48.png
+    name: Fluent
+    link: https://www.netspective.com/fluent
+
+  - image: img/solutions/stature-icon.png
+    name: Stature
+    link: https://www.netspective.com/stature
+
+  - image: img/solutions/contexxio-icon.png
+    name: Contexxio
+    link: https://www.netspective.com/contexxio
+
+  - image: img/solutions/cak.png
+    name: Content Assembler Kit
+    link: https://www.netspective.com/cak
+
+  - image: img/solutions/watch-tower.png
+    name: Watchtower
+    link: https://www.netspective.com/watchtower
+
+  - image: img/solutions/opsfolio.png
+    name: Opsfolio
+    link: https://www.netspective.com/opsfolio
+
+  - image: img/solutions/proveit.png
+    name: ProveIT
+    link: https://www.netspective.com/proveit
+
+  - image: img/solutions/nup.png
+    name: Netspective Unified Process
+    link: https://www.netspective.com/nup

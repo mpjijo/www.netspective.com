@@ -1,0 +1,23 @@
+<!-- Content Start -->
+<section id="industries" class="industries">
+  <div class="container">
+    <!-- Header -->
+    <div class="row">
+      <div class="section-title text-center">
+        <h2>{{ .Site.Data.industries.title }}</h2>
+      </div>
+    </div>
+
+    <div class="row"> 
+      <!-- Content -->
+        {{ range .Site.Data.industries.numbers }}
+        <div class="col-sm-6 col-md-4">
+          <div class="block">
+            <i class="{{ .icon }}"></i>
+            <h4>{{ .text }}</h4>
+          </div>
+        </div>
+        {{ end }}    
+    </div>    
+  </div>
+</section>
