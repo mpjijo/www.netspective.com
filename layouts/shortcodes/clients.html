@@ -1,0 +1,21 @@
+<!-- Clients Logo Section Start -->
+<section id="clients-logo-section">
+  <div class="containerr">
+    <div class="roww">
+      <div class="col-md-122">
+        <div class="block">
+          <div id="clients-logo" class="owl-carousel">
+            {{ $type := .Get "type" }}
+            {{ range .Site.Pages }}
+            {{ if eq .Type $type }}
+            <div class="clients-logo-img">
+              <img src="{{ .Params.image }}" alt="{{ .Title }}">
+            </div>
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

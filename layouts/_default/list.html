@@ -7,17 +7,32 @@
 
 	{{ partial "header.html" . }}
 
-	{{ partial "global-header.html" .Site.Params.blog }}
+<!-- 	{{ partial "global-header.html" .Site.Params.blog }}
+ -->
+	<div class="post">	  
+	    <section id="intro" style="border: 1px dotted #ddd;">
+		    <div class="container">
+		        <div class="row">
+		        	<div class="post-area-title page-title">
+		        		<h2>{{ .Params.title }}</h2>
+		            </div>
+		            <div class="blog-item">
+					    {{ range .Data.Pages }}					
+						<div class="post-area post-item">
+							<a href="{{ .Permalink }}" class="bold">{{ .Title }}</a>
+							<p class="post-date">{{ .Date.Format .Site.Params.date_format }}</p>
+							<p>{{ .Summary }}</p>
+						</div>				    
+					    {{ end }}
+					</div>
+				</div>
+			</div>
+        </section>
+	</div>
 
-	<main>
-		{{ range .Data.Pages }}
-		<div class="post-area">
-			<a href="{{ .Permalink }}" class="bold">{{ .Title }}</a>
-			<p class="post-date">{{ .Date }}</p>
-			<p>{{ .Summary }}</p>
-		</div>
-		{{ end }}
-	</main>
+	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
+		{{ partial "call-to-action.html" . }}
+	{{ end }}
 
 	{{ partial "footer.html" . }}
 

@@ -1,0 +1,13 @@
+<div class="column">
+	{{ $type := .Get "type" }}
+	<div class="{{ $type }}">
+		{{ range .Site.Pages }}
+		{{ if eq .Type $type }}
+		<div class="col-md-6">
+			<h4>{{ .Title }}</h4>			
+			{{ .Content }}
+		</div>
+		{{ end }}
+		{{ end }}
+    </div>
+</div>

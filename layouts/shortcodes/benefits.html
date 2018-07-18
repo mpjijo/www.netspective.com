@@ -1,0 +1,17 @@
+<div class="benefits">
+	{{ $type := .Get "type" }}
+	{{ $column:= .Get "column" }}
+	<div class="{{ $type }}">
+		{{ range .Site.Pages }}
+		{{ if eq .Type $type }}
+		<div class="col-md-{{$column}}">
+			<h4>{{ .Title }}</h4>
+			{{ if isset .Params "image" }}
+			<span class="benefit-img"><img src="/{{ .Params.image }}"/></span>
+			{{ end }}
+			{{ .Content }}
+		</div>
+		{{ end }}
+		{{ end }}
+    </div>
+</div>

@@ -12,7 +12,7 @@
         {{ range .Site.Data.team.corporate_governance }}
           <div class="col-md-5 col-sm-3">
             <div class="team-item">
-              <img src="{{ .Site.BaseURL }}/{{ .image }}" class="img-responsive img-circle"></i>
+              <img src="/{{ .image }}" class="img-responsive img-circle"></i>
               <h4>{{ .name }}</h4>
               <span>{{ .designation }}</span>
             </div>

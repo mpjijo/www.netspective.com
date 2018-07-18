@@ -13,7 +13,7 @@
 	    <div class="container">
 	      <div class="row">
 	        <div>
-	          <div class="block">
+	          <div class="block block-area">
 	            <h1>{{ .Params.title }}</h1>
 	            <div class="post-info-wrapper">
 	              <p class="italic">By <span class="bold">{{ .Params.author }}</span> on <span class="bold">{{ .Date.Format .Site.Params.date_format }}</span></p>
@@ -26,9 +26,11 @@
 	    </div>
 	  </section>
 	</div>
+	{{ if isset .Params "type" }}
 	<p class="center-text" style="padding: 30px;">
 	  <a href="{{ $.Site.BaseURL }}/blog">Back to blog</a>
 	</p>
+	{{ end }}
 
 	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
 		{{ partial "call-to-action.html" . }}

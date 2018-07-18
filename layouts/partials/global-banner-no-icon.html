@@ -1,0 +1,24 @@
+<!-- banner Start -->
+	<section id="global-header" class="no-banner-image">
+	  <div class="container">
+	    <div class="row">
+	        <div class="col-md-12">
+            <div class="col-md-6">
+            	{{ if isset .Params "banner_image" }}
+                <p><img src="{{ .Params.banner_image }}" alt="{{ .Title }}"></p>
+	            {{ end }}
+            </div>
+            <div class="col-md-6">
+	           <h1>{{ .Params.banner_title | safeHTML }}</h1>
+               <p>{{ .Params.banner_content | safeHTML }}<br></p>
+               
+                {{ if isset .Params "banner_sub_title" }}	            
+	                <p><b>{{ .Params.banner_sub_title | safeHTML }}<br></b></p>
+	            {{ end }}          
+	        </div> 
+	        </div>
+	      	<div class="col-md-12 solution-title">{{ .Title }}</div> 
+
+	    </div>
+	  </div>
+	</section>

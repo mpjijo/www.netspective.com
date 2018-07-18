@@ -60,9 +60,54 @@ $(document).ready(function(){
       });			
     } 
 
+    $(".scroll-to").on('click', function(e) {
+	    e.preventDefault();
+	    var target = $(this).attr('href');
+	    $('html, body').animate({
+	       scrollTop: ($(target).offset().top)
+	    }, 2000);
+    });
+    
+    $(".scroll-top").on('click', function(e) {
+    	e.preventDefault();
+    	jQuery('html,body').animate({scrollTop:0},2000);
+    });
+
+    $(document).scroll(function() {
+	  var y = $(this).scrollTop();
+	  if (y > 800) {
+	    $('.scroll-top').fadeIn();
+	  } else {
+	    $('.scroll-top').fadeOut();
+	  }
+	});
+
+	$('.-accordion').asAccordion({
+	    namespace: '-accordion',
+	    skin: null,
+
+	    // breakpoint for mobile devices. WIP
+	    mobileBreakpoint: 768,
+
+	    // initial index panel
+	    initialIndex: 0,
+
+	    // CSS3 easing effects.
+	    easing: 'ease-in-out',
+
+	    // animation speed.
+	    speed: 500,
+
+	    // vertical or horizontal
+	    direction: 'horizontal',
+
+	    // jQuery mouse events. click, mousehover, etc.
+	    event: 'click',
+
+	    // multiple instance
+	    multiple: false
+
+    });
+
 
 });
-
-
-
-

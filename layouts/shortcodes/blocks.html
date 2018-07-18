@@ -1,0 +1,25 @@
+<div class="block-item">
+	{{ $type := .Get "type" }}
+	{{ $column:= .Get "column" }}
+	<div class="{{ $type }}">
+		{{ range .Site.Pages }}
+		{{ if eq .Type $type }}
+		<div class="col-md-{{$column}}">
+			{{ if isset .Params "icon" }}
+			<h4>
+			<i class="fa {{ .Params.icon }}"></i>{{ .Title }}	
+			</h4>
+			{{ .Content }}		
+			{{ else }}
+			<div class="title-icon"><span class="block-numb">0{{ .Weight }}</span></div>
+			<div class="title-cnt">
+				<h4 class="left-title">{{ .Title }}</h4>
+				{{ .Content }}
+			</div>
+			
+			{{ end }}			
+		</div>
+		{{ end }}
+		{{ end }}
+    </div>
+</div>

@@ -1,0 +1,11 @@
+<ul data-direction="horizontal" class="-accordion -accordion--basic -accordion--horizontal">
+  {{ $type := .Get "type" }}    
+  {{ range .Site.Pages }}
+  {{ if eq .Type $type }}
+  <li class="-accordion__panel">
+    <span class="-accordion__heading">{{.Title}}<i class="-icon -icon--left"></i></span>
+    <div class="-accordion__expander">{{.Content}}</div>
+  </li>
+  {{end}}
+  {{end}}
+</ul>

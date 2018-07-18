@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{{ partial "head.html" . }}
+</head>
+<body>
+
+	{{ partial "header.html" . }}
+
+    {{ partial "global-banner.html" . }}
+
+    {{ partial "sub-menu.html" . }}  
+
+	<div class="post">	  
+	    <section id="{{ .Title }}" class="solutions">
+		    <div class="container">
+		        <div class="row">		        	
+		            <div class="block-area">
+					    {{ range .Data.Pages}}	
+					    {{ if eq .Type "page" }}			
+						<div id="{{ .Slug }}" class="block-divide">			
+							<div class="page-title">
+		        				<h2>{{ .Title }}</h2>
+		            		</div>
+							{{ .Content }}						
+						</div>									    
+					    {{ end }}	
+					    {{ end }}				    
+					</div>
+				</div>
+			</div>	
+        </section>       
+	</div>
+
+	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
+		{{ partial "call-to-action.html" . }}
+	{{ end }}
+
+	{{ partial "footer.html" . }}
+
+</body>
+</html>

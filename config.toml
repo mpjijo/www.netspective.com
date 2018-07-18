@@ -19,10 +19,25 @@ theme = "airspace-hugo"
        parent = "about"
        weight = 2
        name = "Clients"
-       url = "/about-us/clients/"     
+       url = "/about-us/clients/"  
+      [[menu.header]]
+       parent = "about"
+       weight = 3
+       name = "Events"
+       url = "/about-us/events/"
+      [[menu.header]]
+       parent = "about"
+       weight = 4
+       name = "News Room"
+       url = "/about-us/newsroom/"  
       [[menu.header]]
        parent = "about"
        weight = 5
+       name = "Netspective.TV"
+       url = "/about-us/netspective-tv"  
+      [[menu.header]]
+       parent = "about"
+       weight = 6
        name = "Contact Us"
        url = "/about-us/contact"
   [[menu.header]]
@@ -246,7 +261,63 @@ theme = "airspace-hugo"
       weight = 6
       name = "Solutions"
       url = "#"  
-  
+      identifier = "solutions"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 1
+      name = "Attest"
+      url = "/solutions/attest" 
+      [[menu.header]]
+      parent = "solutions"
+      weight = 2
+      name = "CAK"
+      url = "/solutions/cak" 
+      [[menu.header]]
+      parent = "solutions"
+      weight = 3
+      name = "Contexxio"
+      url = "/solutions/contexxio" 
+      [[menu.header]]
+      parent = "solutions"
+      weight = 5
+      name = "Fluent"
+      url = "/solutions/fluent" 
+      [[menu.header]]
+      parent = "solutions"
+      weight = 10
+      name = "Stature"
+      url = "/solutions/stature"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 8
+      name = "Opsfolio"
+      url = "/solutions/opsfolio"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 11
+      name = "Watchtower"
+      url = "/solutions/watchtower"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 6
+      name = "Medigy"
+      url = "/solutions/medigy"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 9
+      name = "ProveIT"
+      url = "/solutions/proveit"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 7
+      name = "Netspective Unified Process"
+      url = "/solutions/nup"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 4
+      name = "EasyRyde"
+      url = "/solutions/easyryde"
+      
 
   [[menu.social]]
     name = "fa fa-google-plus"
@@ -313,7 +384,7 @@ theme = "airspace-hugo"
     enable = true
     title = "Breaking News: Frost and Sullivan confers Netspective with"
     content = "New Product Innovation Award Medical Device Interoperability North America, 2013"
-    image = "/img/Netspective-Communications-Award-Logo-150x150.jpg"
+    image = "img/Netspective-Communications-Award-Logo-150x150.jpg"
     [params.feature.button]
       caption = "View Works"
       url = "#"

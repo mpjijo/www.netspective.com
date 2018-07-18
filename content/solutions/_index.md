@@ -4,13 +4,14 @@ type = "page"
 layout = "menu-level-one" 
 +++
 
-The world of Healthcare, Government and Medical Devices has become more demanding, unpredictable and complex, but full of opportunities in the future. Organizations must accelerate innovation and increase productivity to stay ahead. Your success is driven by a combination of technology and infrastructure, tied to investment, processes, vision and determination of your team to execute.
+#### The world of Healthcare, Government and Medical Devices has become more demanding, unpredictable and complex, but full of opportunities in the future. Organizations must accelerate innovation and increase productivity to stay ahead. Your success is driven by a combination of technology and infrastructure, tied to investment, processes, vision and determination of your team to execute.
+___
 
 To unleash the potential of achieving your business and technology objectives, organizations are turning to Netspective, a leading services and solutions provider in Healthcare, Government and Medical Technology industries. Netspective has developed strategic solutions and frameworks that are offered to our customers to provide time to market advantages, reduced cost and most importantly achieves risk reduction. These benefits are achieved without reducing flexibility or ability to innovate or increasing cost of the solution.
 
 These solutions are highly innovative, addresses several critical focus areas and have been developed using a combination of Open Source and low cost platforms. Our ability to capitalize on new thinking, new Technology and new business model possibilities has made us a recognized and respected solutions provider. And our expertise, experience and unmatched depth of knowledge allow us to deliver solutions to help our clients achieve better business results.
 
-Our Solutions and Frameworks are –
+### Our Solutions and Frameworks are –
 
 ![medigy](/img/solutions/medigy.png#left) [Medigy Health Apps Platform](/solutions/medigy-ehr-emr/)
 
