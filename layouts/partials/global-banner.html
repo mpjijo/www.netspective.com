@@ -30,7 +30,15 @@
 	                </div>
 	            {{ end }}
 	            {{ end }}
-	             
+                <p>
+                {{ if (isset .Params "banner_register_button_name")}}
+		            <a class="btn btn-primary btn-large btn-banner btn-register" href="{{ .Params.banner_register_button_link }}" target="_blank">{{ .Params.banner_register_button_name }}</a>	                
+                {{ end }}	
+
+                {{ if (isset .Params "banner_button_name")}}
+		            <a class="btn btn-primary btn-large btn-banner" href="{{ .Params.banner_button_link }}" target="_blank">{{ .Params.banner_button_name }}</a>	                
+                {{ end }}	
+                </p>             
 	        </div>
 	      </div>
 	    </div>

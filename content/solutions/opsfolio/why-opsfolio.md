@@ -25,7 +25,7 @@ section_menu_label: Why Opsfolio?
 Getting security wrong damages your business and brand. Getting compliance wrong risks financial penalties. Maintaining both security and compliance is not easy but it’s simpler than you think.
 It begins with focusing on your risks, selecting the right tools, and working with a trusted partner.
 
-[ Request a free consultation ](/solutions/opsfolio/register)
+[ Request a free consultation ](/solutions/opsfolio/register/?q=1)
 
 
 {{<benefits type="opsfolio-benefit" column="4">}}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{{ partial "head.html" . }}
+</head>
+<body>	
+   {{ partial "register-header.html" . }}
+
+	<div class="post">	  
+	    <section id="{{ .Title }}" class="solutions">
+		    <div class="container">
+		    		<div class="row">
+                        <div class="page-title">
+                    <h2 id="registerhead"></h2>	
+                    </div>	        	
+		            {{ .Content }}        	
+					</div>
+				</div>
+			</div>	
+        </section>       
+	</div>
+    {{ partial "register-footer.html" . }}
+
+</body>
+</html>

@@ -28,7 +28,7 @@ Netspective offers several solutions and services bringing significant business 
 
 **[Technology Services](/technology-services/)** Our technology services range from architecture design, development , testing and test test automation to deployment and management, analytics, cloud and mobility, web 2.0 and integration.
 
-**[Solutions](/solutions/)** We provide solutions for integration with EHRs and also between medical devices. Our pre-built framework, Medigy, enables the smooth integration with EHR/EMR systems. Our framework, Fluent allows for M2M or inter-device connectivity. We also allow for the integration between medical technology applications and between applications and medical devices with our frameworks, Connect and Cloud Agent with Narthex.
+**Solutions** We provide solutions for integration with EHRs and also between medical devices. Our pre-built framework, Medigy, enables the smooth integration with EHR/EMR systems. Our framework, Fluent allows for M2M or inter-device connectivity. We also allow for the integration between medical technology applications and between applications and medical devices with our frameworks, Connect and Cloud Agent with Narthex.
 
 Netspective offers the following benefits –
 

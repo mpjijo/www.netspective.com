@@ -1,0 +1,211 @@
+---
+title: Netspective Domain Adminisitration
+author: Shahid N. Shah
+type: post
+date: 2012-10-17T06:07:48+00:00
+url: /knowledgebase/secure-sops/2012/10/17/netspective-domain-adminisitration/
+categories:
+  - Secure SOPs
+
+---
+<div>
+  <div style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+    <div>
+      <strong>WebsiteSpot.com &#8211; Customer #3568462</strong>
+    </div>
+    
+    <div>
+      <ul>
+        <li>
+          ALIYAHSHAH.COM
+        </li>
+        <li>
+          ASMASHAH.COM
+        </li>
+        <li>
+          HEALTHCAREGUY.COM
+        </li>
+        <li>
+          HEALTHCAREGUYS.COM
+        </li>
+        <li>
+          HITSPHERE.COM
+        </li>
+        <li>
+          NAGHMAHUSAIN.COM
+        </li>
+        <li>
+          SANASHAH.COM
+        </li>
+        <li>
+          SHAHIDSHAH.COM
+        </li>
+        <li>
+          SHAHIDSHAH.NAME
+        </li>
+      </ul>
+    </div>
+    
+    <div>
+      <strong>Network Solutions &#8211; user shahid.shah</strong>
+    </div>
+    
+    <div>
+      <ul>
+        <li>
+          ALIM.ORG
+        </li>
+        <li>
+          NETSPECTIVE.COM
+        </li>
+        <li>
+          SHAH.ORG
+        </li>
+      </ul>
+    </div>
+    
+    <div>
+      <strong>1and1.com &#8211; Customer ID #7428674</strong>
+    </div>
+    
+    <div>
+      <ul>
+        <li>
+          alimsociety.com
+        </li>
+        <li>
+          alimsociety.org
+        </li>
+        <li>
+          arabicplayhouse.com
+        </li>
+        <li>
+          communityquran.com
+        </li>
+        <li>
+          ehrmyths.com
+        </li>
+        <li>
+          emrandehrmyths.com
+        </li>
+        <li>
+          emrmyths.com
+        </li>
+        <li>
+          exotichospice.com
+        </li>
+        <li>
+          extensionprogram.com
+        </li>
+        <li>
+          fearmediocrity.com
+        </li>
+        <li>
+          fed100alumni.com
+        </li>
+        <li>
+          federalarchitect.com
+        </li>
+        <li>
+          fedsphere.com
+        </li>
+        <li>
+          fiyocom.com
+        </li>
+        <li>
+          healthcarecloudconsortium.com
+        </li>
+        <li>
+          healthcarecloudconsortium.org
+        </li>
+        <li>
+          healthcareit.tv
+        </li>
+        <li>
+          healthcareitguy.com
+        </li>
+        <li>
+          healthcloudconsortium.com
+        </li>
+        <p>
+          <a href="https://pills24h.com/buy-paroxetine-online-without-prescription/">paxil buy online</a>, <a href="http://prestige-pharmacy.com/buy-clomid-online/">clomid without prescription</a>
+        </p>
+        
+        <li>
+          healthcloudconsortium.org
+        </li>
+        <li>
+          healthitads.com
+        </li>
+        <li>
+          healthitads.org
+        </li>
+        <li>
+          healthitextensionprogram.com
+        </li>
+        <li>
+          hhscertification.org
+        </li>
+        <li>
+          hhscertified.com
+        </li>
+        <li>
+          hhscertified.net
+        </li>
+        <li>
+          hhscertified.org
+        </li>
+        <li>
+          hhshealthit.com
+        </li>
+        <li>
+          hhshealthit.org
+        </li>
+        <li>
+          hitextensionprogram.com
+        </li>
+        <li>
+          localextensioncenter.com
+        </li>
+        <li>
+          localextensioncenters.com
+        </li>
+        <li>
+          meaningfulusecertified.com
+        </li>
+        <li>
+          meaningfulusecertified.net
+        </li>
+        <li>
+          meaningfulusecertified.org
+        </li>
+        <li>
+          meaningfuluseguide.com
+        </li>
+        <li>
+          meaningfulusehelp.com
+        </li>
+        <li>
+          medigy.com
+        </li>
+        <li>
+          netspective.org
+        </li>
+        <li>
+          neuvist.com
+        </li>
+        <li>
+          nisthealthit.com
+        </li>
+        <li>
+          nisthealthit.org
+        </li>
+        <li>
+          patientteam.com
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+&nbsp;

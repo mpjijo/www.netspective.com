@@ -317,6 +317,26 @@ theme = "airspace-hugo"
       weight = 4
       name = "EasyRyde"
       url = "/solutions/easyryde"
+  [[menu.header]]
+      weight = 7
+      name = "Thought Leadership"
+      url = "#"  
+      identifier = "thought-leadership"
+      [[menu.header]]
+      parent = "thought-leadership"
+      weight = 1
+      name = "Knowledgebase"
+      url = "/thought-leadership/knowldgebase/"
+      [[menu.header]]
+      parent = "thought-leadership"
+      weight = 2
+      name = "Resources"
+      url = "/thought-leadership/resources/"      
+  [[menu.header]]
+      weight = 8
+      name = "Blog"
+      url = "/blog"  
+      identifier = "blog"
       
 
   [[menu.social]]

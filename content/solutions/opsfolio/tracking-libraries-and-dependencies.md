@@ -27,7 +27,7 @@ Use Opsfolio to:
 Opsfolio helps you find and reduce the biggest security risks to your code.
 
 Want to find out if your third party apps are safe to use?
-[Get a free basic risk assessment today](/opsfolio/register)
+[Get a free basic risk assessment today](/solutions/opsfolio/register/?q=4)
 
 
 

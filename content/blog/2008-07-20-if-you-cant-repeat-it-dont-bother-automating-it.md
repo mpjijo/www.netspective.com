@@ -3,6 +3,7 @@ title: If you cant repeat it, dont bother automating it
 author: Shahid N. Shah
 type: post
 date: 2008-07-20T23:14:25+00:00
+url: /project-management/2008/07/20/if-you-cant-repeat-it-dont-bother-automating-it/
 categories:
   - Project Management
 

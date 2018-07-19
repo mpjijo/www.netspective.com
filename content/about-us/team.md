@@ -1,4 +1,4 @@
 +++
-title  = "Team"
+title  = "Our Team"
 layout = "team"
 +++

@@ -108,6 +108,31 @@ $(document).ready(function(){
 	    multiple: false
 
     });
+ /*$(window).on('load', function () {
+var pathArray = window.location.pathname.split( '/' );
+		var hadithNumber = pathArray[3];
+		alert(hadithNumber);
+	});*/
+ var url = window.location.search;
+url = url.replace("?q=", ''); 
+
+if(url == '1'){
+	document.getElementById("registerhead").innerHTML = "GET FREE DEMO";
+	document.getElementById('formtitle').value="GET FREE DEMO";
+}
+else if(url == '2'){
+	document.getElementById("registerhead").innerHTML = "Get a Free Consultation Today";
+	document.getElementById('formtitle').value ="Get a Free Consultation Today";
+}
+else if(url == '3'){
+	document.getElementById("registerhead").innerHTML = "Get in Touch With Our Experts";
+	document.getElementById('formtitle').value ="Get in Touch With Our Experts";
+}
+else if(url == '4'){
+	document.getElementById("registerhead").innerHTML = "Get a Free Basic Risk Assessment Today";
+	document.getElementById('formtitle').value ="Get a Free Basic Risk Assessment Today";
+}
+
 
 
 });
