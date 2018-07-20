@@ -23,8 +23,6 @@ Netspective brings a comprehensive approach to managing and transforming your bu
 * Providing a deep understanding of how regulatory standards align with their business and associated technology. Given our leadership role on many advisory boards for regulatory standards, we help bring a unique perspective to our customers.
 * Understanding and organizing valuable data given that sources of digitized data will change and grow dramatically
 * Implementing innovative solutions that provide greater emphasis on wellness management and preventive care, leading to differentiated operating models.
-Our Services in the Healthcare IT space
-Netspective offers several solutions and services to bring measurable business impacts for healthcare providers. These include:
 
 ### Our Services in the Healthcare IT space
 Netspective offers several solutions and services to bring measurable business impacts for healthcare providers. These include:

@@ -6,6 +6,10 @@ At Netspective, we’ve developed user interface design into a fine art, focusin
 
 ![web-interface-design](/img/technology-services/web-interface-design.jpg#left)
 
+Leveraging the capabilities of a team of highly talented graphic artists and UI specialists, Netspective designs graphic interfaces that are both aesthetically appealing and easy to navigate.
+
+We take care to make sure that pages have a simple, uncluttered look; that the images used are light and easy to load; that high priority elements are given visual prominence to catch the user’s eye; that related elements are grouped together logically; that highly visible navigational aids are provided to help users along; and that the overall visual statement is in tune with the objectives of the website.
+
 ### How our UI design process works
 
 When we work on your UI design, we follow a thorough, carefully-defined process which produces consistent results.

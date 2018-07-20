@@ -2,8 +2,6 @@
 title: Release Management
 type: page
 ---
-### Clouds: Driving Down Computing Costs
-
 Incremental feature addition or requests for new features, feature enhancements and bug corrections trigger the start of a new release cycle. Release management starts off with the start of a new release cycle. A release cycle consists of a broad set of activities encompassing planning, design, testing, build, documentation, configuration and deployment.
 
 Release cycles vary in duration and style based on the kind of software development life cycle followed by an organization. In a typical waterfall model, a release cycle takes a long time since the application or product is deployed only as a whole, with its entire set of features, after passing through the various stages of the development life cycle. In the case of the new agile models, there are several release life cycles called iterations or sprints where the application or product is broken down into user stories and user stories are picked and implemented for each iteration. Release management strategies for each organization are unique based on their development life cycles. Our project managers and consultants have an in-depth knowledge of the different product development life cycles like waterfall, iterative, V model and also the new agile methodologies like SCRUM, Lean, XP and TDD. This helps us to understand organizations release cycles better and helps us to determine which release management methodology best suites an organization.

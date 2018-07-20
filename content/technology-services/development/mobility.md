@@ -6,6 +6,8 @@ The remarkable growth in mobility among the global community has spurred an equi
 
 ![wireless-mobile](/img/technology-services/wireless-mobile.jpg#center)
 
+In these industries where ubiquitous communication is vital, effective connectivity is essential for decision making, competent work flows and quick responses. With the rapidly increasing availability of wireless connectivity for staff and equipment, Mobility and Wireless connectivity enables teams to continuously collaborate anytime, anywhere and gain instant access to notifications, requests and information thereby improving business efficiency and value.
+
 ### Mobility and Wireless the Netspective way
 
 Netspective has been a leader in Connectivity and Integration, bringing business transformation to the Healthcare, Government and Medical Technology industries. Our approach is to bring our deep expertise and knowledge about these industries, the market changes and directions, and understanding of business processes. Then we bring together our extensive technical capabilities with this business knowledge to Architect and design an optimized solution, impacting the enterprise, individual business unit or specific products.

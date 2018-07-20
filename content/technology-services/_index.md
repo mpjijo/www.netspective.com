@@ -14,6 +14,8 @@ Netspective’s technology services portfolio addresses your need to take full a
 
 ### Netspective’s Offerings
 
+We extend our services in various aspects of technology from development to testing, sustenance, deployment and management of products and services in the government, healthcare and medical technology space. Netspective’s cutting edge technology services help you understand and analyze your technology needs from well architected solutions to release management and helps your business grow along with laying a strong foundation for the future.
+
 [Development](/technology-services/development/): After an idea for a product is conceived and before development can start, a number of varied factors have to be taken into consideration like
 
 * Deciding on the technology for implementation
