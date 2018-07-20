@@ -5,3 +5,8 @@ slug: pricing
 weight: 10
 section_menu_label: Pricing
 ---
+{{<pricing>}}
+
+
+
+For custom packages and pricing, please contact sales.

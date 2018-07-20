@@ -619,6 +619,9 @@ td, th {
 .-accordion__heading > .-icon{
   color:#e54e19 !important;
 }
+.address-block li{
+  list-style: none !important;
+}
 .form-section-block{
   width: 100%;
   float: left;
@@ -728,8 +731,257 @@ td, th {
   list-style: none !important;
   display: inline-block;
 }
+.hero-container {
+  color: #333;
+  font-family: "Helvetica Neue","Helvetica",Arial,sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  padding-top: 40px;
+  text-align: center;
+}
+.pricing-column {
+  background: transparent none repeat scroll 0 0;
+  display: table-cell;
+  position: relative;
+  vertical-align: top;
+  width: 298px;
+}
+.pricing-details .pricing-column {
+  width: 245px;
+}
+.pricing-details .details-column {
+  text-align: left;
+  width: 600px;
+}
+.pricing-column.highlight {
+  background-clip: padding-box;
+  border-radius: 2px;
+  box-shadow: 2px 0 5px rgba(51, 51, 51, 0.25), -2px 0 5px rgba(51, 51, 51, 0.25);
+  top: -7px;
+  z-index: 1;
+}
+.hero-container p {
+    display: none !important;
+}
+.pricing-column .pricing-header, 
+.pricing-column .pricing-cta, 
+.pricing-column .pricing-list {
+    background-color: #f7f7f7;
+}
+.pricing-details .details-column .pricing-header {
+    height: 70px;
+}
+.pricing-column.first-visible-column .pricing-header, 
+.pricing-column.first-visible-column .pricing-list {
+    border-width: 0 1px;
+}
+.pricing-column.first-visible-column .pricing-header, 
+.pricing-column.first-visible-column .pricing-list {
+    border-color: #ccc;
+    border-style: solid;
+}
+.pricing-header {
+    height: 70px;
+    padding-top: 17px;
+}
+h2.package-title {
+    font-size: 22px !important;
+    text-align: center !important;
+}
 
+.package-title {
+    text-transform: uppercase;
+}
+.pricing-column.first-visible-column .pricing-list {
+    border-bottom-left-radius: 4px;
+}
+.pricing-column .pricing-list {
+    min-height: 125px;
+}
+.pricing-body ul {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.pricing-details .details-column li {
+    padding-left: 20px;
+    list-style: none !important; 
+}
+.pricing-details li.sep {
+    background: #cccccc;
+    font-weight: bold;
+    height: 65px;
+}
+.pricing-details li {
+    border-bottom: 1px solid #ccc;
+}
+.pricing-list li {
+    border-bottom: 1px solid #ccc;
+    display: table;
+    height:55px;
+    padding: 0 10px;
+    width: 100%;    
+}
+.pricing-list li .feature-label {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    width: 100%;
+}
+.pricing-list li .feature-label {
+    line-height: 15px;
+}
 
+.pricing-list li .feature-label {
+    font-size: 14px;
+}
+li.height81 {
+    line-height: 15px !important;
+}
+.lite_red {
+    background: #eaf1dd !important;
+}
+.normal_red {
+    background: #d7e4bc !important;
+}
+.dark_red {
+    background: #c2d69a !important;
+}
+.pricing-details li.text {
+    font-size: 14px;
+    padding: 0 10px;
+    text-align: center;
+}
+.feature-label i {
+    color: #f8922f;
+}
+.offer_tag_main {
+    position: relative;
+}
+.offerTag {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover !important;
+}
+.offer_tag_july {
+    width: 100px;
+    height: 100px;
+    background: url(/img/offer-tag-july.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.price_value {
+    font-size: 18px !important;
+}
+.price_value span {
+    text-decoration: line-through;
+    line-height: 25px !important;
+    color: #e00000 !important;
+}
+.asset-badge.best-value-badge {
+    background: #f8922f none repeat scroll 0 0;
+}
+.pricing-column-package-4 .asset-badge, .pricing-column-package-7 .asset-badge {
+    background-color: #006c7a;
+}
+.asset-badge {
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    left: 50%;
+    margin-left: -49px;
+    min-width: 122px;
+    padding: 0px 5px 0px 10px;
+    position: absolute;
+    top: -8px;
+}
+.feature-label a {
+    background-color: #ff6c00;
+    border-radius: 5px;
+    color: #fff !important;
+    padding: 6px 15px;
+    font-size: 14px;
+}
+.feature-label a:hover {
+    color: #fff !important;
+}
+.pricing-column.first-visible-column::before {
+    border-top-left-radius: 4px; 
+}
+
+.pricing-column.details-column::before, .pricing-column.pricing-column-package-1::before {
+    background: #b5b7aa none repeat scroll 0 0;
+}
+.pricing-column::before {
+    content: "";
+    display: block;
+    height: 5px;
+    width: 100%;
+}
+.pricing-column.pricing-column-package-4::before, 
+.pricing-column.pricing-column-package-7::before {
+    background: #006c7a none repeat scroll 0 0;
+}
+.pricing-column.highlight::before {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.pricing-column-package-4 .asset-badge::before, 
+.pricing-column-package-7 .asset-badge::before {
+    background-color: #006c7a;
+}
+.asset-badge::before {
+    content: "";
+    font-size: 30px;
+    height: 1.2em;
+    left: -0.9em;
+    position: absolute;
+    text-align: center;
+    top: -6px;
+    width: 1.2em;
+}
+
+.asset-badge.best-value-badge {
+    background: #f8922f none repeat scroll 0 0;
+}
+.asset-badge.best-value-badge::before {
+    background: rgba(0, 0, 0, 0) url(/img/tick.png) no-repeat scroll left center;
+}
+.pricing-column.pricing-column-package-5::before {
+    background: #f8922f none repeat scroll 0 0;
+}
+.pricing-column:last-of-type::before {
+    border-top-right-radius: 3px;
+}
+.pricing-column.pricing-column-package-6::before, .pricing-column.pricing-column-package-26::before {
+    background: #8dad3d none repeat scroll 0 0;
+}
+.pricing-column.highlight .pricing-header, .pricing-column.highlight .pricing-list {
+    background-color: #fdf8e2;
+}
+.pricing-column .pricing-header, .pricing-column .pricing-list {
+    border-color: #ccc;
+    border-style: solid;
+    border-width: 0 1px 0 0;
+}
+.pricing-column:last-of-type .pricing-list {
+    border-bottom-right-radius: 3px;
+}
+.pricing-column.highlight .pricing-header {
+    height: 77px;
+}
+
+.error {
+  color: red;
+  margin-left: 5px;
+}
+ 
+label.error {
+  display: inline;
+}
 .col-xs-5,
 .col-sm-5,
 .col-md-5,

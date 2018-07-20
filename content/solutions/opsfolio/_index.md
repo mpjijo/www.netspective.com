@@ -8,5 +8,5 @@ banner_sub_title ="PII & PHI Data Risk, Security & Compliance Dashboard"
 banner_button_name = "Sign In"
 banner_button_link = "https://app.opsfol.io/"
 banner_register_button_name = "Request a free Demo"
-banner_register_button_link = "/solutions/opsfolio/register"
+banner_register_button_link = "/solutions/opsfolio/register/?q=1"
 +++
