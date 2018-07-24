@@ -16,4 +16,4 @@ Instead of designing solutions around higher-level business services (like in SO
 
 So, the question is &#8212; is WOA succeeding SOA? Are any of you doing anything for WOA or are the reports of SOA failures over hyped?
 
- [1]: http://prestige-pharmacy.com/buy-lioresal-baclofen/
+ 

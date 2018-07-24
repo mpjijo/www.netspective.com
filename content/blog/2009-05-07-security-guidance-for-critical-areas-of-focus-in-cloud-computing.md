@@ -9,8 +9,7 @@ categories:
   - Netspective Blogs
 
 ---
-The [Cloud Security Alliance][1] [buy zoloft online][2], [order zithromax][3] was recently formed to &#8220;promote the use of best practices for providing security assurance within Cloud Computing, and provide education on the uses of Cloud Computing to help secure all other forms of computing.&#8221; Their first publication is out and is worth reviewing.
+The [Cloud Security Alliance][1] was recently formed to &#8220;promote the use of best practices for providing security assurance within Cloud Computing, and provide education on the uses of Cloud Computing to help secure all other forms of computing.&#8221; Their first publication is out and is worth reviewing.
 
  [1]: http://www.cloudsecurityalliance.org/
- [2]: https://pills24h.com/buy-zoloft-online-without-prescription/
- [3]: http://prestige-pharmacy.com/buy-zithromax-online/
+ 

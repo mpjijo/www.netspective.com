@@ -45,7 +45,4 @@ Suggested below are some fundamental steps that you ought to take to prevent dat
   6. Submit the plan to rigorous tests to identify gaps in the plan. Provide intensive training and conduct regular exercises to keep recovery personnel always in a state of readiness.
   7. Update the plan periodically to keep it current with system enhancements.
 
-Even with these preventive and precautionary measures in place SAN failures can still happen, leaving a lot of stranded data that will be lost. The only option you have then is to fall back on to Plan B, which is to rebuild the lost data from scratch. This is not a very exciting prospect I concede, but you don&#8217;t have much by way of choice. [periactin no rx][1], [cheap dapoxetine][2]
-
- [1]: https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/dapoxetine-modern-drug/
+Even with these preventive and precautionary measures in place SAN failures can still happen, leaving a lot of stranded data that will be lost. The only option you have then is to fall back on to Plan B, which is to rebuild the lost data from scratch. This is not a very exciting prospect I concede, but you don&#8217;t have much by way of choice.

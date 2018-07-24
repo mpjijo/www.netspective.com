@@ -14,11 +14,7 @@ DISA&#8217;s been doing some excellent work around global hosting and creating c
 
 Their presentation is worth reviewing:
 
-[doxycycline for cheap][1], [acquire lioresal][2] 
-
 <div style="margin: 6px auto 3px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">
   <a href="http://www.scribd.com/upload" style="text-decoration: underline;">Publish at Scribd</a> or <a href="http://www.scribd.com/browse" style="text-decoration: underline;">explore</a> others: <a href="http://www.scribd.com/browse/HowTo-Guides-DIY/Technology?style=text-decoration%3A+underline%3B">Technology</a> <a href="http://www.scribd.com/browse/HowTo-Guides-DIY/?style=text-decoration%3A+underline%3B">How-To Guides & DIY</a> <a href="http://www.scribd.com/tag/federal%20government%20cloud%20computing%20gsa" style="text-decoration: underline;">federal government c</a>
 </div>
 
- [1]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-lioresal-baclofen/

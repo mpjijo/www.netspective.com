@@ -20,8 +20,6 @@ If that weren&#8217;t bad enough, production databases are often copied and used
 In this article I will present some questions that you should ask your engineers and database administrators. I won&#8217;t be supplying any answers just yet (this is a teaser article). So, start by asking:
 
   * Does your database use shared accounts to allow multiple individuals to connect to the database using a single account?
-[where can i buy periactin pills][1], [buy dapoxetine][2] 
-
   * Does your database use a single account to allow unfettered access by a single application or do various functions (read/write/admin) of the apps have their own accounts?
   * How are you protecting the data that is duplicated for use in QA or by engineers? How about for debugging?
   * When you copy data for use internally Is it being deidentified and cleaned first?
@@ -32,6 +30,3 @@ In this article I will present some questions that you should ask your engineers
   * Who can ping your database servers? Anyone or just particular servers?
 
 These are stimulation questions, not to be seen as a comprehensive checklist. After you&#8217;ve stimulated some thought, check back later for the next article in this series that will guide you in how to take those answers and create a stronger data fortress. In the next article I will present some solutions (some easy, some hard) for how to better protect data, especially from insiders who can do the most damage.
-
- [1]: https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/dapoxetine-modern-drug/

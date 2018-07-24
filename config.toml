@@ -332,11 +332,11 @@ theme = "airspace-hugo"
       weight = 2
       name = "Resources"
       url = "/thought-leadership/resources/"      
-  [[menu.header]]
-      weight = 8
-      name = "Blog"
-      url = "/blog"  
-      identifier = "blog"
+ # [[menu.header]]
+  #    weight = 8
+  #    name = "Blog"
+  #    url = "/blog"  
+  #    identifier = "blog"
       
 
   [[menu.social]]

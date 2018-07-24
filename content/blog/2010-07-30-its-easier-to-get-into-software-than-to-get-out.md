@@ -18,15 +18,14 @@ If you can&#8217;t answer the how, in 24 months, will I be able to move on to th
 When preparing an RFI or RFP, ask vendors specific questions about how easy it is to get out of their technology (rather than just how easy to it is to deploy and interoperate). Put in specific test cases and have your folks consider this fact when they are looking at all new purchases. Here are some specific factors to consider:
 
   * Do you own your data or does the vendor?
-  * Is the[database structure][1]and all data easily accessible to you without involving the vendor? If only your vendor can see the data, you&#8217;re locked in so be very wary.
+  * Is the [database structure][1]and all data easily accessible to you without involving the vendor? If only your vendor can see the data, you&#8217;re locked in so be very wary.
   * Are the [data formats][2] that the system uses to communicate with other vendors open? If not, you don&#8217;t own your data.
   * How much of the technology stack is based on industry standards? The more proprietary the tech, the more you&#8217;re locked in.
   * Are all the programming APIs open, documented, and available without paying royalties or license costs? If not, when you try to get out you&#8217;ll pay_dearly_.
-[dapoxetine buy][3], [cheap zithromax][4] </ul> 
+</ul> 
 
 If you have other considerations, share them here.
 
  [1]: http://www.health-itworld.com/newsitems/2006/march/03-16-06-commentary-data-models
  [2]: http://www.healthcareguy.com/index.php/archives/235
- [3]: https://pills24h.com/buy-dapoxetine-online-without-prescription/
- [4]: http://prestige-pharmacy.com/buy-zithromax-online/
+ 

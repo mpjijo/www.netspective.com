@@ -13,15 +13,15 @@ Identify specific problem areas
 
 Preparing for successful PCI audits requires time, resources and experience. Netspective™ Opsfolio® Audit for PCI is an on-demand consulting service. We designed it to help corporate compliance officers and legal teams prepare for and engage in PCI audits. Opsfolio Audit for PCI services:
 
-**Evaluate your data security infrastructure:** This task includes IT network and systems as well as security procedures, policies and best practices.
+* **Evaluate your data security infrastructure:** This task includes IT network and systems as well as security procedures, policies and best practices.
 
-**Perform a pre-audit risk assessment:** We test your system, processes, documentation and practices—before the auditor arrives
+* **Perform a pre-audit risk assessment:** We test your system, processes, documentation and practices—before the auditor arrives
 
-**Increase security awareness in your company:** This includes advice on training staff to improve security awareness. And, it gives all employees the knowledge and skills to meet current PCI standards and regulations.
+* **Increase security awareness in your company:** This includes advice on training staff to improve security awareness. And, it gives all employees the knowledge and skills to meet current PCI standards and regulations.
 
-**Prioritize security vulnerabilities:** Rank any security vulnerabilities by the impact they have on your organization’s operations and business goals.
+* **Prioritize security vulnerabilities:** Rank any security vulnerabilities by the impact they have on your organization’s operations and business goals.
 
-**Help manage audit preparations:** We can manage the PCI audit process or act as a consultant, giving advice on how to improve PCI compliance.
+* **Help manage audit preparations:** We can manage the PCI audit process or act as a consultant, giving advice on how to improve PCI compliance.
 
 
 The PCI audit process is complex and time-consuming. But correcting audit deficiencies will put an even bigger strain on your schedule and budget. To make sure you’re ready for a PCI audit, we assess your data security with:

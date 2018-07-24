@@ -22,8 +22,6 @@ Modernization often entails migration from legacy systems and determining ways t
 Most legacy environments are expensive in terms of both hardware infrastructure, as well as software license fees. The need to reduce this expense is a significant driver for many organizations to modernize their legacy systems. CIOs have multiple options for application modernization, including redevelopment of applications, divestiture, and outsourcing. Redevelopment of such complex applications to be at par with modern industry standards would be a monumental task in terms of the costs involved, and the time it would take to complete development. While divestiture may meet key business needs in many cases, they often do have limitations, and here again, the cost will be prohibitive. Outsourcing may not be an option open to the Federal CIO, and even if it is, it can have serious disadvantages including loss of quality and scheduling control. There are various other available options however, that can be examined as a means to modernizing existing technologies. These include Cloud Computing, Unified Communications, Services Oriented Architectures (SOA) and Virtualization, all of which can also contribute substantially to reducing overall costs.
 
 ##### Cloud Computing
-
-[doxycycline chlamydia][1], [purchase Zoloft][2]
   
 By using Cloud services government agencies can gain access to powerful technology resources faster and at lower costs. Government departments can save scarce resources for mission critical programs rather than spending it on purchasing, configuring and maintaining redundant IT infrastructure. Federal departments can significantly reduce their IT costs and complexities, optimize workload and improve service delivery by adopting Cloud Computing. It provides a way to increase capacity or add capabilities on the fly without investing in new infrastructure, training new personnel or licensing new software. Incorporating cloud computing into the data center consolidation plan can minimize the government&#8217;s carbon footprint, reduce IT fragmentation, improve resource utilization, and conserve electrical power and fuel.
 
@@ -58,8 +56,3 @@ Government agencies can expect to realize a number of benefits through moderniza
   * Improved application response times and data handling capabilities
 
 Legacy systems are an organization&#8217;s biggest assets. The amount of data that these systems have accumulated over the years is invaluable and irreplaceable. Many Federal organizations depend on legacy systems for day-to-day operations. Though most of these systems have become obsolete and unwieldy, doing away with them altogether will be like throwing the baby out with the bath water. It is not an economically viable option. What is required is to leverage existing investments in IT applications so as to be able to address changing business requirements with agility. Legacy modernization using options like Cloud Computing, Unified Communications, Services Oriented Architectures and Virtualization is the answer.
-
-&nbsp;
-
- [1]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ

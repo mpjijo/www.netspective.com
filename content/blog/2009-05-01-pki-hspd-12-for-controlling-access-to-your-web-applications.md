@@ -35,8 +35,6 @@ What&#8217;s slick about WebCullis is that it&#8217;s an IIS- and Apache-compati
   * Configurable to make the most of your infrastructure.
   * Configurations can be created centrally and pushed out using your existing management tools.
   * Much more. See the online developer&#8217;s reference for details.
-
-[periactin buy online][3], [acquire clomid][4]
   
 Webcullis provides a simple, secure and flexible solution for integrating your <span class="caps">PKI</span> and your web aplications. Webcullis Feature:
 
@@ -50,7 +48,4 @@ Webcullis provides a simple, secure and flexible solution for integrating your <
   * Webcullis trust roots are separate from the system trust roots, enabling server-side work-arounds for client-side bugs.
   * Access to resources may be controlled without configuring cumbersome mappings between certificates and system accounts on <span class="caps">IIS</span>.
 
- [1]: http://pkif.sourceforge.net
- [2]: http://pkif.sourceforge.net/webcullis.html
- [3]: https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/
- [4]: http://prestige-pharmacy.com/buy-clomid-online/
+ 

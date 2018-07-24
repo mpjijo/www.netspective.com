@@ -68,7 +68,7 @@ A fraudster gets a CERTIFICATE issued to himself/herself, with a domain name tha
 
 No. Since it would mean a sea change in the entire process of creating, issuing, distributing and identifying the certificates.
 
-**If one has implemented the DIGITIAL CERTIFICATE Technology, does that mean their IDENTITY cannot be compromised?** [priligy online][1], [buy lioresal][2] 
+**If one has implemented the DIGITIAL CERTIFICATE Technology, does that mean their IDENTITY cannot be compromised?**
 
 Well, one can make their own educated judgment based on the arguments presented in this article.
 
@@ -83,47 +83,3 @@ The reason why DIGITAL CERTIFICATE TECHNOLOGY is what it is today is because of 
   1. The fundamental tenet of securing any application is to uniquely, unambiguously and reliably identify the user of the application before authorizing and executing any action on the identified user&#8217;s behalf.
   2. Furthermore, any centralized and fully automated trust-building mechanism for capturing, storing and verifying the trust between essentially anonymous entities across wide spectra of businesses and geographies will come with inherent weaknesses they will be as secure as the weakest link in the security chain built around it.
 
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
-<!--Session data-->
-
- [1]: https://pills24h.com/buy-dapoxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-lioresal-baclofen/

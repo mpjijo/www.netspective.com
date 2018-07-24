@@ -14,12 +14,11 @@ As architects working on federal projects we spend a ton of time on security pra
 
 > The OpenFISMA project is an open source application designed to reduce the complexity and automate the regulatory requirements of the [Federal Information Security Management Act][2] (FISMA) and the National Institute of Standards and Technology (NIST) [Risk Management Framework][3] (RMF). 
 > 
-> OpenFISMA [order dapoxetine online cheap][4], [buy dapoxetine online][5] contains many of the NIST SP 800-53 security controls required for a FIPS-199 "high" impact information system. This helps you get your OpenFISMA instance authorized to operate quickly. The built-in controls include system use notification, rules of behavior, electronic privacy policy (p3p), and many, many more.
+> OpenFISMA contains many of the NIST SP 800-53 security controls required for a FIPS-199 "high" impact information system. This helps you get your OpenFISMA instance authorized to operate quickly. The built-in controls include system use notification, rules of behavior, electronic privacy policy (p3p), and many, many more.
 > 
 > OpenFISMA also contains a catalog of all NIST SP 800-53 Rev. 2 controls built-in. Findings in OpenFISMA can be matched against these security controls to provide supplemental information for remediation and planning. The catalog includes descriptions of the controls, scoping, and supplemental guidance.
 
  [1]: http://www.openfisma.org/
  [2]: http://en.wikipedia.org/wiki/Federal_Information_Security_Management_Act_of_2002
  [3]: http://csrc.nist.gov/groups/SMA/fisma/framework.html
- [4]: https://pills24h.com/buy-dapoxetine-online-without-prescription/
- [5]: http://prestige-pharmacy.com/dapoxetine-modern-drug/
+ 

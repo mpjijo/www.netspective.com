@@ -16,8 +16,6 @@ Virtualization will however, result in more traffic in the consolidated area. Ra
 ##### 10 GbE: The New Thing in Networking
 
 As virtualization efforts evolve, you run into networking challenges, and that&#8217;s the time you should begin to think about laying the groundwork for the adoption of 10 Gigabit Ethernet in the data center. The shift toward 10 Gigabit Ethernet means more than moving to a higher bandwidth. It means re-examining your entire network architecture. Higher thorough-put from the 10 Gigabit Ethernet switches allows you to connect server racks and top-of-rack switches directly to the core network, obviating the need for an aggregation layer. Now that high-speed network technologies like 10 Gigabit Ethernet have become widely available, several new solutions have been developed to consolidate network and storage I/O into small numbers of higher bandwidth connections.
-   
-[paroxetine 20 mg][1], [zithromax without prescription][2] 
 
 ##### How 10GbE Works
 
@@ -49,5 +47,4 @@ Here&#8217;s a run down on the benefits of a consolidated and virtualized 10 GbE
 
 With network traffic increasing inexorably by the day, Federal data center managers need to look for faster network technologies to solve increased bandwidth demands. 10 Gigabit Ethernet offers ten times faster performance than Gigabit Ethernet, allowing you to reach longer distances and support even more bandwidth hungry applications, making it the natural choice for expanding, extending, and upgrading existing Ethernet networks. 10 Gigabit Ethernet helps you get the best out of your virtualized environment.
 
- [1]: https://pills24h.com/buy-paroxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zithromax-online/
+ 

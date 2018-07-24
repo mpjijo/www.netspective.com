@@ -19,7 +19,7 @@ tags:
 
 **Abstract** On the internet there are 2 types of websites &#8211; ones that take sensitive information from you and ones that don&#8217;t. Online banking applications, shopping applications, stock-trading applications are examples of the former; while CNN, Google etc are examples of the latter. This article deals with the very real insecurities of working with applications of the former variety.
 
-<span style="text-decoration: underline;"><strong>How do you know that you are at an authentic website? </strong></span>_ <span style="text-decoration: underline;"><a href="https://pills24h.com/buy-dapoxetine-online-without-prescription/">dapoxetine no rx</a>, <a href="http://prestige-pharmacy.com/dapoxetine-modern-drug/">generic dapoxetine</a> <strong>What if you are not?</strong></span>_
+<span style="text-decoration: underline;"><strong>How do you know that you are at an authentic website? </strong></span>_ <span style="text-decoration: underline;"><strong>What if you are not?</strong></span>_
 
 Authenticating a website implicitly assumes you already know what to look for in the website, in order to establish the websites identity &#8211; which in turn implicitly assumes you know what constitutes the identity of a website. Let us define WEBSITE IDENTITY to be _a set of identifiers that can be authenticated to prove the identity of the website_. Currently, there are only 3 identifiers that constitute WEBSITE IDENTITY &#8211; (1) URL, (2) CONTENT, and (3) SSL/TLS CERTIFICATE. Furthermore, let us note that _&#8211; any kind of authentication of any identity mandatorily requires <span style="text-decoration: underline;"><strong>a priori knowledge</strong></span> of the identity information_.
 

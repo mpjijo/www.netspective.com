@@ -13,7 +13,7 @@ The [Agenda][1] for the [Cloud Computing Interoperability Workshop][2] on March 
 
 The Obama Administration in general and the new Federal CIO specifically have espoused the benefits of cloud computing in government. If you&#8217;re interested in cloud computing and how it might apply to your federal architecture environment, please plan on attending.
 
-If you&#8217;d like to propose contents, suggest questions that [order paxil][3], [online Zoloft][4] need to be answered, etc. please post them here and I will be happy to pass them along to the organizers.
+If you&#8217;d like to propose contents, suggest questions that need to be answered, etc. please post them here and I will be happy to pass them along to the organizers.
 
 <a href="http://www.omg.org/registration/dc/" target="_blank">Click here</a> to register. The agenda is as follows:
 

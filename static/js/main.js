@@ -111,8 +111,8 @@ $(document).ready(function(){
 	var url = window.location.search;
 	url = url.replace("?q=", ''); 
 	if(url == '1'){
-		document.getElementById("registerhead").innerHTML = "GET FREE DEMO";
-		document.getElementById('formtitle').value="GET FREE DEMO";
+		document.getElementById("registerhead").innerHTML = "Get a Free Consultation";
+		document.getElementById('formtitle').value="Get a Free Consultation";
 	}
 	else if(url == '2'){
 		document.getElementById("registerhead").innerHTML = "Get a Free Consultation Today";
@@ -148,8 +148,11 @@ $(document).ready(function(){
 			 if(email != ''){
 	          $('#email').css('display', 'none');
 	          return  true;  
-			 }
+ 		}
 
+    });
+    $('#resetform').on('click', function(){
+    	$("#registerform").trigger("reset");
     });
   
 

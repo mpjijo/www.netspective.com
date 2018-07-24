@@ -25,9 +25,8 @@ Some key paragraphs include:
 > 
 > What&#8217;s more, data suggest that investments have not yielded major improvements in the operational efficiency of government. A random sample of six US government agencies suggests that administrative costs have increased by 7 to 12 percent per year over the past decade. Nor has public perception of government efficiency improved. According to the Pew Research Center, the percentage of US citizens who agree that When something is run by the government, it is usually inefficient and wasteful has increased in recent years, from 53 percent in 2002 to 62 percent in 2007.3 
 
-They go on to talk about how the government websites can improve through new governance models and improving web capabilities. It&#8217;s a good article to check out. [buy doxycycline online cheap][3], [lioresal without prescription][4]
+They go on to talk about how the government websites can improve through new governance models and improving web capabilities. It&#8217;s a good article to check out. 
 
  [1]: http://www.mckinseyquarterly.com
  [2]: http://www.mckinseyquarterly.com/Public_Sector/Management/E-government_20_2408
- [3]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [4]: http://prestige-pharmacy.com/buy-lioresal-baclofen/
+ 

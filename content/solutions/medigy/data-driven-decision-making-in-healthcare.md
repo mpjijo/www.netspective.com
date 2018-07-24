@@ -20,11 +20,11 @@ section_icon_image: img/solutions/medigy/Data-Driven-Decision-Making.png
 
 Here are a few of the many ways to use Medigy in your healthcare system:
  
-* Ensure availability of clinical and support data. When you use Medigy, you make data easily available for clinical, academic research and benchmarking tasks. 
-* Reduce the rates of hospital acquired infections. Medigy can use the data collected at the point of care to perform real-time analysis to watch for early signs of infections and to prevent it from progressing. This can be used in pulmonolgy to prevent infections in the ICU and improving patient survival on ventilators. It can also be used in gastroentology and in neonatal units to prevent infections in the ICU. 
-* Prevent setbacks caused by sepsis. Analyze real-time data from EHRs and other data sources to target high-risk sepsis patients. With this data, physicians can correctly predict septic shocks before any major organs dysfunction. 
-* Prevent Hospital Readmissions. Use data to better understand why patients in your system are admitted back to the hospital. Then, use it to develop proactive care plans to prevent patients from returning. 
-* Improve post-discharge medical care. Medigy enables you to develop customized care plans for patients before discharge, track symptoms and conduct early interventions as needed. 
+* **Ensure availability of clinical and support data**. When you use Medigy, you make data easily available for clinical, academic research and benchmarking tasks. 
+* **Reduce the rates of hospital acquired infections**. Medigy can use the data collected at the point of care to perform real-time analysis to watch for early signs of infections and to prevent it from progressing. This can be used in pulmonolgy to prevent infections in the ICU and improving patient survival on ventilators. It can also be used in gastroentology and in neonatal units to prevent infections in the ICU. 
+* **Prevent setbacks caused by sepsis**. Analyze real-time data from EHRs and other data sources to target high-risk sepsis patients. With this data, physicians can correctly predict septic shocks before any major organs dysfunction. 
+* **Prevent Hospital Readmissions**. Use data to better understand why patients in your system are admitted back to the hospital. Then, use it to develop proactive care plans to prevent patients from returning. 
+* **Improve post-discharge medical care**. Medigy enables you to develop customized care plans for patients before discharge, track symptoms and conduct early interventions as needed. 
  
 
  <p> Medigy provides the platform, applications and services that you need to make use of your data to monitor and coordinate treatment of patients across different treatments, locations and healthcare systems </p>

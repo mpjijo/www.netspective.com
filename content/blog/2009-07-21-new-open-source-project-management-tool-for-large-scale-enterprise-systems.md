@@ -11,8 +11,6 @@ categories:
 ---
 I just ran across the new [Endeavour Software Project Management][1] solution; it seems to be a pretty feature-packed web-based open source package to manage the creation of large-scale enterprise systems. Unlike most large project management solutions that assume waterfall approaches, Endeavour&#8217;s designers understand that most modern applications are developed in an iterative and incremental development process and it supports agile processes by providing administration for software process artifacts, reports and collaboration among many different stakeholders. 
 
-It&#8217;s still quite rough around the edges but I think it&#8217;s a great start. [viagra online][2], [lioresal online][3]
+It&#8217;s still quite rough around the edges but I think it&#8217;s a great start. 
 
  [1]: http://endeavour-mgmt.sourceforge.net/
- [2]: https://pills24h.com/buy-viagra-online-without-prescription/
- [3]: http://prestige-pharmacy.com/buy-lioresal-baclofen/

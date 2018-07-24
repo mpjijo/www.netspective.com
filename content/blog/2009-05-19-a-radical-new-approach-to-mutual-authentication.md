@@ -64,7 +64,7 @@ The unit relative-identity data &#8211;
   1. must be _unique_ (no two relative-identities should have the same identity data)
   2. must be _tamper-proof_ (difficult to reconstruct and reproduce)
   3. must be _secret_ &#8211; wholly / partially (should not be communicated in full form during authentication; should be known only to the related entities)
-  4. must be used _simultaneously_ and _uniquely_ [dapoxetine for cheap][1], [acquire dapoxetine][2] , to identity all entities involved in the authentication transaction
+  4. must be used _simultaneously_ and _uniquely_ , to identity all entities involved in the authentication transaction
 
 Most of the prevalent conventional identity systems satisfy properties 1, 2 and 3 above. For example &#8211;
 

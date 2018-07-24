@@ -23,7 +23,7 @@ Properly developing and managing a statement of work can be challenging, but it 
 
 **Resource Allocation** &#8211; This section will identify the resources who will be engaged on the project, and what their designations will be. It will include brief resumes of key personnel and an organizational chart showing the reporting structure. It will identify the point of contact for interaction with the client. It will also spell out what portions of an assignment will be done onsite, and what will be performed offsite.
 
-[priligy for cheap][1], [purchase dapoxetine][2] **Roles and Responsibilities** Clarity regarding roles and responsibilities is essential for the successful completion of projects. The SOW must provide that clarity, leaving no room for passing the buck. Key areas that need to be addressed are people, technology and processes.
+**Roles and Responsibilities** Clarity regarding roles and responsibilities is essential for the successful completion of projects. The SOW must provide that clarity, leaving no room for passing the buck. Key areas that need to be addressed are people, technology and processes.
 
 **Implementation Steps and Effort Estimation** This section will define the specifics of the work plan to a level of detail that will help the client understand how the process will work. It will include key milestones and estimated timeframes for achieving them. It will prioritize the tasks to be completed and evaluate the effort required for each task, based on which cost allocation can be determined. Proper sequencing of tasks will help reduce unforeseen costs.
 
@@ -43,5 +43,3 @@ Properly developing and managing a statement of work can be challenging, but it 
 
 Following these simple guidelines while accepting a statement of work will minimize the risk of failure and help clients get the expected results from their projects.
 
- [1]: https://pills24h.com/buy-dapoxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/dapoxetine-modern-drug/

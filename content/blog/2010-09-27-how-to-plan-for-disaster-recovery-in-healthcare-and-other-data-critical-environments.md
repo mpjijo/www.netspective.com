@@ -46,8 +46,6 @@ Listed below are some of the data backup and recovery options currently availabl
 
   * Store the data in an all-disk environment, with the newest or regularly accessed data stored in higher-end disk storage devices, and unused or less critical data stored and archived in lower cost disk storage devices.
   * To ensure business continuity, replicate the data across different data centers so that if one data center goes down, the other data center kicks in with zero disruption.
-[zoloft for sale][1], [zithromax reviews][2] 
-
   * Protect your network from infiltration by subscribing to network security. Choose from the numerous security seals available online to perform standard and advanced audit of your system to keep it secure against hacking threats.
   * Ensure 24&#215;7 monitoring and management as well as onsite / remote troubleshooting.
   * Conduct regular disaster recovery drills and periodically test your disaster recovery plan
@@ -56,5 +54,4 @@ Listed below are some of the data backup and recovery options currently availabl
 
 A robust DR plan is like a healthcare plan which guarantees that you will come out fine in the end, should calamity strike. Bad choices can fritter away scarce dollars, risk regulatory compliance, and fail to deliver access to your backups when most needed. Simply put, not having a good DR plan in place is courting disaster.
 
- [1]: https://pills24h.com/buy-zoloft-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zithromax-online/
+ 

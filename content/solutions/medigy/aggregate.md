@@ -12,8 +12,9 @@ section_icon_image: img/solutions/medigy/Audit-Assess.png
 ![assement-process](/img/solutions/medigy/Consolidate-Aggregate-EHR-Data.jpg#center)
 
  
- * **Real-time Data Collector:** Real-time data collector collects context sensitive real time data. There are mainly two types of real time data collector agents</li>
- * **Care Coordination Agents / Plug-in for EMR:** The real time data collector agent(s) are installed in commercial EHRs where care is received. These agents pull the context–sensitive real time data from these systems and sends them to Medigy.</li>
+ * **Real-time Data Collector:** Real-time data collector collects context sensitive real time data. There are mainly two types of real time data collector agents
+ 	* **Care Coordination Agents / Plug-in for EMR:** The real time data collector agent(s) are installed in commercial EHRs where care is received. These agents pull the context–sensitive real time data from these systems and sends them to Medigy.
+ 	* **Care Coordination User Agent tool bars / extensions:** The user agents are similar to the Care Coordination agents but instead of installing it in the EMR applications, this will be installed in the browsers on machines.
  * **Non real time Data Collector:** The non real time data collector collects passive data such as Claims data, Health Information Exchange Data, Bio Informatics data, Clinical Data etc. This kind of data can be collected in batches through scheduled jobs and will be stored into Medigy for processing. These agents can be APIs, Information Exchange Hubs / interfaces etc. The data can be in different formats such as LOINC, SNOMED, RxNorms, NANDA, etc. 
  
 

@@ -16,7 +16,5 @@ Karen Evans sent out the new [OMB Memo 08-23 which requires secure DNS][1]. Agen
   
 > be deployed and operational by December 2009. The plan should follow recommendations in NIST Special Publication 800-81 Secure Domain Name System (DNS) Deployment Guide, and address the particular requirements described in NIST Special Publication 800-53r1 Recommended Security Controls for Federal Information Systems.
 
-<span style="color: #2b2b2b;">I do applaud the new requirement but it seems like having less than 15 months to make all this happen seems a little aggressive; I hope we all can pull it off. By pushing secure DNS at the government side the rest of the commercial sector might follow suit soon, too.</span>s://pills24h.com/buy-celebrex-online-without-prescription/&#8221;>celebrex online</a>, [Zoloft reviews][2]
+<span style="color: #2b2b2b;">I do applaud the new requirement but it seems like having less than 15 months to make all this happen seems a little aggressive; I hope we all can pull it off. By pushing secure DNS at the government side the rest of the commercial sector might follow suit soon, too.</span>
 
- [1]: http://www.whitehouse.gov/omb/memoranda/fy2008/m08-23.pdf
- [2]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ

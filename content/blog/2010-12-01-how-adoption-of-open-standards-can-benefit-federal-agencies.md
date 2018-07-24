@@ -33,8 +33,6 @@ Standards seek to ensure that:
 
   * Systems can be harmonized within and between organizations and across borders;
   * Different parties or entities can produce technologies that work together in order to foster mass adoption of those technologies by the community and to promote competition;
-[where to buy periactin appetite stimulant][1], [generic dapoxetine][2] 
-
   * New players can more easily enter existing markets and manufacture new technologies or products that work with existing technologies and products; and
   * Consumers and users can be instantly familiar and comfortable with new systems, products and emerging technologies.
 
@@ -77,6 +75,3 @@ Governments must find ways to support and extend the work of collaborative commu
 Open Standards are important to promote the wider adoption of standards and the corresponding development of interoperable and innovative technologies. There is often a degree of openness in the processes followed in the development of standards. However, it is the openness of the legal interests in standards namely, users rights to access, use and share the technology embodied by a standard and its documented specifications that is of fundamental importance in promoting interoperability and innovation.
 
 In moving towards Open Standards it is necessary that the legal rights and restrictions that apply to standards and standard specifications are properly managed. In particular, it is crucial that copyright and patent interests are clearly disclosed to all developers and users of standards from an early stage and that the terms upon which these interests are licensed are made clear.
-
- [1]: https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/dapoxetine-modern-drug/

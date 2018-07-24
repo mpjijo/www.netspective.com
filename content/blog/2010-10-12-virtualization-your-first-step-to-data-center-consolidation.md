@@ -25,8 +25,6 @@ Never has there been more pressure on Federal IT to deliver higher levels of ser
 Data center consolidation means more than merely combining servers. Detailed below are a number of other factors that go into it, all of which translate into an opportunity for reduced cost and greater manageability.
 
   * _**The problem of multiple physical locations**_: By reducing the number of physical locations of your data centers and combining their operations, you can substantially reduce cost overheads. While multiple data center locations used to be a way to meet the need for disaster recovery and business continuity, there are better ways to address those concerns now.
-[cheap paxil online][1], [buy Zoloft][2] 
-
   * _**Server consolidation:**_ This not only implies utilizing unused server capacity, but also analyzing the historical CPU and memory usage patterns of the applications running on them, and consolidating them in an intelligent way.
   * _**Infrastructure management:**_ This includes creating more efficient networks and better storage management. It also includes utilizing shared services to the extent possible.
   * _**Optimizing space and power utilization**_: This will result in a greener computing environment as well as in substantial cost savings.
@@ -61,6 +59,3 @@ Server virtualization can bring you a host of benefits, some of which are enumer
   * Virtualization allows you to deliver computing resources on demand, and seamlessly move data to any location on the fly.
 
 Federal agencies would do well to shift focus from merely maintaining their server farms and data centers on which about 70% of a typical IT budget is being spent today, and instead focus their attention on efficiency and innovation, and on improving the availability of their IT resources and applications through virtualization. They should look at building virtualized networks with the ability to scale across hundreds of interconnected physical computers and storage devices. This will not only result in enhanced performance, security and availability across the board, but also in the lowest TCO over the long term, and in saving billions of dollars of taxpayers money.
-
- [1]: https://pills24h.com/buy-paroxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ

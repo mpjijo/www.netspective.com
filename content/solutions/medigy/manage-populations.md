@@ -23,6 +23,7 @@ Medigy functions as an EHR add-on leveraging data to redesign care. It helps pow
  * **View user-friendly data visualizations** of all types of healthcare data. 
  * **Get a better understanding of patient healthcare costs.** You can compare patient or cohort costs of care with those of similar peers. And advanced data analysis can predict patients or cohorts, whose costs are likely to increase. 
  * **Track specific health goals** set by patients or physicians. 
+ * **Encourage patients to participate actively** in their healthcare plans.
  * **Coordinate patient healthcare.**  Medigy notifies healthcare providers of critical changes in patient condition in real time. With Medigy, you can reconcile medications during changes in care. Use Medigy to coordinate and implement clinical workflows and define the roles and responsibilities of physicians involved in the care plan. 
  * **Support pharmacy workflows.** Track and visualize medication use and trigger appropriate notifications. 
  * **Provide well-defined treatment plans,** which can be viewed by anyone engaged in treating the patient. Medigy provides the ability to override the defined protocols based on patient specific treatments. 

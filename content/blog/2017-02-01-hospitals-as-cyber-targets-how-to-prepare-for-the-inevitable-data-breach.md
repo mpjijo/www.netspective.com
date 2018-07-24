@@ -9,4 +9,6 @@ categories:
   - Cybersecurity
 
 ---
-<img width="300" height="200" src="https://media-news.healthcareguys.com/wp-content/uploads/2017/02/Hospitals__1485942289-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" srcset="https://media-news.healthcareguys.com/wp-content/uploads/2017/02/Hospitals__1485942289-300x200.jpg 300w, https://media-news.healthcareguys.com/wp-content/uploads/2017/02/Hospitals__1485942289-100x67.jpg 100w, https://media-news.healthcareguys.com/wp-content/uploads/2017/02/Hospitals__1485942289.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />In the last two years 89 percent of healthcare organizations suffered at least one data breach involving the loss or theft of patient data The question experts say is not if a hospital will be attacked but rather whenand how prepared its teams will be to mitigate damage.
+ ![assement-process](/blog/Hospitals__1485942289-300x200.jpg#center) 
+
+ In the last two years 89 percent of healthcare organizations suffered at least one data breach involving the loss or theft of patient data The question experts say is not if a hospital will be attacked but rather whenand how prepared its teams will be to mitigate damage.
