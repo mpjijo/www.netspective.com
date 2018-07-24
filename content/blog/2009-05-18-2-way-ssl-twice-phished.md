@@ -13,7 +13,7 @@ tags:
   - TLS
 
 ---
-[This thought paper is from <a title="Rel-Id Technologies Inc." href="http://www.rel-id.com" target="_blank">Rel-ID Technologies Inc.</a> &#8211; a <a title="Uniken" href="http://www.uniken.com" target="_blank">Uniken</a> venture]
+[This thought paper is from <a title="Rel-Id Technologies Inc." href="https://www.rel-id.com" target="_blank">Rel-ID Technologies Inc.</a> &#8211; a <a title="Uniken" href="https://www.uniken.com" target="_blank">Uniken</a> venture]
 
 **Authors** <a href="mailto://sanjay.deshpande@rel-id.com" target="_blank">Sanjay Deshpande</a>, <a href="mailto://pat.shankar@rel-id.com" target="_blank">Dr. Pat Shankar</a>, <a href="mailto://eashwar@rel-id.com" target="_blank">Eashwar Ganapathy</a>
 
@@ -55,8 +55,6 @@ The Secure Sockets Layer (SSL) and the Transport Layer Security (TLS) protocols 
 Although the SERVER has a DIGITAL CERTIFICATE which is used to establish a secure SSL connection with the CLIENT the CLIENT does not have any A PRIORI knowledge of this CERTIFICATE (public key). The SSL protocol only VERIFIES that the CERTIFICATE IS VALID and was issued by the valid CA (as per the contents of the certificate). The equivalent in real life would be to accept an ID card as valid simply because the card has not been tampered with although the person carrying the card may not be the same person you are trying to authenticate.
 
 Due to this flaw any application can claim to be the right or authentic SERVER to a CLIENT as long as it has a VALID certificate &#8211; the same argument can be extended if one is using a CLIENT CERTIFICATE as well (in case of 2-WAY SSL). If 1-WAY SSL protocol is a VERIFICATION protocol how can 2-WAY SSL protocol claim to eliminate the fundamental issues of AUTHENTICATION since a 2-WAY SSL PROTOCOL is equivalent to 2 instances of the same 1-WAY SSL VERIFICATION PROTOCOL implemented on both CLIENT and SERVER side.
-
-<img class="aligncenter size-full wp-image-111" src="http://www.federalarchitect.com/wp-content/uploads/2009/05/2-way-ssl-mitm.jpeg" alt="2-way-ssl-mitm" width="891" height="299" />
 
 **Have we missed something when it comes to using certificate technology as an identity system for IDENTIFYING WEBSITES?**
 

@@ -14,7 +14,7 @@ tags:
   - Security
 
 ---
-[This thought paper is from <a title="Rel-Id Technologies Inc." href="http://www.rel-id.com/" target="_blank">Rel-ID Technologies Inc.</a> &#8211; a <a title="Uniken" href="http://www.uniken.com/" target="_blank">Uniken</a> venture]
+[This thought paper is from <a title="Rel-Id Technologies Inc." href="https://www.rel-id.com/" target="_blank">Rel-ID Technologies Inc.</a> &#8211; a <a title="Uniken" href="https://www.uniken.com/" target="_blank">Uniken</a> venture]
 
 **Authors** <a href="mailto://sanjay.deshpande@rel-id.com" target="_blank">Sanjay Deshpande</a>, <a href="mailto://pat.shankar@rel-id.com" target="_blank">Dr. Pat Shankar</a>, <a href="mailto://eashwar@rel-id.com" target="_blank">Eashwar Ganapathy</a>
 
@@ -119,7 +119,6 @@ The REL-ID (relative identity) approach to authentication is to identify and aut
 Authenticating such a link would necessarily be mutual would ensure that all end-points are authenticated simultaneously, and makes the identity of every end-point relative to the other end-point(s) axiomatically.
 
 <div id="attachment_145" style="width: 537px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-145" src="http://www.federalarchitect.com/wp-content/uploads/2009/05/con-id.jpg" alt="Conventional Identity System" width="527" height="249" />
   
   <p class="wp-caption-text">
     Conventional Identity System
@@ -127,7 +126,6 @@ Authenticating such a link would necessarily be mutual would ensure that all end
 </div>
 
 <div id="attachment_146" style="width: 522px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-146" src="http://www.federalarchitect.com/wp-content/uploads/2009/05/rel-id.jpg" alt="Relative-Identity System" width="512" height="252" />
   
   <p class="wp-caption-text">
     Relative-Identity System
@@ -157,6 +155,3 @@ The set of identity representations and identification/authentication algorithms
 <!--Session data-->
 
 <!--Session data-->
-
- [1]: https://pills24h.com/buy-dapoxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/dapoxetine-modern-drug/
