@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "PInvite Respondents"
+title: "Invite Respondents"
 type: "attest-questionnaire"
 ---
 
