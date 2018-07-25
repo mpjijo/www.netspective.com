@@ -84,8 +84,8 @@ For all Netspective work performed by partners and subcontractors, please use th
             Replace with Alfresco soon
           </td>
           
-          <p>
-            <a href="https://pills24h.com/buy-zoloft-online-without-prescription/">zoloft tablets buy</a>, <a href="http://prestige-pharmacy.com/buy-zithromax-online/">cheap zithromax</a><br /> </tr> 
+          
+            </tr> 
             
             <tr>
               <td valign="top">

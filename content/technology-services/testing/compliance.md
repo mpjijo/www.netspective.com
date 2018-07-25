@@ -1,7 +1,9 @@
----
-title: Compliance
-type: page
----
++++
+title =  "Compliance"
+type =  "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "With limited availability of expertise and dedicated resources in the regulatory compliance space, most organizations are not able to keep up with the ever-changing compliance requirements. Additionally, the regulations across countries vary and so marketing products across geographies will need knowledge and implementation of these country specific regulations. As a result of the challenges involved  hellip"
++++
 With limited availability of expertise and dedicated resources in the regulatory compliance space, most organizations are not able to keep up with the ever-changing compliance requirements. Additionally, the regulations across countries vary and so marketing products across geographies will need knowledge and implementation of these country specific regulations. As a result of the challenges involved in complying with the regulations and industry standards like ARRA, HIPAA, HITECH and SOX, enterprises find it difficult to bring their products out into the market in a short period of time.
 
 

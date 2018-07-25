@@ -125,7 +125,7 @@ Now build the CAS war file:
     mvn -Dmaven.test.skip=true clean install
     
 
-It will take some time and after successful completion there created a war file (called cas.war) and can be found inside folder [doxycycline over the counter][2], [Zoloft withoutprescription][3] ./cas-server-webapp/target.
+It will take some time and after successful completion there created a war file (called cas.war) and can be found inside folder./cas-server-webapp/target.
   
 Copy the war file over to Tomcat distribution (from the build server to the production server). For example:
 
@@ -138,5 +138,3 @@ Restart Tomcat (this will unwar the cas.war file and install it into Tomcat):
     sudo -E /opt/tomcat/bin/catalina.sh start
 
  [1]: https://www.netspective.com/wp-content/uploads/2012/10/Netspective-CAS-Configuration-Files.zip
- [2]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [3]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ

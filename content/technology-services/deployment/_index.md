@@ -2,6 +2,10 @@
 title = "Deployment"
 type =  "page"
 layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective delivers robust and easily deployable solutions meeting the privacy, security and compliance mandates for healthcare &government organizations."
+
+
 +++
 In today’s competitive world, it is essential for enterprises to evaluate internal automation needs and market trends, to release new and innovative applications across various platforms based on these various demands. The best approach in delivering the solution to the end users is to have a simple but well-defined method of deploying a solution. In order to reduce the time to deploy and maximize returns on investments made towards the development of solutions, organizations need a well thought out deployment plan in place.Successful deployment roll-outs can be achieved with continuous improvement of processes and tools.
 

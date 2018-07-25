@@ -2,6 +2,8 @@
 title = "Sustenance"
 type = "page"
 layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective brings value to your organization by supporting integration with complex platforms,legacy transition of code and delivering quality products."
 +++
 Leading Healthcare, Government and Medical Technology firms have automated complex industry specific business processes by building IT applications. The solutions may have been developed using the best approaches and technologies that had existed at the time of its implementation and successfully deployed within the organizations. With time, more complexities may have been added to these systems by repeated integration of new functionality and adding plugins to support new technology. The additions and integrations over time resulted in a monolithic system talking to hundreds and hundreds of applications. These systems caused a sharp increase in support costs, decrease in quality due to constant bugs and user frustration.
 

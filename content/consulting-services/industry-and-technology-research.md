@@ -1,6 +1,8 @@
 +++
 title = "Industry and Technology Research"
 type  = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective offers excellent webinars and workshops, expertise in research and white paper development in the healthcare and medical technology space"
 +++
 
 Your company may offer the best possible solution available for the horizontal market you serve. But if you’d like to reach vertical industries and come across as thought leaders in those sectors, you need specialized expertise.

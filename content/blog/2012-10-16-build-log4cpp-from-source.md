@@ -38,8 +38,6 @@ Export the log4cpp path to the environment variable using following command
 
 ### Troubleshooting
 
-[order periactin][2], [clomid without prescription][3] 
-
 Constructor error in the Basiclayout.cpp
 
     add header file  include<memory> in src/BasicLayout.cpp.
@@ -55,5 +53,3 @@ Parsing error in the Patternlayout.cpp
         "component = new FormatModifierComponent(component, std::abs((float)minWidth), maxWidth, minWidth < 0);"
 
  [1]: http://sourceforge.net/projects/log4cpp/files/
- [2]: https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/
- [3]: http://prestige-pharmacy.com/buy-clomid-online/

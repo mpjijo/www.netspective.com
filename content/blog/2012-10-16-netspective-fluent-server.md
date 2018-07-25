@@ -351,8 +351,6 @@ Start the **temperature-monitor alarm** by passing the various options suffix to
 
 Example:
 
-[buy clonidine online][14], [generic dapoxetine][15] 
-
     ./temperature-sub-alarm --domain temp --device-id TEMP_LAB33 --log-info temp.info --log-data temp.alarm --log4cpp-conf ../src/c++/production/conf/simulation_log_temp_sub.conf
     
 
@@ -465,5 +463,3 @@ Note : If we are using hostname instead of ip-address make sure to have a name s
  [11]: https://www.netspective.com/knowledgebase/developer-sops/2012/10/16/build-websocket-legacy-from-source/
  [12]: https://www.netspective.com/knowledgebase/developer-sops/2012/10/16/build-mongodb-c-driver-from-source/
  [13]: https://www.netspective.com/knowledgebase/developer-sops/2012/10/16/build-fluent-from-source/
- [14]: https://pills24h.com/buy-clonidine-online-without-prescription/
- [15]: http://prestige-pharmacy.com/dapoxetine-modern-drug/

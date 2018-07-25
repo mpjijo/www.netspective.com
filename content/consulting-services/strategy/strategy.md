@@ -1,10 +1,10 @@
----
++++
 title: Strategy
 author: Jayakrishnan S
 type: page
 date: 2018-01-17T09:45:05+00:00
 slug: /consulting-services/strategy/
----
++++
 
 ### Changes in the Healthcare and Medical Technology Industry
 The US Healthcare and Medical Technology industry is experiencing unprecedented change amid growing concerns of regulations, compliance, increasing costs, and quality of service. The stakeholders are numerous and keeping everyone happy is challenging and overwhelming.

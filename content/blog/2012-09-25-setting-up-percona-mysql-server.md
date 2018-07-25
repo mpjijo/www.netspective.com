@@ -31,8 +31,3 @@ Ref:<http://www.percona.com/doc/percona-server/5.5/installation.html>
 We can generate initial mysql configuration file (my.cnf) through the following link
   
 <https://tools.percona.com/wizard>
-
-[buy paxil][1], [purchase clomid][2]
-
- [1]: https://pills24h.com/buy-paroxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-clomid-online/

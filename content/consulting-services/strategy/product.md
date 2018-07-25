@@ -1,7 +1,9 @@
----
-title: Product
-type: page
----
++++
+title = "Product"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective provides product portfolio rationalization, product management and product development process consulting."
++++
 
 Medical devices and applications firms today have an opportunity to radically transform their business in the next five years. The growth is expected to be exponential in the U.S., European and emerging markets.This provides an opportunity for Medical Technology firms to re-look at their product portfolio and develop a product and platform strategy that provides for long term and sustained growth on a global scale.
 

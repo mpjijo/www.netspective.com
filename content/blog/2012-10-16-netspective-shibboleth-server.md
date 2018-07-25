@@ -75,7 +75,7 @@ Uncomment locally maintained metadata and file name changed to idp-metadata.xml
         <MetadataProvider type="XML" file="idp-metadata.xml"/>
     
 
-Once youa��ve actually configured the SP with its own settings and metadata from at least one IdP, in order to check that the SP is working. Protect a directory by requiring a Shibboleth session. Usually, this is already done by default for the location /secure.
+Once you've actually configured the SP with its own settings and metadata from at least one IdP, in order to check that the SP is working. Protect a directory by requiring a Shibboleth session. Usually, this is already done by default for the location /secure.
 
 #### Shibboleth IDP and SP on same server.
 
@@ -88,9 +88,6 @@ Please follow below steps while using JkMount directive to assign specific URLs 
 Open mod_jk.conf in apache server.
 
     vi /etc/httpd/conf.d/mod_jk.conf
-    
-
-[celebrex buy online][3], [dapoxetine without prescription][4] 
 
 Copy and paste below lines at the end of file.
 
@@ -146,5 +143,4 @@ After successful authentication you will access the resource.
 
  [1]: https://www.netspective.com/knowledgebase/it-infrastructure-sops/2012/09/25/setting-up-shibboleth-idp-server/
  [2]: #
- [3]: https://pills24h.com/buy-celebrex-online-without-prescription/
- [4]: http://prestige-pharmacy.com/dapoxetine-modern-drug/
+ 

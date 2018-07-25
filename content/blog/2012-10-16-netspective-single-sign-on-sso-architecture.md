@@ -96,10 +96,6 @@ categories:
               <p align="justify">
                 <span style="color: #010101; font-family: 'Times New Roman';">ActiveCollab</span>
               </p>
-              
-              <p>
-                <a href="https://pills24h.com/buy-zoloft-online-without-prescription/">zoloft tablets buy</a>, <a href="http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ">purchase Zoloft</a>
-              </p>
             </div>
           </li>
           

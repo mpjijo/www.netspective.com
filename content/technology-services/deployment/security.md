@@ -1,7 +1,9 @@
----
-title: Security
-type: page
----
++++
+title = "Security"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Enterprises in the Healthcare, Government and Medical Technology industries have a tricky path to walk if they want to maintain their IT or product security. They must create or incorporate new features and technology to provide better customer experience and also respond proactively to security and privacy threats, all while complying with changing regulatory requirements.hellip"
++++
 Enterprises in the Healthcare, Government and Medical Technology industries have a tricky path to walk if they want to maintain their IT or product security. They must create or incorporate new features and technology to provide better customer experience and also respond proactively to security and privacy threats, all while complying with changing regulatory requirements. Enterprises must identify, characterize and neutralize threats before critical systems are compromised and that means continuous monitoring, assessment and quick responses to threats.
 
 Another important factor that has become an indispensable part of networked and distributed information sharing environment is IA (Information Assurance). IA offers greater confidentiality, integrity, availability, authentication and verified sharing of transactions, systems and data. When conducted thoroughly, the IA process covers computers, processors and devices as well as environments (operating in a prototype, test bed, stand-alone, integrated, embedded, or networked configuration) that store, process, access, or transmit data.

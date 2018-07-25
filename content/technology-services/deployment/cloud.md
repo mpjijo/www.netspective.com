@@ -1,7 +1,9 @@
----
-title: Cloud
-type: page
----
++++
+title = "Cloud"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective uses the power of clouds to bring greater scalability, reduced risk, total disaster recovery and impressive up-times to organizations."
++++
 ### Clouds: Driving Down Computing Costs
 
 Cloud computing has made quite a stir in the technology industry. Offering a new massively scalable implementation model, cloud computing significantly reduces IT and product costs, optimizes system workload and improves application service delivery for end users and customers. Enterprises in the Healthcare, Government and Medical technology industries are excited by the new dimension available with cloud models, especially the ability to add capabilities without investing in new infrastructure.

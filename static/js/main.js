@@ -126,7 +126,7 @@ $(document).ready(function(){
 		document.getElementById("registerhead").innerHTML = "Get a Free Basic Risk Assessment Today";
 		document.getElementById('formtitle').value ="Get a Free Basic Risk Assessment Today";
 	}
-    $('#registerform').submit(function(e) {
+    $('#signup').on('click', function(e){
     	
          var first_name = $('#firstname').val();
          var email = $('#emailaddress').val();
@@ -151,8 +151,19 @@ $(document).ready(function(){
  		}
 
     });
-    $('#resetform').on('click', function(){
-    	$("#registerform").trigger("reset");
+    $('#resetform').on('click', function(e){
+    	 $('#firstname').val('');
+    	 $('#emailaddress').val('');
+    	 $('#job_title').val('');
+    	 $('#organization').val('');
+    	 $('#address').val('');
+    	 $('#country').val('');
+    	 $('#postalcode').val('');
+    	 $('#phonenumber').val('');
+    	 $('#remarks').val('');
+    	 $('#name').css('display', 'none');
+    	 $('#email').css('display', 'none');
+    	 e.preventDefault();
     });
   
 

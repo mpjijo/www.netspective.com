@@ -10,7 +10,7 @@ categories:
 ---
 ### Prerequisite
 
-[buy paroxetine online uk][1], [Zoloft reviews][2] [Setting up Java][3]. Minimum required version is 6.
+[Setting up Java][3]. Minimum required version is 6.
 
 ### Download and Install
 
@@ -105,9 +105,6 @@ Start ElasticSearch
 Use the following command to stop ElasticSearch
 
     sudo /etc/init.d/elasticsearch stop
-
- [1]: https://pills24h.com/buy-paroxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ
  [3]: https://www.netspective.com/setting-up-java/
  [4]: http://www.elasticsearch.org/download/
  [5]: http://www.elasticsearch.org/guide/reference/setup/configuration.html

@@ -21,11 +21,7 @@ categories:
         </li>
         <li>
           <span style="color: #010101;"><strong>dpkg-reconfigure ldap-auth-config</strong><span> </span> ##</span><span style="color: #010101;">If you need to reconfigure ldap settings again run the following command</span>
-        </li>
-        <p>
-          <a href="https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/">periactin weight gain before and after</a>, <a href="http://prestige-pharmacy.com/dapoxetine-modern-drug/">dapoxetine without prescription</a>
-        </p>
-        
+        </li>        
         <li>
           <span style="color: #010101;"><strong>auth-client-config -t nss -p lac_ldap</strong><span> </span>##To c</span><span style="color: #010101;">onfigure LDAP profile for NSS</span>
         </li>
@@ -76,5 +72,3 @@ categories:
     </div>
   </div>
 </div>
-
-&nbsp;

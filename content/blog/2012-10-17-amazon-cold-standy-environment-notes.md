@@ -27,14 +27,9 @@ Amazon EC2 manually created replica of R (normally shutdown)
     <div>
     </div>
     
-    <p>
-      <a href="https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/">periactin side effects</a>, <a href="http://prestige-pharmacy.com/dapoxetine-modern-drug/">purchase dapoxetine</a>
-    </p>
-    
     <div>
       MySQL Replication: R -> SVM or (R -> EC2 MySQL direct)
     </div>
   </div>
 </div>
 
-&nbsp;

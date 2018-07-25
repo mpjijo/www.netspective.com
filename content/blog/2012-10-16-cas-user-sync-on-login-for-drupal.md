@@ -648,8 +648,7 @@ categories:
                       <span style="font-family: 'Times New Roman';"><span style="font-size: 12pt;">Yes (Diff with Group)</span></span>
                     </div>
                     
-                    <p>
-                      <a href="https://pills24h.com/buy-paroxetine-online-without-prescription/">buy paroxetine</a>, <a href="http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ">Zoloft withoutprescription</a> </td> 
+                </td> 
                       
                       <td valign="top">
                         <span style="border-collapse: separate; color: #000000; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium;"><span style="border-collapse: collapse; color: #ff0000; font-family: 'Times New Roman'; font-size: 16px; text-align: -webkit-center;">Access drupal with LDAP group as role and existing drupal role will be deleted.</span></span>

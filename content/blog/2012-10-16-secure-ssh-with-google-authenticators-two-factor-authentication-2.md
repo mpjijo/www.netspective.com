@@ -46,13 +46,13 @@ Download and install the application.
 
 While executing the application it will ask for secret key.
 
- [[clonidine online][1], [buy clomid online][2] <img title="Image" src="https://www.netspective.com/wp-content/uploads/2012/10/Image.png" alt="" width="288" height="457" />][3]
+ ![newrelic](/blog/Image.png#left) 
 
 Then you will getting the verification codes and you&#8217;ll now have a constantly changing verification code on your phone.
 
 Windows Operating System:
 
-Execute the exe file[<img class="alignnone size-full wp-image-60433" title="0aa156f6a108d1bbf97837a21fed5cc6" src="https://www.netspective.com/wp-content/uploads/2012/10/0aa156f6a108d1bbf97837a21fed5cc6.png" alt="" width="174" height="52" />][4]
+Execute the exe file ![newrelic](/blog/0aa156f6a108d1bbf97837a21fed5cc6.png#center) 
 
 After running the program and a little padlock icon appears in the system tray. The context menu lets you enter your secret key.
 

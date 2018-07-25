@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{{ partial "head.html" . }}
+</head>
+<body>
+
+	{{ partial "header.html" . }}
+
+<!-- 	{{ partial "global-header.html" .Site.Params.blog }}
+ -->
+	<div class="post">	  
+	    <section id="intro" style="border: 1px dotted #ddd;">
+		    <div class="container">
+		        <div class="row">
+		        	<div class="post-area-title page-title">
+		        		<p>The page you are looking for can't be found</p>
+		        		<h1>404 - Page Not Found</h1>
+		            </div>		      
+				</div>
+			</div>
+        </section>
+	</div>
+
+	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
+		{{ partial "call-to-action.html" . }}
+	{{ end }}
+
+	{{ partial "footer.html" . }}
+
+</body>
+</html>

@@ -1,7 +1,8 @@
----
-title: Events
-type: page
----
++++
+title = "Events"
+type = "page"
+Keywords = "Medical Technology, Healthcare & Government IT"
++++
 
 Upcoming Speaking Events | Past Speaking Events
 ------------ | -------------

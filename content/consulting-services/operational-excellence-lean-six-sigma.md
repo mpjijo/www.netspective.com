@@ -1,7 +1,9 @@
----
-title: Operational Excellence with Lean Six Sigma
-type: page
----
++++
+title = "Operational Excellence with Lean Six Sigma"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective Lean Six Sigma OE Package Identification, Assessment and Training Planning and Implementation Process Improvement"
++++
 
 ### Process Improvement using Lean Six Sigma
 ![Netspective-Lean-Six-Sigma-OE-Package](/img/consulting-services/Netspective-Lean-Six-Sigma-OE-Package.jpg#right)

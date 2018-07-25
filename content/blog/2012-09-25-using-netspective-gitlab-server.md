@@ -24,15 +24,15 @@ Of course there are many projects that don&#8217;t have direct coding tasks &#82
 
   * Read 
       * Git Best Practices 
-          * <http://sethrobertson.github.com/GitBestPractices/>
+          * <https://sethrobertson.github.com/GitBestPractices/>
       * Keep commits small, logical, and specific to a single task; commit early and commit often, document commit messages really well. In CVS, Subversion, and other revision control systems larger commits are encouraged but don&#8217;t do that in Git.
       * Group multiple commits into a push at regular intervals when it won&#8217;t break someone else&#8217;s code
-      * See this for an example of good messages, commits, and pushes: http://rcs.cm.netspective.com/bfelob-oge-findiscnonpas/commits
+      * See this for an example of good messages, commits, and pushes: https://rcs.cm.netspective.com/bfelob-oge-findiscnonpas/commits
       * Some other guidelines to review: 
-          * <http://www.lullabot.com/articles/git-best-practices-workflow-guidelines>
+          * <https://www.lullabot.com/articles/git-best-practices-workflow-guidelines>
           * <https://wiki.duraspace.org/display/FCREPO/Git+Guidelines+and+Best+Practices>
     
-      * Probably need [where to buy doxycycline][1], [zithromax reviews][2] to create a Netspective blog post about this
+      * Probably need to create a Netspective blog post about this
 
 ### Project Naming Conventions
 
@@ -46,7 +46,7 @@ Of course there are many projects that don&#8217;t have direct coding tasks &#82
 
 Be sure to set both the Project name and the advanced settings. Take your time naming projects.
 
-<img src="https://www.netspective.com/wp-content/uploads/2012/09/naming-projects.png" alt="" title="naming-projects" width="700" height="392" class="alignnone size-full wp-image-55042" />
+![naming-projects](/blog/naming-projects.png#center) 
 
 ### Migrating private GitHub repositories to Netspective GitLab server
 
@@ -94,6 +94,4 @@ export NEW\_REPO\_URL=**newrepo**
     git remote add origin $NEW_REPO_URL
     git push -u origin master
 
- [1]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zithromax-online/
  [3]: https://help.github.com/articles/splitting-a-subpath-out-into-a-new-repo

@@ -1,8 +1,9 @@
----
-title: Medical Technology
-type: page
++++
+title = "Medical Technology"
+type = "page"
+description = "Netspective pioneers in bringing exceptional solutions for the Medical Technology industry in both the applications and device segments."
 
----
++++
 The Medical Technology applications and devices space has been one of the fastest growing segments of the global health and wellness industry. However, this industry has been facing serious headwinds lately in trying to maintain profitable and sustained growth. The emerging markets for existing low-end products to new market segments like home based devices and advanced sensor based diagnosis and monitoring solutions bring new opportunities and avenues for growth.
 
 The challenges faced today by both software application vendors and medical device manufacturers in the Medical Technology industry are about understanding the dramatically changing regulatory environments, the impacts of new initiatives like ACA, ACO and mHealth and what it means to their business. They would also need to be able to compete with start-ups by making use of new technologies and finding out innovative ways of delivering healthcare to providers and patients. These challenges pose a threat for revenue growth, increase operating costs and result in higher investments with delayed ROIs. The vendors and manufacturers also need to put up with pressure from clients to support integration, provide open source solutions and change business models from licensing / product sales to service models.

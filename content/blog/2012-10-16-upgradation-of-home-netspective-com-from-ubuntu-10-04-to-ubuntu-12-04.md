@@ -18,28 +18,28 @@ categories:
           Create a new server home2.netspective.com with Ubuntu 12.04
         </li>
         <li>
-          <a style="color: #69aa35;" href="https://www.netspective.com/knowledgebase/it-infrastructure-sops/secure-sops/2012/10/17/setting-up-a-base-ubuntu-server/">Setting up a Base Ubuntu Server</a>A� To follow NetspectiveA�A�standard security
+          <a style="color: #69aa35;" href="https://www.netspective.com/knowledgebase/it-infrastructure-sops/secure-sops/2012/10/17/setting-up-a-base-ubuntu-server/">Setting up a Base Ubuntu Server</a>To follow Netspective standard security
         </li>
         <li>
-          <a href="https://www.netspective.com/knowledgebase/it-infrastructure-sops/secure-sops/2012/10/17/netspective-vlan/"><span style="color: #69aa35;">Netspective VLAN</span>A�</a>Implement firewall rules for netspective VLAN through ufw
+          <a href="https://www.netspective.com/knowledgebase/it-infrastructure-sops/secure-sops/2012/10/17/netspective-vlan/"><span style="color: #69aa35;">Netspective VLAN</span></a>Implement firewall rules for netspective VLAN through ufw
         </li>
         <li>
-          <a href="www.netspective.citrusdev.com/knowledgebase/it-infrastructure-sops/secure-sops/2012/10/17/how-to-enable-ldap-authentication-in-ubuntu-server/"><span style="color: #69aa35;">How to enable LDAP authentication in Ubuntu server</span>A�</a>Enable LDAP Authentication
+          <a href="www.netspective.citrusdev.com/knowledgebase/it-infrastructure-sops/secure-sops/2012/10/17/how-to-enable-ldap-authentication-in-ubuntu-server/"><span style="color: #69aa35;">How to enable LDAP authentication in Ubuntu server</span></a>Enable LDAP Authentication
         </li>
         <li>
           Install Nginx webserver with php-fpm.
         </li>
         <li>
-          Copy all configuration files from current home.netspective.com server to new A�home2.netspective.com.
+          Copy all configuration files from current home.netspective.com server to new home2.netspective.com.
         </li>
         <li>
           In php server and on other servers update all configuration files to reflect the new server IP.
         </li>
         <li>
-          Rename current server to retired.home.netspective.com and home2.netspective.com server to A�home.netspective.com
+          Rename current server to retired.home.netspective.com and home2.netspective.com server to home.netspective.com
         </li>
         <li>
-          Update the DNS of A�home.netspective.com to new server IP.
+          Update the DNS of home.netspective.com to new server IP.
         </li>
         <li>
           Turn off retired.mysql.rdbms server but don&#8217;t delete it
@@ -50,7 +50,7 @@ categories:
               Do one final migration of files from old server to new server.
             </li>
             <li>
-              delete A�retired.home.netspective.com
+              delete retired.home.netspective.com
             </li>
           </ol>
         </li>
@@ -58,8 +58,3 @@ categories:
     </div>
   </div>
 </div>
-
-[doxycycline monohydrate chlamydia][1], [acquire zithromax][2]
-
- [1]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zithromax-online/

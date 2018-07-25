@@ -54,10 +54,5 @@ Start/Stop/Restart Apache using following command
 
 ## Delete database
 
-[cheap dapoxetine online][1], [order dapoxetine][2] 
-
     mysql -u root -p
     drop database <database name>
-
- [1]: https://pills24h.com/buy-dapoxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/dapoxetine-modern-drug/

@@ -1,7 +1,9 @@
----
-title: Technology
-type: page
----
++++
+title = "Technology"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "With more than 15 years of experience delivering cutting edge solutions, Netspective can help you choose a technology strategy that is right for you"
++++
 
 The pace of technology change in Healthcare and Medical Technology firms is at its highest now and continues to grow. Successful companies are consistently enhancing their technology strategy by either building new ones or improving their existing strategies or integration as part of M&A. Organizations regularly seek validation of their technology implementations or look for help to bring in new ideas, skills and capabilities that ensures return on their short and long term investments in technology.
 

@@ -111,7 +111,7 @@ categories:
       </p>
       
       <p>
-        <strong>Shibboleth IdP and SP Installation and Configuration:</strong> <a href="https://pills24h.com/buy-clonidine-online-without-prescription/">price of clonidine</a>, <a href="http://prestige-pharmacy.com/dapoxetine-modern-drug/">acquire dapoxetine</a>
+        <strong>Shibboleth IdP and SP Installation and Configuration:</strong> 
       </p>
     </div>
     

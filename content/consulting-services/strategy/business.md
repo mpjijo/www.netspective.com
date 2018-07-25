@@ -1,7 +1,9 @@
----
-title: Business
-type: page
----
++++
+title =  "Business"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective's business strategies in healthcare and medical technology helps clients prepare for legislative, regulatory, technology and market changes"
++++
 
 Business operations in Healthcare and Medical Technology firms are faced with a dire need for financial, operational and clinical performance improvement and optimization. The most successful way to analyze business performance and plan for improvement is by considering 3 essential components: people, process, and technology. Combining and optimizing these 3 components improves financial, operational and clinical performance. Many of the existing processes are not suitable for today’s fast paced and technology centric environments. New businesses, regulatory and partnership models tend to cause a lack of alignment between the process and technology components. Understanding and optimizing these can allow enterprises to enable its employees with new tools to achieve the following 3 major performance goals for every organization.
 

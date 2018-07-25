@@ -10,15 +10,15 @@ categories:
 ---
 **Step 1: Click on Profile**
 
-[<img class="alignnone size-full wp-image-63848" title="1" src="https://www.netspective.com/wp-content/uploads/2012/11/1.png" alt="" width="748" height="493" srcset="https://www.netspective.com/wp-content/uploads/2012/11/1.png 748w, https://www.netspective.com/wp-content/uploads/2012/11/1-300x197.png 300w" sizes="(max-width: 748px) 100vw, 748px" />][1]
+![assement-process](/blog/1.png#center) 
 
 **Step 2: Google Authenticator Settings**
 
-[<img class="alignnone size-full wp-image-63849" title="2" src="https://www.netspective.com/wp-content/uploads/2012/11/2.png" alt="" width="1063" height="370" srcset="https://www.netspective.com/wp-content/uploads/2012/11/2.png 1063w, https://www.netspective.com/wp-content/uploads/2012/11/2-300x104.png 300w, https://www.netspective.com/wp-content/uploads/2012/11/2-1024x356.png 1024w" sizes="(max-width: 1063px) 100vw, 1063px" />][2]
+![assement-process](/blog/2.png#center) 
 
 **Step 3:**
 
-[<img class="alignnone size-full wp-image-63850" title="3" src="https://www.netspective.com/wp-content/uploads/2012/11/3.png" alt="" width="706" height="607" srcset="https://www.netspective.com/wp-content/uploads/2012/11/3.png 706w, https://www.netspective.com/wp-content/uploads/2012/11/3-300x257.png 300w" sizes="(max-width: 706px) 100vw, 706px" />][3]
+![assement-process](/blog/3.png#center) 
 
 **Step 4:**
 
@@ -32,19 +32,19 @@ _**Admin area**_
 
 To reactivate the Google authenticator option for the requested user.
 
-[<img class="alignnone size-full wp-image-63851" title="5" src="https://www.netspective.com/wp-content/uploads/2012/11/5.png" alt="" width="644" height="498" srcset="https://www.netspective.com/wp-content/uploads/2012/11/5.png 644w, https://www.netspective.com/wp-content/uploads/2012/11/5-300x231.png 300w" sizes="(max-width: 644px) 100vw, 644px" />][4]
+![assement-process](/blog/51.png#center) 
 
 **Step 2:**
 
 Edit the user for which you want to reactivate.
 
-[<img class="alignnone size-full wp-image-63852" title="51" src="https://www.netspective.com/wp-content/uploads/2012/11/51.png" alt="" width="275" height="477" />][5] 
+![assement-process](/blog/5.png#center) 
 
 **Step 3:**
 
 Now the user can again generate new Google Authenticator Secret key.
 
-[<img class="alignnone size-full wp-image-63853" title="53" src="https://www.netspective.com/wp-content/uploads/2012/11/53.png" alt="" width="539" height="174" srcset="https://www.netspective.com/wp-content/uploads/2012/11/53.png 539w, https://www.netspective.com/wp-content/uploads/2012/11/53-300x96.png 300w" sizes="(max-width: 539px) 100vw, 539px" />][6]
+![assement-process](/blog/53.png#center) 
 
  [1]: https://www.netspective.com/wp-content/uploads/2012/11/1.png
  [2]: https://www.netspective.com/wp-content/uploads/2012/11/2.png

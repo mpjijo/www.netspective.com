@@ -18,5 +18,5 @@ for ubuntu,
 
 for CentOS,
 
-<pre><a href="https://pills24h.com/buy-dapoxetine-online-without-prescription/">dapoxetine for sale</a>, <a href="http://prestige-pharmacy.com/buy-zithromax-online/">purchase zithromax</a> <code>sudo rpm -ihv http://wwws.appfirst.com/packages/initial/5892/appfirst-x86_64.rpm
+<pre><code>sudo rpm -ihv http://wwws.appfirst.com/packages/initial/5892/appfirst-x86_64.rpm
 </code></pre>

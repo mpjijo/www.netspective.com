@@ -10,7 +10,7 @@ categories:
 ---
 PWM is an open source password self service application for LDAP directories.
   
-You [periactin buy online][1], [acquire clomid][2] should not build PWM on a production server. Build it on an configuration management server of some sort.
+You should not build PWM on a production server. Build it on an configuration management server of some sort.
 
 ## Prerequisites
 
@@ -155,8 +155,7 @@ If you wish to make changes after locking, you will need to have access to the /
 
 For theme modifications you can refer to this document [https://github.com/netspective/operations/blob/master/configuration/server/sso/documents/pwm\_theme\_modifications.md]()
 
- [1]: https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-clomid-online/
+
  [3]: https://www.netspective.com/knowledgebase/it-infrastructure-sops/2012/09/25/setting-up-java/
  [4]: https://www.netspective.com/knowledgebase/it-infrastructure-sops/2012/09/25/setting-up-apache-tomcat/
  [5]: https://www.netspective.com/knowledgebase/it-infrastructure-sops/2012/09/25/setting-up-github-keys/

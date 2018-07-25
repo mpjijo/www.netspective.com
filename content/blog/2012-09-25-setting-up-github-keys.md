@@ -12,7 +12,7 @@ categories:
 
 All our code is managed in Git so we need to setup our repository keys:
 
-<pre><a href="https://pills24h.com/buy-paroxetine-online-without-prescription/">paxil side effects</a>, <a href="http://prestige-pharmacy.com/buy-clomid-online/">acquire clomid</a> <code>cd $HOME && ssh-keygen -t rsa 
+<pre><code>cd $HOME && ssh-keygen -t rsa 
 vi .ssh/id_rsa.pub
 </code></pre>
 

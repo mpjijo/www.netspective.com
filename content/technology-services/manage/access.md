@@ -1,7 +1,10 @@
----
-title: Access
-type: page
----
++++
+title = "Access"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Business collaboration online is here to stay, but keeping it secure is an ongoing challenge. As identity thieves grow more sophisticated and regulators begin to demand tighter controls standard access management solutions based on ID provisioning have fallen behind. Healthcare, Government and Medical Technology Industries today need sophisticated solutions in place as they adopt hellip"
++++
+
 Business collaboration online is here to stay, but keeping it secure is an ongoing challenge. As identity thieves grow more sophisticated and regulators begin to demand tighter controls — standard access management solutions based on ID provisioning have fallen behind. Healthcare, Government and Medical Technology Industries today need sophisticated solutions in place as they adopt technology for process automation, information and workflow integration between organizations and provide better services and solutions to their customer base.
 
 When using last-gen ID provisioning systems, enterprises have been forced to patch together fragmented, overlapping access and authorization mechanisms into an awkward mix. This mix of technologies creates headaches for everyone who uses it. For one thing, it makes it hard for employees, customers and partners to get access to the systems they use. Worse, these patchwork systems may be less secure than you think.

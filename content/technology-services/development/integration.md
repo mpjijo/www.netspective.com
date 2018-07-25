@@ -1,7 +1,9 @@
----
-title: Integration
-type: page
----
++++
+title = "Integration"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "In the healthcare industry, the integration among the disparate Healthcare delivery systems has been a challenge for some time now. Devices such as the vital sign monitors and infusion pumps use custom protocols that are not designed for interoperability. The want of mandatory standards for these systems result in critical medical information being lost or hellip"
++++
 In the healthcare industry, the integration among the disparate Healthcare delivery systems has been a challenge for some time now. Devices such as the vital sign monitors and infusion pumps use custom protocols that are not designed for interoperability. The want of mandatory standards for these systems result in critical medical information being lost or inaccessible from these systems. Most importantly, the information is not available to the physicians real-time.
 
 The government segment faces a lot of challenges today with poorly architected and rigid systems that hinder the integration of information. The right information needs to be available at the right time in order to make proper decisions and serve the public better.

@@ -50,9 +50,5 @@ Run the following command to make sure, rails was installed properly.
 
     rails -v
     
-
-[order periactin online cheap][2], [order dapoxetine][3]
-
- [1]: https://www.netspective.com/setting-up-ruby/
- [2]: https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/
- [3]: http://prestige-pharmacy.com/dapoxetine-modern-drug/
+[1]: https://www.netspective.com/setting-up-ruby/
+ 

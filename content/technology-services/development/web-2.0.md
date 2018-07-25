@@ -1,7 +1,9 @@
----
-title: Web 2.0
-type: page
----
++++
+title =  "Web 2.0"
+type =  "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Up until a couple of years ago, there were no web sharing sites or applications. Information published or consumed on the web merely consisted of static web pages. This paradigm has undergone a drastic transformation with websites now being areas of active discussion, collaboration and interaction. This new model of content sharing sites, together called hellip"
++++
 Up until a couple of years ago, there were no web sharing sites or applications. Information published or consumed on the web merely consisted of static web pages. This paradigm has undergone a drastic transformation with websites now being areas of active discussion, collaboration and interaction.
 
 This new model of content sharing sites, together called Web 2.0, is drastically changing the way people interact with each other. Web 2.0 opens up a whole new world of possibilities. People use blogs and wikis to publish their own content, write about their outlook and personalized experiences. Websites have become discussion arenas where users collaborate with each other, share their view points and thoughts providing richer content to the reader. People are not just passive viewers to information; they are active contributors; thereby increasing the wealth of information easily available to anyone and everyone connected to the net. This ability to easily access, read and write rich content together with social networking constitutes the backbone of Web 2.0.

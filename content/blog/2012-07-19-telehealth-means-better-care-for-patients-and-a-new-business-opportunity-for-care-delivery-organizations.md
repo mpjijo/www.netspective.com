@@ -24,7 +24,7 @@ Alcohol and/or substance (other than tobacco) abuse structured assessment and br
   * Behavioral counseling to prevent sexually transmitted infections;
   * Behavioral therapy for cardiovascular disease; and
   * Behavioral counseling for obesity.
-[zoloft tablets buy][3], [purchase Zoloft][4] </ul> 
+</ul> 
 
 Given how common the services listed above are and how many patients don&#8217;t get these kinds of services because they were harder to schedule office visits for them or most costly to deliver in person, many care delivery organizations can offer these kinds of services over telehealth solutions next year and increase business and effectively treat patients.
 
@@ -56,6 +56,4 @@ Thanks to technology advances coupled with reimbursement changes, Telehealth has
 
  [1]: http://www.ofr.gov/OFRUpload/OFRData/2012-16814_PI.pdf
  [2]: http://www.nelsonmullins.com/DocumentDepot/Reference%20-%20CMS%20Proposed%20Rule%20-%20Telemedicine%20Portion%20of%20PFS.pdf
- [3]: https://pills24h.com/buy-zoloft-online-without-prescription/
- [4]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ
  [5]: http://www.accenture.com/us-en/Pages/insight-ehealth-satisfy-patients-desire-self-service.aspx

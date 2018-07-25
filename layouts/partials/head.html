@@ -1,20 +1,17 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<meta content="{{ delimit .Keywords ", " }}" name="keywords">
+<meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }}{{ .Description }}{{ end }}" property="og:description">
 <!-- robots -->
 <!-- you may configure it in the front matter of the page or in site params -->
 {{ if or (isset .Params "robots") (isset .Site.Params "robots") }}
 <meta name="robots" content="{{ with .Params.robots }}{{ . }}{{ else }}{{ .Site.Params.robots }}{{ end }}">
 {{ end }}
-
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory
      or place appropriate <link .../> etc in favicon.html partial -->
 {{ partial "favicon.html" . }}
-
 <title>{{ .Title }}</title>
-
 {{ .Hugo.Generator }}
 
 <!-- CSS -->

@@ -1,7 +1,10 @@
----
-title: Product Or Application
-type: page
----
++++
+title =  "Product Or Application"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Technology is constantly evolving and new trends and methodologies keep coming into the market place. As technology grows, user demands also increase and organizations compete with each other to put out products in the market sooner so as to reach the consumers faster. As products evolve, organizations would need to be able to sustain themselves hellip"
++++
+
 Technology is constantly evolving and new trends and methodologies keep coming into the market place. As technology grows, user demands also increase and organizations compete with each other to put out products in the market sooner so as to reach the consumers faster. As products evolve, organizations would need to be able to sustain themselves in order to maintain the existing products and also bring out innovative products into the market.
 
 Netspective allows organizations to make the best use of their existing investments to efficiently operate and implement their business processes. Our project management principles closely relate to the Project Management Body Of Knowledge (PMBoK) guide to Project Management, which contains well established and proven rules to manage a project successfully to completion.

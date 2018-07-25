@@ -1,7 +1,9 @@
----
-title: Platform
-type: page
----
++++
+title = "Platform"
+type =  "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "A platform strategy that continues to provide functionality support, performance and technology leadership while making it flexible, affordable and easy to integrate can bring sustainable growth and market leadership. Sustaining existing Platforms while focusing on new product development is a big challenge and also a very critical need for Healthcare, Government and Medical Technology enterprises hellip"
++++
 A platform strategy that continues to provide functionality support, performance and technology leadership while making it flexible, affordable and easy to integrate can bring sustainable growth and market leadership. Sustaining existing Platforms while focusing on new product development is a big challenge and also a very critical need for Healthcare, Government and Medical Technology enterprises today. To continue exploration of potential of new disruptive technologies, envision and manage new products under current platform, it is essential that the core IT or engineering team is focused on thinking ahead and not burdened support functions. This is critical as pace of innovation continues to be faster every day and changing business models drives need for constant changes to keep up with business and customer needs.
 
 For IT organizations and product firms, your platforms are you key tools and infrastructure you select, own and license from partners upon which you enhance or develop you customized solutions. For product companies, Platform refers to software and underlying hardware that can be custom or off the shield but requires support and sustenance. Flexibility of SaaS model brings a need for product differentiation for medical technology firms as an imperative to sustain loyalty from customers with feature updates. As platform complexity increases, the sustenance phase often becomes the critical cost factor as competitive and TCO pressures mount and need to be in check.

@@ -129,10 +129,6 @@ Use the following command to stop GraylogServer
     sudo /etc/init.d/graylog-server stop
     
 
-[order zoloft online][4], [zithromax online][5]
-
  [1]: https://www.netspective.com/settiing-up-elastic-search/
  [2]: https://www.netspective.com/setting-up-java/
  [3]: https://github.com/Graylog2/graylog2-server/downloads
- [4]: https://pills24h.com/buy-zoloft-online-without-prescription/
- [5]: http://prestige-pharmacy.com/buy-zithromax-online/

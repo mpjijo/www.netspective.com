@@ -140,7 +140,7 @@ Create shortcut of this file
     sudo service apache2 restart
     
 
-After configuring this we can access [buy celebrex without prescription][6], [purchase clomid][7] xwiki in port 80 like
+After configuring this we can access xwiki in port 80 like
   
 http://wiki.netspective.com/w
 
@@ -167,5 +167,3 @@ http://wiki.netspective.com/w
  [3]: https://www.netspective.com/knowledgebase/it-infrastructure-sops/2012/09/25/setting-up-java/
  [4]: www.netspective.citrusdev.com/knowledgebase/it-infrastructure-sops/2012/09/25/setting-up-apache-tomcat/
  [5]: https://www.netspective.com/knowledgebase/it-infrastructure-sops/2012/09/25/setting-up-mysql-server/
- [6]: https://pills24h.com/buy-celebrex-online-without-prescription/
- [7]: http://prestige-pharmacy.com/buy-clomid-online/

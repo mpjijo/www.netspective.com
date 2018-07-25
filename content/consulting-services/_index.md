@@ -2,6 +2,8 @@
 title  = "Consulting Services"
 type   = "page"
 layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "In today's regulated industries like Healthcare, Government and Medical Technology, business that is characterized by rapid-fire globalization, a turbulent economic environment and rapid developments in information technology. Executives who want to compete and win must be incredibly nimble.The business operations are undergoing serious transformation as it addresses numerous challenges and create new opportunities. The complexities hellip"
 +++
 
 In today’s regulated industries like Healthcare, Government and Medical Technology, business that is characterized by rapid-fire globalization, a turbulent economic environment and rapid developments in information technology. Executives who want to compete and win must be incredibly nimble.The business operations are undergoing serious transformation as it addresses numerous challenges and create new opportunities. The complexities of the business has grown dramatically in the last few years, with numerous resource and regulatory constraints that can only be overcome by a paradigm shift in your strategic and operational plans.

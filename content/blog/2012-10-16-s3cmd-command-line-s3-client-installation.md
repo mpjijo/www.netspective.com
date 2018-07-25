@@ -22,8 +22,6 @@ Add the repo to sources.list:
 
 Refresh package cache and install the newest s3cmd:
 
-[zoloft for cheap][1], [lioresal reviews][2] 
-
     sudo apt-get update && sudo apt-get install s3cmd
     
 
@@ -63,6 +61,3 @@ In order to use this command by other users for example by root user we need to 
     cd s3cmd-1.1.0-beta3
     python setup.py install
     s3cmd --configure
-
- [1]: https://pills24h.com/buy-zoloft-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-lioresal-baclofen/

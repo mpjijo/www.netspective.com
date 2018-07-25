@@ -57,8 +57,3 @@ Command to stop syslog
 
     /etc/init.d/syslog-ng stop
     
-
-[doxycycline without prescription][1], [cheap zithromax][2]
-
- [1]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zithromax-online/

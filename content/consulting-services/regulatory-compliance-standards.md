@@ -1,6 +1,8 @@
 +++
 title = "Regulatory Compliance & Standards"
 type  = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "With Netspective's knowledge of current and upcoming compliance mandates we can give broad insight into market access, strategic compliance and safety."
 +++
 
 The United States regulatory environment for the Government, Healthcare and Medical technology industries is a robust one with well laid out standards and best practices and sometimes cumbersome and complex requirements. These regulatory mandates are being evaluated and modified today to accommodate the changes affected by technology within these industries. FDA, HIPAA, ICD, ARRA, HITECH and many others have a major role to play in these industries. It is now up to the participants in these industries to understand and leverage them to their business advantage.

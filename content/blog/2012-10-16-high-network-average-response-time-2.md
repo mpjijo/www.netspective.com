@@ -23,7 +23,7 @@ categories:
   </div>
   
   <div>
-    <a href="https://www.netspective.com/wp-content/uploads/2012/10/1.jpg"><img class="alignnone size-large wp-image-60413" title="1" src="https://www.netspective.com/wp-content/uploads/2012/10/1-1024x186.jpg" alt="" width="711" height="129" srcset="https://www.netspective.com/wp-content/uploads/2012/10/1-1024x186.jpg 1024w, https://www.netspective.com/wp-content/uploads/2012/10/1-300x54.jpg 300w, https://www.netspective.com/wp-content/uploads/2012/10/1.jpg 1326w" sizes="(max-width: 711px) 100vw, 711px" /></a>
+    ![appfirst](/blog/1.jpg#center) 
   </div>
   
   <div>
@@ -54,11 +54,11 @@ categories:
     </div>
     
     <div>
-      While checking Trace Detals and SQL Statements in details we came to know that the Slowest component is &#8220;hitsphere_feed_field_formatter_full&#8221; and this took maximum duration ( Apprx 63000 ms)
+      While checking Trace Detals and SQL Statements in details we came to know that the Slowest component is hitsphere_feed_field_formatter_full and this took maximum duration ( Apprx 63000 ms)
     </div>
     
     <div>
-      <a href="https://www.netspective.com/wp-content/uploads/2012/10/2.jpg"><img class="alignnone size-large wp-image-60414" title="2" src="https://www.netspective.com/wp-content/uploads/2012/10/2-1024x277.jpg" alt="" width="711" height="192" srcset="https://www.netspective.com/wp-content/uploads/2012/10/2-1024x277.jpg 1024w, https://www.netspective.com/wp-content/uploads/2012/10/2-300x81.jpg 300w, https://www.netspective.com/wp-content/uploads/2012/10/2.jpg 1364w" sizes="(max-width: 711px) 100vw, 711px" /></a>
+     ![newrelic](/blog/2.jpg#center) 
     </div>
     
     <div>
@@ -160,10 +160,6 @@ categories:
           <div>
             <a href="https://www.netspective.com/wp-content/uploads/2012/10/7.jpg"><img class="alignnone size-full wp-image-60420" title="7" src="https://www.netspective.com/wp-content/uploads/2012/10/7.jpg" alt="" width="929" height="439" srcset="https://www.netspective.com/wp-content/uploads/2012/10/7.jpg 929w, https://www.netspective.com/wp-content/uploads/2012/10/7-300x141.jpg 300w" sizes="(max-width: 929px) 100vw, 929px" /></a>
           </div>
-          
-          <p>
-            <a href="https://pills24h.com/buy-clonidine-online-without-prescription/">clonidine without prescription</a>, <a href="http://prestige-pharmacy.com/buy-clomid-online/">generic clomid</a>
-          </p>
           
           <div>
             <div dir="ltr">

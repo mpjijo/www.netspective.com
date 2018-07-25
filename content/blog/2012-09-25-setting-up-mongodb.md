@@ -18,9 +18,6 @@ Extract the mongodb-linux-x86_64-2.0.2.tgz tar file using the command and change
     sudo tar -xvf mongodb-linux-x86_64-2.0.2.tgz -C /opt/
     cd mongodb-linux-x86_64-2.0.2/bin/
     
-
-[cheap clonidine online][2], [order clomid][3] 
-
 To check successful installation ,execute database server binary file using below given command.
 
     sudo mkdir -p /data/db/
@@ -108,5 +105,3 @@ Use the following command to stop MongoDB
     sudo /etc/init.d/mongodb stop
 
  [1]: http://www.mongodb.org/downloads
- [2]: https://pills24h.com/buy-clonidine-online-without-prescription/
- [3]: http://prestige-pharmacy.com/buy-clomid-online/

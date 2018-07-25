@@ -2,6 +2,8 @@
 title = "Strategy"
 type  = "page"
 layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective provides consulting services in business,innovation,product,vendor and technology for healthcare and medical technology firms."
 +++
 
 ### Changes in the Healthcare and Medical Technology Industry

@@ -60,9 +60,6 @@ Format and mount the data Logical Volume with whatever filesystem you choose:
 
     sudo mkfs.ext4 /dev/vg0/mysql-data
     sudo mount /dev/vg0/mysql-data /var/lib/mysql
-    
-
-[buy celebrex online cheap][1], [buy Zoloft online][2] 
 
 At the end of all this, mysql will contain a filesystem that can be expanded by adding more LUKS volumes to the mix.
 
@@ -74,6 +71,4 @@ For automatic mount LUKS volume after rebooting need to run the following perl s
 
 [Pearl Scripts][3]
 
- [1]: https://pills24h.com/buy-celebrex-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ
  [3]: https://www.netspective.com/wp-content/uploads/2012/09/LUKS-volume-over-LVM.zip

@@ -71,7 +71,7 @@ categories:
     </div>
     
     <div>
-      FilesystemA�A�A�A�A�A�A�A�A�A�A� SizeA� Used Avail Use% Mounted on/dev/sda1A�A�A�A�A�A�A�A�A�A�A�A�A� 38GA� 9.1GA�A� 27GA� 26% /tmpfsA�A�A�A�A�A�A�A�A�A�A�A�A�A�A�A� 500MA� 4.0KA� 500MA�A� 1% /dev/shm</p>
+      Filesystem Size Used Avail Use % Mounted on/dev/sda18G9.1G27GA6% /tmpfs500M4.0KA� 500M1/dev/shm</p>
     </div>
     
     <div>
@@ -85,10 +85,10 @@ categories:
     </div>
     
     <div>
-      A� A� A� A� A� A� A�totalA�A�A�A�A�A� usedA�A�A�A�A�A� freeA�A�A�A� sharedA�A�A� buffersA�A�A�A� cachedMem:A�A�A�A�A�A�A�A�A�A� 998A�A�A�A�A�A�A� 822A�A�A�A�A�A�A� 175A�A�A�A�A�A�A�A�A� 0A�A�A�A�A�A�A�A� 37A�A�A�A�A�A�A� 100-/+ buffers/cache:A�A�A�A�A�A�A� 684A�A�A�A�A�A�A� 314</p> 
+      total used  free shared buffers cachedMem: 9988221750A37 100-/+ buffers/cache:684314</p> 
       
       <p>
-        Swap:A�A�A�A�A�A�A�A� 2047A�A�A�A�A�A�A� 636A�A�A�A�A�A� 1411
+        Swap:20476361411
       </p>
     </div>
     
@@ -96,62 +96,62 @@ categories:
     </div>
     
     <div>
-      root@engineering:~-> cat /proc/meminfoMemTotal:A�A�A�A�A�A�A� 1022536 kB</p> 
+      root@engineering:~-> cat /proc/meminfoMemTotal:1022536 kB</p> 
       
       <p>
-        MemFree:A�A�A�A�A�A�A�A�A�A� 55216 kB
+        MemFree: 55216 kB
       </p>
       
       <p>
-        Buffers:A�A�A�A�A�A�A�A�A�A� 42168 kB
+        Buffers: 42168 kB
       </p>
       
       <p>
-        Cached:A�A�A�A�A�A�A�A�A�A� 208496 kB
+        Cached: 208496 kB
       </p>
       
       <p>
-        SwapCached:A�A�A�A�A�A� 143856 kB
+        SwapCached: 143856 kB
       </p>
       
       <p>
-        Active:A�A�A�A�A�A�A�A�A�A� 146432 kB
+        Active: 146432 kB
       </p>
       
       <p>
-        Inactive:A�A�A�A�A�A�A�A� 748360 kB
+        Inactive: 748360 kB
       </p>
       
       <p>
-        Active(anon):A�A�A�A�A� 33976 kB
+        Active(anon): 33976 kB
       </p>
       
       <p>
-        Inactive(anon):A�A� 654100 kB
+        Inactive(anon):654100 kB
       </p>
       
       <p>
-        Active(file):A�A�A�A� 112456 kB
+        Active(file):112456 kB
       </p>
       
       <p>
-        Inactive(file):A�A�A� 94260 kB
+        Inactive(file): 94260 kB
       </p>
       
       <p>
-        Unevictable:A�A�A�A�A�A�A� 7296 kB
+        Unevictable: 7296 kB
       </p>
       
       <p>
-        Mlocked:A�A�A�A�A�A�A�A�A�A�A� 7296 kB
+        Mlocked: 7296 kB
       </p>
       
       <p>
-        SwapTotal:A�A�A�A�A�A� 2097148 kB
+        SwapTotal: 2097148 kB
       </p>
       
       <p>
-        SwapFree:A�A�A�A�A�A�A� 1462424 kB
+        SwapFree: 1462424 kB
       </p>
     </div>
     
@@ -177,7 +177,7 @@ categories:
     </div>
     
     <div>
-      AddingA�ApacheDS-abacschema.ldif to ldap server.
+      Adding ApacheDS-abacschema.ldif to ldap server.
     </div>
     
     <div>
@@ -195,7 +195,7 @@ categories:
     </div>
     
     <div>
-      InstallationA�of CAS Server andA�integratingA�with ldap server.
+      Installation of CAS Server andA�integratingA�with ldap server.
     </div>
     
     <div>

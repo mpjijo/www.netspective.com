@@ -20,8 +20,6 @@ To enter Custom CSS Stylesheet in the same User Interface windows you will see C
 
 For netspective theme copy and paste below code:
 
-[zoloft without prescription][1], [generic Zoloft][2] 
-
     #header {
         width: 100%;
         height: 85px;
@@ -68,6 +66,3 @@ For netspective theme copy and paste below code:
     
 
 In server through FTP or shell you can upload/replace logo in the folder path resources/themes/custom/logo.png to your own company logo and can replace the header background image resources/themes/custom/header-gradient.gif which fits theme.
-
- [1]: https://pills24h.com/buy-zoloft-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ

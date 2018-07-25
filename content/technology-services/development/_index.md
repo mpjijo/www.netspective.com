@@ -2,6 +2,8 @@
 title = "Development"
 type = "page"
 layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective's Development Services range from Architecture Design, UI&ID and Integration to Web2.0,mobility and wireless."
 +++
 It takes time and effort to analyze and choose the technology, design and architecture that best fits in with the business objectives of an organization. Additionally, a well defined set of processes and methodologies also play a very important role in getting quality products and applications out to the customers. Our development services focus on helping our clients pick, choose and realize the solutions that best align with their strategic objectives and also help them deliver high quality products in shorter spans of time.
 

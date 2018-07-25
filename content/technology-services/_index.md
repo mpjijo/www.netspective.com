@@ -2,6 +2,8 @@
 title = "Technology Services"
 type  = "page"
 layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Healthcare, Government and Medical Technology industries are at a cusp of bringing tremendous innovation into their business that are effective, bringing measurable business impacts. Areas can include information technology or IT, such as technical support in infrastructure like security, cloud, mobility or application development, maintenance or management or analytics, regulated IT testing or security. For hellip"
 +++
 
 Healthcare, Government and Medical Technology industries are at a cusp of bringing tremendous innovation into their business that are effective, bringing measurable business impacts. Areas can include information technology or IT, such as technical support in infrastructure like security, cloud, mobility or application development, maintenance or management or analytics, regulated IT testing or security. For Product firms, this will also include full product development lifecycle from Hardware and embedded software to User Interface and Industrial Design to Server side product enablement, support, testing and integration.

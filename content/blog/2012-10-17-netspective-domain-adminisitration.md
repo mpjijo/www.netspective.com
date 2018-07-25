@@ -126,11 +126,7 @@ categories:
         </li>
         <li>
           healthcloudconsortium.com
-        </li>
-        <p>
-          <a href="https://pills24h.com/buy-paroxetine-online-without-prescription/">paxil buy online</a>, <a href="http://prestige-pharmacy.com/buy-clomid-online/">clomid without prescription</a>
-        </p>
-        
+        </li>        
         <li>
           healthcloudconsortium.org
         </li>

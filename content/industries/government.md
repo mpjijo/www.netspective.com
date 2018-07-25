@@ -1,8 +1,9 @@
----
-title: Government
-type: page
++++
+title = "Government"
+type =  "page"
+description = "The rapidity of the economic, political and social changes are driving new ways of governance in U.S. Civilian and Health government agencies especially with constraints being placed on the budget.Some of the most complex challenges today and in the near future are due to financial regulatory oversight reforms, healthcare system reforms, integration of technology and  hellip"
 
----
++++
 
 The rapidity of the economic, political and social changes are driving new ways of governance in U.S. Civilian and Health government agencies especially with constraints being placed on the budget.Some of the most complex challenges today and in the near future are due to financial regulatory oversight reforms, healthcare system reforms, integration of technology and information sharing among law enforcement organizations, enhancing new transportation infrastructure and overhauling the education systems. Other areas in the government space needing attention include strengthening cyber security for latest threats, improving energy efficiency and green initiatives and improving budgeting and tax management.
 

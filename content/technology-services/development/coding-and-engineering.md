@@ -1,7 +1,9 @@
----
-title: Coding and Engineering
-type: page
----
++++
+title = "Coding and Engineering"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Most Healthcare, Government and Medical Technology firms are able to develop the strategy, planning and architecture of their IT solution or product / platform internally or with outside consulting help in a short time. The next biggest challenge is enabling a large team of skilled resources that bring ability to innovate and refine the ideas & hellip"
++++
 Most Healthcare, Government and Medical Technology firms are able to develop the strategy, planning and architecture of their IT solution or product / platform internally or with outside consulting help in a short time. The next biggest challenge is enabling a large team of skilled resources that bring ability to innovate and refine the ideas, then convert these ideas into physical devices, embedded software or application software with appropriate User Interface and Industrial Design that can beat the business and technology objectives. Enterprises in industries other than Healthcare, Government and Medical Technology have been leveraging various outsourcing models to enable a large team for short duration. The key is to choose a partner that builds a skilled team, can bring in domain and technology ideas to help you build the best in class product or application and can help re-tool your existing team.
 
 ### Product Engineering Services Portfolio

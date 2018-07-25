@@ -17,7 +17,7 @@ We are using **mod_jk** Tomcat-Apache plug-in that handles the communication bet
   
     Install the GNU compilers gcc and g++, make utility to maintain groups of programs and httpd-devel package with the following command in rpm based linux.
     
-    yum install gcc* gcc-c++ make [buy clonidine][3], [clomid reviews][4] automake httpd-devel
+    yum install gcc* gcc-c++ make automake httpd-devel
 
 #### Installation and configuration
 
@@ -103,5 +103,3 @@ Restart tomcat and start apache
 
  [1]: https://www.netspective.com/setting-up-apache-tomcat/
  [2]: https://www.netspective.com/setting-up-apache-httpd-server/
- [3]: https://pills24h.com/buy-clonidine-online-without-prescription/
- [4]: http://prestige-pharmacy.com/buy-clomid-online/

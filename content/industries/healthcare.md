@@ -1,8 +1,8 @@
----
-title: Healthcare
-type: page
-
----
++++
+title = "Healthcare"
+type = "page"
+description = "Netspective's healthcare IT solutions use the latest technologies to improve patient care and maintain security, privacy and regulatory compliance mandates."
++++
 The business of healthcare continues to get more complex as patients, providers, public health payers, regulators, pharmaceuticals, medical devices, pharmacy and technology companies become more connected with each other and directly affect health outcomes.
 
 In order to extend next generation care to patients, healthcare needs to drive rapid reforms with all care associated entities focusing on implementing regulation mandates, bringing workflow integration, creating and implementing new processes and automating them with adequate privacy and security measures to protect patient data to improve clinical intelligence and quality of care.

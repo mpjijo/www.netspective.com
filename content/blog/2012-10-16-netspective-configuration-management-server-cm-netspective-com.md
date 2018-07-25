@@ -10,7 +10,7 @@ categories:
 ---
 ## Setting up cm.netspective.com
 
-This [doxycycline for sale][1], [online Zoloft][2] server should be used to build the *.war and other custom packages (CAS, PWM,
+This server should be used to build the *.war and other custom packages (CAS, PWM,
   
 etc.) that we need to setup idm.netspective.com. We never want to build packages
   
@@ -27,8 +27,6 @@ server.
   * [[Build Netspective PWM Package][8]]
   * [[Theme Netspective PWM][9]]
 
- [1]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ
  [3]: https://www.netspective.com/knowledgebase/it-infrastructure-sops/secure-sops/2012/10/17/setting-up-a-base-ubuntu-server/
  [4]: www.netspective.citrusdev.com/knowledgebase/it-infrastructure-sops/2012/09/25/setting-up-github-keys/
  [5]: https://www.netspective.com/knowledgebase/it-infrastructure-sops/2012/09/25/setting-up-java/

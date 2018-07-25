@@ -2,6 +2,12 @@ title = "Netspective - Consulting and Solutions for Regulated IT and Engineering
 baseURL = "https://nextnetspective.netlify.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
+enableRobotsTXT ="true"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 [menu]
 
@@ -320,7 +326,7 @@ theme = "airspace-hugo"
   [[menu.header]]
       weight = 7
       name = "Thought Leadership"
-      url = "#"  
+      url = "/thought-leadership"  
       identifier = "thought-leadership"
       [[menu.header]]
       parent = "thought-leadership"
@@ -332,11 +338,11 @@ theme = "airspace-hugo"
       weight = 2
       name = "Resources"
       url = "/thought-leadership/resources/"      
- # [[menu.header]]
-  #    weight = 8
-  #    name = "Blog"
-  #    url = "/blog"  
-  #    identifier = "blog"
+  #[[menu.header]]
+   #   weight = 8
+   #   name = "Blog"
+   #   url = "/blog"  
+   #   identifier = "blog"
       
 
   [[menu.social]]
@@ -436,3 +442,5 @@ theme = "airspace-hugo"
       phone = "Phone: (202) 657-4064"
     [params.contact.gmaps]
       title = "We Also Count in Google Maps"
+
+

@@ -22,7 +22,7 @@ directory would look something like this:
     drwxr-xr-x  6 uucp  143 4096 Apr 12 05:22 jre1.7.0_04
     
 
-Note that we symlink /usr/java/jdk and /usr/java/jre to the &#8220;primary&#8221; versions that we want [side effects of paxil][1], [cheap dapoxetine][2] to be the standard Java version across
+Note that we symlink /usr/java/jdk and /usr/java/jre to the &#8220;primary&#8221; versions that we want  to be the standard Java version across
   
 the server but leave it up to the invidual users on the server to also choose what they&#8217;d like.
 
@@ -46,6 +46,3 @@ These instructions are platform-independent and should work on any Linux distrib
 When possible, try and use the JRE instead of the JDK.
 
     export JAVA_HOME=/usr/java/jre
-
- [1]: https://pills24h.com/buy-paroxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/dapoxetine-modern-drug/

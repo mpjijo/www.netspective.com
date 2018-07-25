@@ -38,7 +38,7 @@ Update ~/.bash_profile
 
 Copy and Paste the following lines.
 
-<pre><a href="https://pills24h.com/buy-doxycycline-online-without-prescription/">cheap doxycycline online</a>, <a href="http://prestige-pharmacy.com/buy-lioresal-baclofen/">purchase lioresal</a> <code># Load RVM into a shell session *as a function*
+<pre><code># Load RVM into a shell session *as a function*
 if [[ -s "$HOME/.rvm/scripts/rvm" ]] ; then
     # First try to load from a user install
     source "$HOME/.rvm/scripts/rvm"

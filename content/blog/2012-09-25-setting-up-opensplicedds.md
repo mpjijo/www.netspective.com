@@ -34,7 +34,7 @@ Need to update the release.com with the installation directory.
 
 Update OSPL_HOME
 
-<pre><a href="https://pills24h.com/buy-dapoxetine-online-without-prescription/">where to buy dapoxetine online</a>, <a href="http://prestige-pharmacy.com/buy-lioresal-baclofen/">acquire lioresal</a> <code>Before
+<pre><code>Before
     OSPL_HOME="@@INSTALLDIR@@/HDE/x86_64.linux2.6"
 After
     OSPL_HOME="/opt/opensplice/HDE/x86_64.linux2.6"

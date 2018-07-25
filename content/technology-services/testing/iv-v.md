@@ -1,7 +1,9 @@
----
-title: IV & V
-type: page
----
++++
+title = "IV & V"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Before they put software into production, many enterprises conduct an Independent Verification and Validation (IV & V) process to make sure it's bulletproof. To conduct IV & V testing, IT and Product organizations in regulated industries like Healthcare, Government and Medical Technology hire third parties with no ties to the professionals who developed the software. These third parties provide hellip"
++++
 Before they put software into production, many enterprises conduct an Independent Verification and Validation (IV&V) process to make sure it’s bulletproof.
 
 To conduct IV&V testing, IT and Product organizations in regulated industries like Healthcare, Government and Medical Technology hire third parties with no ties to the professionals who developed the software. These third parties provide a clear, unbiased analysis of software solutions being built. Testers not only verify that software is built correctly, they make sure you’re building the right product.

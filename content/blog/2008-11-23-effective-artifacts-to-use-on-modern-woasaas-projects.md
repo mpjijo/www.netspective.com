@@ -49,7 +49,7 @@ categories:
 
 <ul type="disc">
   <li class="MsoNormal">
-    <span>As a project is initiated, the Program Manager creates a <span>project<strong> Strategy</strong></span> and <strong>Initiation Plan</strong> to kick things off and gain approval for proceeding. These two artifacts address broad &#8220;why, what, how, and when&#8221; questions about the project.The Project Sponsor uses these artifacts to gain approval for the project.</span>
+    <span>As a project is initiated, the Program Manager creates a <span>project<strong> Strategy</strong></span> and <strong>Initiation Plan</strong> to kick things off and gain approval for proceeding. These two artifacts address broad &#8220;why, what, how, and when&#8221; questions about the project.The Project Sponsor uses these artifacts to gain approval for the project. </span>
   </li>
   <li class="MsoNormal">
     <span>The Process Coach creates process artifacts (<strong>Methodology</strong>, <strong>Artifacts </strong>diagram, and <strong>Internal Release Process</strong>) collectively specify the software development lifecycle (SDLC) and periodically refines these as the team learns from execution. At the end of internal releases or the whole project, the team reflects on how things went and captures lessons learned in <strong><Internal</strong> <strong>Release> Assessments</strong> or a <strong>Post Mortem Report</strong><span> respectively</span>.These lessons drive ongoing process tuning by the Process Coach.</span>

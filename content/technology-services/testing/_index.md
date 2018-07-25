@@ -2,6 +2,8 @@
 title = "Testing"
 type = "page"
 layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective's testing and validation services include IV&V, Automation and Compliance guidance for healthcare,government and medical technology firms."
 +++
 
 Today’s market competition forces products or solutions to rapidly evolve to meet the growing demands of the industry. This makes enterprises in the regulated industries like Healthcare, Government and Medical Technology to put out new technologies and feature enhancements to the users in a shorter span of time. Consequentially, organizations would like to cut down on the time for testing in order to allow more time to market the product.

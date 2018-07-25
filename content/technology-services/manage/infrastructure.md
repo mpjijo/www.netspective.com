@@ -1,7 +1,11 @@
----
-title: Infrastructure
-type: page
----
++++
+title = "Infrastructure"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "One dramatic change for IT and Technology products has been how Infrastructure is architected, procured and managed across enterprises. This change has occurred across most industry domains, but we see this change just beginning to happen within Healthcare, Government and Medical Technology industries. Enterprises and agencies are opening up to the idea and investing into hellip"
+
++++
+
 One dramatic change for IT and Technology products has been how Infrastructure is architected, procured and managed across enterprises. This change has occurred across most industry domains, but we see this change just beginning to happen within Healthcare, Government and Medical Technology industries. Enterprises and agencies are opening up to the idea and investing into [cloud](/technology-services/deployment/cloud/) computing, advanced [security](/technology-services/deployment/security/), virtualization, [Mobility](/technology-services/development/mobility/) and networking solutions to bring transformational change to their operations.
 
 To get the full benefit of this change, one needs the expertise to Architect and design a scalable and effective enterprise infrastructure solution as well as the ability to manage the infrastructure to derive it’s complete benefit. If you are under utilizing your infrastructure or challenged with provisioning on time or lack of effective use for business needs, than you are not optimized and efficient and thus IT is not delivering on promised business value.

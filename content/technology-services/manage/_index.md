@@ -2,6 +2,8 @@
 title = "Manage"
 type = "page"
 layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective provides a whole suite of managed services from management of data,access and identity to enterprise IT,infrastructure and content."
 +++
 
 Most enterprises have spent a considerable amount of time and money in order to develop an IT management strategy that suits their business. However, maintenance of this strategy requires managing a wide range of aspects pertaining to the organization like ensuring data and enterprise security and developing and maintaining a well defined enterprise architecture.

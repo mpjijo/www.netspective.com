@@ -91,9 +91,6 @@ categories:
       <li>
         Collect specific design styles, fonts, images, color or other information to serve as guide to create the logo.
       </li>
-      <p>
-        <a href="https://pills24h.com/buy-celebrex-online-without-prescription/">where to buy celebrex</a>, <a href="http://prestige-pharmacy.com/buy-clomid-online/">buy clomid online</a>
-      </p>
       
       <li>
         Initially create 3 options to choose from. After the client selects one, provide an iterative enhanced version for that.

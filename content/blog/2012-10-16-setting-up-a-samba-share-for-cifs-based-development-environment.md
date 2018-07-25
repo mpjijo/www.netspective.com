@@ -10,7 +10,7 @@ categories:
 ---
 ## Installing and configuring a samba share for Windows development
 
-Assume you have a linux user [cheap zoloft online][1], [generic lioresal][2] &#8216;prime&#8217; and you want to create a smb share called &#8216;prime&#8217; to point to the
+Assume you have a linux user &#8216;prime&#8217; and you want to create a smb share called &#8216;prime&#8217; to point to the
   
 home directory so that you can edit files in that directory from Windows.
 
@@ -46,6 +46,3 @@ Save the file and then test and restart smb:
 
     sudo testparm
     sudo restart smbd
-
- [1]: https://pills24h.com/buy-zoloft-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-lioresal-baclofen/

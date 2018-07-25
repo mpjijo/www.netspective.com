@@ -15,7 +15,7 @@ tags:
 ---
 [This thought paper is from <a title="Rel-Id Technologies Inc." href="https://www.rel-id.com" target="_blank">Rel-ID Technologies Inc.</a> &#8211; a <a title="Uniken" href="https://www.uniken.com" target="_blank">Uniken</a> venture]
 
-**Authors** <a href="mailto://sanjay.deshpande@rel-id.com" target="_blank">Sanjay Deshpande</a>, <a href="mailto://pat.shankar@rel-id.com" target="_blank">Dr. Pat Shankar</a>, <a href="mailto://eashwar@rel-id.com" target="_blank">Eashwar Ganapathy</a>
+**Authors** <a href="mailto://sanjay.deshpande@rel-id.com" target="_blank">Sanjay Deshpande</a>, <a href="mailto://pat.shankar@rel-id.com" target="_blank">Dr. Pat Shankar</a>, <a href="mailto://eashwar@rel-id.com" target="_blank">Eashwar Ganapathy</a> 
 
 <span style="text-decoration: underline;"><strong>Basics of Identity and Authentication</strong></span> &#8211; In order to be able to identify / authenticate any entity (be it man or machine), the entity must be characterized by a unique set of symbols, as per the adopted representation scheme. During the process of actually identifying / authenticating the entity, these characteristics are observed and matched against those that were captured earlier and associated with the entity.
 

@@ -92,10 +92,6 @@ categories:
     <div>
     </div>
     
-    <p>
-      <a href="https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/">cheap periactin online</a>, <a href="http://prestige-pharmacy.com/buy-clomid-online/">clomid online</a>
-    </p>
-    
     <div>
     </div>
     

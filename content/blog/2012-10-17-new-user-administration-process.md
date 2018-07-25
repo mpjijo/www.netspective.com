@@ -40,10 +40,6 @@ categories:
           <li>
             google-authenticator
           </li>
-          <p>
-            <a href="https://pills24h.com/buy-levitra-online-without-prescription/">mail order levitra</a>, <a href="http://prestige-pharmacy.com/buy-lioresal-baclofen/">lioresal online</a>
-          </p>
-          
           <li>
             Your new secret key is: XXXXXXXXXXXYour verification code is 99999Your emergency scratch codes are:11111111 <p>
               22222222

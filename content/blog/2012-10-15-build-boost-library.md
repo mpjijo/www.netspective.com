@@ -40,7 +40,7 @@ Extract the downloaded boost.1.48.0.tar.gz file using the following command
 
 cd ~/Downloads
   
-tar [cheap celebrex online][2], [acquire zithromax][3] -xvf boost\_1\_48_0.tar.gz
+tar -xvf boost\_1\_48_0.tar.gz
 
 Run the following command to start the build process. Follow the instructions until the installation was successful.
 
@@ -56,6 +56,4 @@ sudo ln -s /opt/boost\_1\_48_0/lib/* /lib
   
 sudo ln -s /opt/boost\_1\_48_0/include/* /usr/include
 
- [1]: http://sourceforge.net/projects/boost/files/boost/1.48.0/
- [2]: https://pills24h.com/buy-celebrex-online-without-prescription/
- [3]: http://prestige-pharmacy.com/buy-zithromax-online/
+ [1]: https://sourceforge.net/projects/boost/files/boost/1.48.0/

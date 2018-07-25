@@ -18,8 +18,3 @@ Install GCC compiler for C and C++ language
     
     apt-get install gcc gcc-c++
     
-
-[buy dapoxetine][1], [order lioresal][2]
-
- [1]: https://pills24h.com/buy-dapoxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-lioresal-baclofen/

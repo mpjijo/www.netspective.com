@@ -10,8 +10,6 @@ categories:
 ---
 ### CentOS
 
-[doxycycline online][1], [order zithromax][2] 
-
 #### Command to find out total established connections, closing connection, TIME_WAIT and much more.
 
     netstat -nat | awk '{print $6}' | sort | uniq -c | sort -n
@@ -119,5 +117,3 @@ You can login to that screen using the command screen -r &#8216;screen name&#821
 
     screen -r 5002.netspective
 
- [1]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zithromax-online/

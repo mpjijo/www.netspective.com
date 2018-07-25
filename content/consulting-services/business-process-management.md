@@ -1,6 +1,8 @@
 +++
-title ="Business Process Management"
-type  ="page"
+title = "Business Process Management"
+type  = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Our BPM services help healthcare and government firms increase productivity, remove process overheads, reduce operation costs and gain competitive advantage"
 +++
 
 Having optimized business processes in a regulated industry provides organizations the ability to keep operating costs low while efficiently delivering services or selling products. Aligning an organization’s business processes to your customer’s requirements in a holistic manner is the key tenet to Business Process Management(BPM).

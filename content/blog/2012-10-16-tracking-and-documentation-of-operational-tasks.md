@@ -16,9 +16,8 @@ This document is intended for network engineers, system administrators, database
 
 **Implementation of the Process**
 
-<img class="alignnone size-full" title="implementation-process" src="https://www.netspective.com/wp-content/uploads/2012/10/implementation-process.png" alt="" width="1066" height="554" />
+![Implementation of the Process](/blog/implementation-process.png#center) 
 
-**A�**
 
 <li style="margin-bottom:10px;">
   <strong>The manager receives a request.<br /> </strong>The request could be internal as part of software deployment to production or as part of operational infrastructure changes; or external as part of customer requests.
@@ -35,8 +34,6 @@ This document is intended for network engineers, system administrators, database
 <li style="margin-bottom:10px;">
   <strong>Try out the work and create draft instructions.<br /> </strong>It is always a good practice to simulate the work in an isolated contained environment before going live. The test environment should mimic the production environment as much as possible so as to enable a smooth transition from test to production.Detailed instructions on the task and every component that is affected by the task being accomplished needs to be noted down as testing progresses. The order in which the various activities in a task need to be performed would also be of prime importance. Every aspect of the task to be accomplished needs to be tested and documented so as to have a smooth switch over from sandbox to production.
 </li>
-[buy doxycycline online without prescription][1], [lioresal online][2] 
-
 <li style="margin-bottom:10px;">
   <strong>Create official instructions.<br /> </strong>Once the task has been tested successfully in a test environment, the team is ready to move the changes into a live production environment. The draft instructions created while testing on the sandbox is used to create the official instructions. The official instructions are logged in the Netspective knowledge base. These instructions are the baseline on which the task is executed in a production environment. It contains detailed steps to be followed by the operations team while making the switch over from test to production. It also contains details of components affected, instructions on installation procedures and instructions for monitoring the production environment for any failures.
 </li>
@@ -58,6 +55,3 @@ This document is intended for network engineers, system administrators, database
 <li style="margin-bottom:10px;">
   <strong>Complete activity task.<br /> </strong>The activity task created for the logging time and work summary is completed and can be closed at this point.
 </li>
-
- [1]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-lioresal-baclofen/

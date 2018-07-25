@@ -52,9 +52,7 @@ Maintain different configuration files for each sites running. Create directorie
 Configure Apache Httpd main configuration file (/etc/httpd/conf/httpd.conf) to load the site configuration files using the following directive.
 
     Include sites-enabled/*.conf
-    
 
-[periactin side effects][1], [purchase dapoxetine][2] 
 
 [Click here][3] to find various available directives to configure the custom sites.
 
@@ -74,6 +72,4 @@ Disabling the sites to unlink the file in the directory ~/sites-enabled
 
 Note: Enabling and Disabling sites need to restart the apache
 
- [1]: https://pills24h.com/buy-periactin-cyproheptadine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/dapoxetine-modern-drug/
  [3]: http://httpd.apache.org/docs/current/mod/directives.html

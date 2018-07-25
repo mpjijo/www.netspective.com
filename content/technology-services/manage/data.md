@@ -1,7 +1,10 @@
----
-title: Data
-type: page
----
++++
+title =  "Data"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Data plays a vital role in the decision making process of an organization. However, Healthcare, Government and Medical Technology firms despite the availability of huge volumes of data, are not able to tap into this valuable resource because of the inconsistency, inaccuracy and incompleteness of it. Management of data involves ensuring the availability of precise, hellip"
++++
+
 Data plays a vital role in the decision making process of an organization. However, Healthcare, Government and Medical Technology firms despite the availability of huge volumes of data, are not able to tap into this valuable resource because of the inconsistency, inaccuracy and incompleteness of it. Management of data involves ensuring the availability of precise, consistent, complete and secure data for the process of analysis, decision making and the overall smooth functioning of an organization. In order for data management to be successful, organizations need more than just an investment in technology. They need processes in place and people that follow these processes through all the phases of the lifecycle to ensure that the data that is created, stored, relocated, used and modified is accurate and consistent.
 
 Accurate and good quality data provides established facts which help in better decision making, reduces risks since the data quality is superior, improves productivity as people can make decisions based on solid verified facts thereby increasing operational efficiency and high performance. Also, as Healthcare, Government and Medical Technology firms adopt newer technologies, integrate processes between organizations and evolve use of new forms and types of data, the need to be focused on Data today is far more critical than it has ever been.

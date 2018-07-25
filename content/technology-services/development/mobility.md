@@ -1,7 +1,9 @@
----
-title: Mobility
-type: page
----
++++
+title = "Mobility"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "The remarkable growth in mobility among the global community has spurred an equivalent increase in the number of mobile devices and networks connecting each other. Mobility is a significant asset in the Healthcare, Government and Medical Technology business. The power of mobility combined with real time connectivity with mission critical systems can give enterprises a  hellip"
++++
 The remarkable growth in mobility among the global community has spurred an equivalent increase in the number of mobile devices and networks connecting each other. Mobility is a significant asset in the Healthcare, Government and Medical Technology business. The power of mobility combined with real time connectivity with mission critical systems can give enterprises a tremendous advantage, ability to respond to customers or public effectively and can drastically change the way business is done.
 
 ![wireless-mobile](/img/technology-services/wireless-mobile.jpg#center)

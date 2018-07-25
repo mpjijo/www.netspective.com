@@ -23,8 +23,6 @@ Make sure following products were installed and available.
   * \[Graylog Webinterface\](../System Operations &#92;(SysOps&#92;)/Setting up Graylog WebInterface.md)
   * \[Setting Up Apache HttpServer\](../System Operations &#92;(SysOps&#92;)/Setting up Apache Httpd Server.md)
 
-[paxil no rx][1], [Zoloft reviews][2] 
-
 ### Download and Install
 
 Download the netspective-fluent from the Netspective github by cloning the repository
@@ -132,6 +130,3 @@ Add the following line in app/views/layouts/application.html.erb at line number 
 error: .INT32\_MIN. or .INT32\_MAX. was not declared in this scope
 
     Replace INT32_MIN with 0 and INT32_MAX with 2147483647
-
- [1]: https://pills24h.com/buy-paroxetine-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ

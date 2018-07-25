@@ -156,8 +156,3 @@ Apart from moving the site files and DB to new server the following steps also h
         </div>
     
       * Change permissions on all files and folders to 775</ol> 
-    
-    [zoloft without prescription][1], [buy zithromax online][2]
-
- [1]: https://pills24h.com/buy-zoloft-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-zithromax-online/

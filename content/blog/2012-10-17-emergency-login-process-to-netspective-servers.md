@@ -14,10 +14,7 @@ categories:
     
     <div>
     </div>
-    
-    <p>
-      <a href="https://pills24h.com/buy-celebrex-online-without-prescription/">celebrex cost</a>, <a href="http://prestige-pharmacy.com/dapoxetine-modern-drug/">purchase dapoxetine</a>
-    </p>
+  
     
     <div>
       1. Two Factor Authentication Breaks:

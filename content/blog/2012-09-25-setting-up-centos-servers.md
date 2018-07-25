@@ -10,7 +10,6 @@ categories:
 ---
 ## Distribution
 
-[order celebrex][1], [clomid online][2] 
 
 Use the CentOS Server 5.X distribution (e.g. CentOS 5.7 Server 64bit Architecture)
 
@@ -113,5 +112,3 @@ Add the following line, if the user requires privileges to run only certain comm
 
     user ALL=/bin/ls, /usr/bin/yum
 
- [1]: https://pills24h.com/buy-celebrex-online-without-prescription/
- [2]: http://prestige-pharmacy.com/buy-clomid-online/

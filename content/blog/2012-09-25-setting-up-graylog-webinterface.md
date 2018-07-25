@@ -27,7 +27,6 @@ Extract the downloaded zip file using the following command and change to the in
 
 Add PATH, JAVA&#92;\_HOME, GEM&#92;\_HOME environment variables to be included in env_keep as root user.
 
-[buy doxycycline][6], [purchase zithromax][7] 
 
     sudo vim /etc/sudoers
     Defaults    env_keep = "COLORS DISPLAY HOSTNAME HISTSIZE INPUTRC KDEDIR \
@@ -124,5 +123,4 @@ Access the Graylog Webinterface by using http://&#92;<graylog&#92;-ip&#92;-addre
  [3]: https://www.netspective.com/setting-up-apache-httpd-server/
  [4]: https://www.netspective.com/setting-up-passenger-with-apache/
  [5]: https://github.com/Graylog2/graylog2-web-interface/downloads
- [6]: https://pills24h.com/buy-doxycycline-online-without-prescription/
- [7]: http://prestige-pharmacy.com/buy-zithromax-online/
+ 

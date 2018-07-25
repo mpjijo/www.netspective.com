@@ -1,7 +1,9 @@
----
-title: Vendor
-type: page
----
++++
+title = "Vendor"
+type = "page"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Netspective's vendor management services include product and technology procurement as well as contingent staffing and outsourcing."
++++
 
 For the Healthcare and Medical Technology industry, executing your strategy efficiently and effectively will require ideas and support from inside your organization and from partners / vendors. As success today and in the future will be enabled by deploying the right technology to automate your processes or for building new products, one needs to put together the right vendor management strategy for all strategic initiatives. To fulfill your vision and execute your business strategy seamlessly, Netspective’s approach to managing partners / vendors can help bring together all resources, processes, best practices and an eco-system that enables selection and effective management.
 

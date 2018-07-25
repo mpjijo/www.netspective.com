@@ -18,9 +18,7 @@ categories:
     
     <div>
       <div>
-        <table width="100%" border="1" cellspacing="0" cellpadding="2">
-          <a href="https://pills24h.com/buy-doxycycline-online-without-prescription/">doxycycline buy online</a>, <a href="http://prestige-pharmacy.com/buy-lioresal-baclofen/">buy lioresal online</a> </p> 
-          
+        <table width="100%" border="1" cellspacing="0" cellpadding="2">  
           <tr>
             <td valign="top">
               <strong>#</strong>

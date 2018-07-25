@@ -27,8 +27,7 @@ For CentOS, download from the following [link][1] and copy it to ~/Downloads. In
 For Ubuntu
 
     apt-get install scons
-     [buy dapoxetine online cheap][2], [cheap dapoxetine][3] 
-
+    
 PCRE
 
 For CentOS,
@@ -57,6 +56,4 @@ To compile the &#8220;standalone&#8221; C++ driver, run the scons command in the
 export LD\_LIBRARY\_PATH=$LD\_LIBRARY\_PATH:/opt/mongodb-cxx-driver/lib
 
  [1]: http://sourceforge.net/projects/scons/files/scons/2.1.0/scons-2.1.0-1.noarch.rpm/download
- [2]: https://pills24h.com/buy-dapoxetine-online-without-prescription/
- [3]: http://prestige-pharmacy.com/dapoxetine-modern-drug/
  [4]: http://downloads.mongodb.org/cxx-driver/mongodb-linux-x86_64-v1.8-latest.tgz

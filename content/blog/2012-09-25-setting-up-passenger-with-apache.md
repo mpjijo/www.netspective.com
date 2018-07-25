@@ -15,7 +15,7 @@ Passenger helps in deployment of applications developed in Ruby on Rails web fra
 ## Prerequisite
 
   * [Setting up Rails][1]
-  * [paxil for cheap][2], [acquire Zoloft][3] [Setting up Apache Httpd Server][4]
+  * [Setting up Apache Httpd Server][4]
 
 ## Install Passenger
 
@@ -43,6 +43,4 @@ Need to add the following lines to each of site configuration files in which rub
     PassengerRuby /usr/local/rvm/wrappers/ruby-1.9.2-p318/ruby
 
  [1]: https://www.netspective.com/setting-up-rails/
- [2]: https://pills24h.com/buy-paroxetine-online-without-prescription/
- [3]: http://prestige-pharmacy.com/buy-zoloft-online/вЂЋ
  [4]: https://www.netspective.com/setting-up-apache-httpd-server/
