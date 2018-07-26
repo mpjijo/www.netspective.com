@@ -25,6 +25,8 @@ name="description" content="{{.Params.description}}"/>
 <title>{{ .Title }}</title>
 {{ .Hugo.Generator }}
 
+<base href="{{ .Site.BaseURL }}">
+
 <!-- CSS -->
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/owl.carousel.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />

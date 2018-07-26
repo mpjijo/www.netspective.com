@@ -9,5 +9,5 @@ image: "img/solutions/proveit/A-huge-number-of-applications-in-healthcaret.jpg"
 * Prevention of medication and prescription errors
 * Notifications and reminders for medical staff to ensure task completion
 * Support in Care Transition
-* Prevents overuse of tests and 
+* Prevents overuse of tests and procedures
 * Automating drug administration and treatments

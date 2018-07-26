@@ -64,7 +64,7 @@ Netspective’s content and document management and collaboration solutions have
 * Reduced dependence on off-site storage
 
 ### SharePoint
-![sharepoint](/img/technology-services/sharepoint.jpg#right)
+![sharepoint](img/technology-services/sharepoint.jpg#right)
 
 SharePoint is a Microsoft offering and a web-based tool with an integrated suite of functionalities that can help organizations improve efficiency by providing comprehensive content 
 

@@ -7,7 +7,7 @@
 		<div class="col-md-{{$column}}">
 			<h4>{{ .Title }}</h4>
 			{{ if isset .Params "image" }}
-			<span class="benefit-img"><img src="/{{ .Params.image }}"/></span>
+			<span class="benefit-img"><img src="{{ .Site.BaseURL }}{{ .Params.image }}"/></span>
 			{{ end }}
 			{{ .Content }}
 		</div>

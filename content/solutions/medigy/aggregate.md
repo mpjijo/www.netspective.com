@@ -9,7 +9,7 @@ section_icon_image: img/solutions/medigy/Audit-Assess.png
 ---
  	
  
-![assement-process](/img/solutions/medigy/Consolidate-Aggregate-EHR-Data.jpg#center)
+![assement-process](img/solutions/medigy/Consolidate-Aggregate-EHR-Data.jpg#center)
 
  
  * **Real-time Data Collector:** Real-time data collector collects context sensitive real time data. There are mainly two types of real time data collector agents
@@ -18,7 +18,7 @@ section_icon_image: img/solutions/medigy/Audit-Assess.png
  * **Non real time Data Collector:** The non real time data collector collects passive data such as Claims data, Health Information Exchange Data, Bio Informatics data, Clinical Data etc. This kind of data can be collected in batches through scheduled jobs and will be stored into Medigy for processing. These agents can be APIs, Information Exchange Hubs / interfaces etc. The data can be in different formats such as LOINC, SNOMED, RxNorms, NANDA, etc. 
  
 
- ![assement-process](/img/solutions/medigy/Consolidate-Aggregate-EHR-Data1.jpg#center)
+ ![assement-process](img/solutions/medigy/Consolidate-Aggregate-EHR-Data1.jpg#center)
 
  <p>**Data Aggregator and Processor**</p>
 

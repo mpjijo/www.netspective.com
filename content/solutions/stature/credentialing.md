@@ -20,7 +20,7 @@ Stature reduces the risk of invalidating test results due to questions about you
 *General medical and research background (education, location, specialty, years of experience, institutions, valid medical licenses and other credentials).
 *Subjects and results of previous research investigations and clinical trials.
 
-![Checking-Credentials](/img/solutions/stature/Checking-Credentials.png#center)
+![Checking-Credentials](img/solutions/stature/Checking-Credentials.png#center)
 
 Clinical Research Organizations (CROs) are not the only ones who need to know about a medical practitioner’s background. Ordinary patients would want to know about their doctors as well. From attitudes to bed side manner to treatment costs, patients now a days want to know all about their doctor before approaching him.
 

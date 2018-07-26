@@ -15,7 +15,7 @@ There are a lot of questions going around as to what cloud computing really is. 
 
 ### Netspective offers up-to-the-minute cloud computing expertise
 
-![cloud-computing](/img/technology-services/cloud-computing.jpg#center)
+![cloud-computing](img/technology-services/cloud-computing.jpg#center)
 
 With the immense possibilities that virtualization and SOA offer, the time is not far when loosely coupled services running on an agile, scalable infrastructure will make integrated cloud computing the way to go. We leverage the deep customization and application configuration capabilities that the cloud infrastructure offers, and help organizations reap the benefits of greater scalability, reduced risk, total disaster recovery and impressive up-times. The cloud services currently available are for the most part isolated service clouds that customers must plug into individually. However, we can show you where cloud computing is going and how it will converge into an integrated computing model offering tremendous power and flexibility. We have been early adopters of the business model, and run a strong practice as cloud computing aggregators and integrators. We help organizations integrate cloud components with other enterprise applications whether they are third-party or developed in-house.
 

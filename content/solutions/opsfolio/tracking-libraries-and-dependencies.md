@@ -10,7 +10,7 @@ section_icon_image: img/solutions/opsfolio/Track.png
 
 #### Is the third-party code in your apps safe to use?
 
-![Is-the-third-party-code-in-your-apps-safe-to-use](/img/solutions/opsfolio/Is-the-third-party-code-in-your-apps-safe-to-use.jpg#right)
+![Is-the-third-party-code-in-your-apps-safe-to-use](img/solutions/opsfolio/Is-the-third-party-code-in-your-apps-safe-to-use.jpg#right)
 
 Many developers believe that the open source or custom third-party code they integrate into their code is secure because it’s been used by many others. Just because third-party software passes through many hands doesn’t mean it’s safe. It still must be monitored and checked for security vulnerabilities.
 
@@ -31,7 +31,7 @@ Want to find out if your third party apps are safe to use?
 
 
 
-![Manage-software-dependencies](/img/solutions/opsfolio/Manage-software-dependencies.jpg#left)
+![Manage-software-dependencies](img/solutions/opsfolio/Manage-software-dependencies.jpg#left)
 #### Manage software dependencies.
 
 As developers use more and more libraries and components, it’s harder to identify, track and manage them. When dependency issues come up (and they always do), compatibility problems and runtime errors can bring your development work schedule to a halt.
@@ -46,7 +46,7 @@ Use Opsfolio to:
 
 #### Find every vulnerable component in your application.
 
-![vulnerable-content1](/img/solutions/opsfolio/vulnerable-content1.jpg#right)
+![vulnerable-content1](img/solutions/opsfolio/vulnerable-content1.jpg#right)
 Finding vulnerable components in your app requires a complete list of the latest mailing lists and announcements for every third-party component used in your app. But even if you had this information, would you have the time to search through and use it?
 
 Opsfolio automates the process of finding vulnerable components by:

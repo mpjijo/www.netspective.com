@@ -6,7 +6,7 @@ weight: 5
 section_icon_image: img/solutions/cak/curate.png
 ---
 
-![cak-curate](/img/solutions/cak/cak-curate.jpg#center)
+![cak-curate](img/solutions/cak/cak-curate.jpg#center)
 
 
 **Add Your Voice to Make Content Fresh and Interesting**

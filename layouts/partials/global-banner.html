@@ -8,7 +8,7 @@
 	           <h1>{{ .Params.banner_title | safeHTML }}</h1>
                <p>{{ .Params.banner_content | safeHTML }}<br></p>
                	{{ if isset .Params "banner_image" }}
-                <p><img src="{{ .Params.banner_image }}" alt="{{ .Title }}"></p>
+                <p><img src="{{ .Site.BaseURL }}{{ .Params.banner_image }}" alt="{{ .Title }}"></p>
 	            {{ end }}
                 {{ if isset .Params "banner_sub_title" }}	            
 	                <p><b>{{ .Params.banner_sub_title | safeHTML }}<br></b></p>
@@ -17,7 +17,7 @@
 	            {{ range .Data.Pages }}
 	            {{ if (isset .Params "section_icon_image")}}
 	                <div class="banner-icon">                
-		                <div class="icon-image"><a class="scroll-to" href="#{{ .Slug }}"><img src="/{{ .Params.section_icon_image }}" alt="{{ .Title }}"></a></div>
+		                <div class="icon-image"><a class="scroll-to" href="#{{ .Slug }}"><img src="{{ .Site.BaseURL }}{{ .Params.section_icon_image }}" alt="{{ .Title }}"></a></div>
 		                <div class="icon-title">
 		                	<a class="scroll-to" href="#{{ .Slug }}">
 		                		{{ if isset .Params "section_icon_label" }}

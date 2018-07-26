@@ -11,7 +11,7 @@ section_icon_image: img/solutions/medigy/Integrate-Genetic-Information.png
  
 Genetics holds the promise of healthcare providers finding out which drug is the most effective for each patient and each condition. However, current EHR systems cannot handle genetic information, as well as data standards, security, privacy or scalability. So, there are many problems that must be solved before genomic information can used in medical treatment.
 
- ![assement-process](/img/solutions/medigy/Integrating-genetic-information.jpg#center)
+ ![assement-process](img/solutions/medigy/Integrating-genetic-information.jpg#center)
 
  **However, Medigy can address some of these problems by:**
   

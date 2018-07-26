@@ -13,5 +13,5 @@ Perform a gap analysis of FISMA requirements and organization policies, procedur
 Perform risk impact assessment using NIST standards. This includes using new NIST (National Institute of Standards and Technology) standards for the New Authorization Process, Risk Management Framework (RMF) and Information Security Continuous Monitoring (ISCM) process.
 
 Assess the compliance risk of the IT assets and FISMA procedures. Use risk assessment results to identity and justify funds for more effective security solutions
-![accordin-hippa](/img/solutions/opsfolio/fedramp-fisma.jpg#center)
+![accordin-hippa](img/solutions/opsfolio/fedramp-fisma.jpg#center)
 

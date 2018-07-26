@@ -1,5 +1,6 @@
 +++
 title = "NIST review confirms copy-and-paste safety concerns"
+metatitle = "NIST review confirms copy-and-paste safety concerns - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/nist-review-confirms-copy-and-paste-safety-concerns/"
 categories = "Cybersecurity"

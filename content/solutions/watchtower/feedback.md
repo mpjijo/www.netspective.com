@@ -7,9 +7,10 @@ section_icon_label: Feedback Management
 section_icon_image: img/solutions/watchtower/Feedback-Management.png
 ---
 
-![feedback](/img/solutions/watchtower/feedback.png#center)
+![feedback](img/solutions/watchtower/feedback.png#center)
 
 The Quickest Road to Quality and Customer Satisfaction
+
 A high-performance product is an excellent asset, but it’s not the whole game. Watchtower uses performance and customer feedback to fine-tune your software for maximum reliability and customer acceptance. The Watchtower feedback and error management system is designed to make software processes faster, easier and less expensive to perform.
 
 Use Watchtower to:

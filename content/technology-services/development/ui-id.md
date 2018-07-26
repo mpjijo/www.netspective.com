@@ -9,7 +9,7 @@ path =  "img/technology-services/web-interface-design.jpg"
 +++
 At Netspective, we’ve developed user interface design into a fine art, focusing not only on the functions that a software system needs to provide, but also the way in which it presents them to users.
 
-![web-interface-design](/img/technology-services/web-interface-design.jpg#left)
+![web-interface-design](img/technology-services/web-interface-design.jpg#left)
 
 Leveraging the capabilities of a team of highly talented graphic artists and UI specialists, Netspective designs graphic interfaces that are both aesthetically appealing and easy to navigate.
 

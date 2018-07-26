@@ -20,7 +20,7 @@ section_icon_image: img/solutions/medigy/pghd.png
 	* Data provides continuous information, not just during hospital visits. This gives physicians a more accurate picture of how patients are doing between clinic visits. 
  
 
- ![assement-process](/img/solutions/medigy/pghd.jpg#center)
+ ![assement-process](img/solutions/medigy/pghd.jpg#center)
 
 **What’s So Important About Patient-Generated Data?**
 

@@ -11,7 +11,7 @@
 				    </div>
 				    <div class="col-md-6">
 				    	{{ if isset .Params "image" }}
-						<div class="list-img"><img src="/{{ .Params.image }}"/></div>
+						<div class="list-img"><img src="{{ .Site.BaseURL }}{{ .Params.image }}"/></div>
 						{{ end }}
 				    </div>
 				    </div>				    
@@ -19,7 +19,7 @@
 		            <div class="col-md-12 list-block">
 		            <div class="col-md-6">
 		            	{{ if isset .Params "image" }}
-						<div class="list-img"><img src="/{{ .Params.image }}"/></div>
+						<div class="list-img"><img src="{{ .Site.BaseURL }}{{ .Params.image }}"/></div>
 						{{ end }}
 				    </div>
 				    <div class="col-md-6">

@@ -5,14 +5,15 @@
       <h2>{{ .Site.Params.team.title1 }}</h2>
     </div>
   </div>
-   
+  {{ $baseUrl := .Site.BaseURL }}
+
   <!-- Content -->
   {{ if gt (len .Site.Data.team.senior_management) 0 }}
     <div class="row">
         {{ range .Site.Data.team.senior_management }}
           <div class="col-md-5 col-sm-3">
             <div class="team-item">
-              <img src="/{{ .image }}" class="img-responsive img-circle"></i>
+              <img src="{{ $baseUrl }}{{ .image }}" class="img-responsive img-circle"></i>
               <h4>{{ .name }}</h4>
               <span>{{ .designation }}</span>
             </div>

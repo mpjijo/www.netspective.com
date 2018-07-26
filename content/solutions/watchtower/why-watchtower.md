@@ -7,8 +7,7 @@ section_menu_label: Why Watchtower?
 
 ---
 
-When you develop software, something always goes wrong. Always.
-Face it. In software development, bugs, errors and exceptions are unavoidable. Your process will always be long and complex. And if you develop healthcare software, add another layer of must-haves and must-dos to the usual process and quality requirements.
+When you develop software, something always goes wrong. Always. Face it. In software development, bugs, errors and exceptions are unavoidable. Your process will always be long and complex. And if you develop healthcare software, add another layer of must-haves and must-dos to the usual process and quality requirements.
 
 **Getting quality right—the first time**
 

@@ -1,14 +1,12 @@
 +++
 title = "Enterprise I.T."
-metatitle = "Enterprise I.T. - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Enterprise IT planning is an immensely valuable process. It helps organizations create technically viable, cost effective projects which are easy to execute. It also capitalizes on existing technology investments, allowing enterprises scale their infrastructure to accommodate future upgrades and enhancements. This process can be particularly helpful in government, where systems often cut across agency boundaries hellip"
-path =  "img/technology-services/img-federal.jpg"
 +++
 Enterprise IT planning is an immensely valuable process. It helps organizations create technically viable, cost effective projects which are easy to execute. It also capitalizes on existing technology investments, allowing enterprises scale their infrastructure to accommodate future upgrades and enhancements. This process can be particularly helpful in government, where systems often cut across agency boundaries and highly varied technologies.
 
-![identity-management](/img/technology-services/img-federal.jpg#right)
+![identity-management](img/technology-services/img-federal.jpg#right)
 
 But developing government IT plans is a big job. It requires in-depth technical knowledge, deep expertise in enterprise architecture design and enterprise application Integration, and extensive domain exposure to come up with a comprehensive enterprise IT implementation plan.
 
@@ -42,7 +40,7 @@ Enterprise Architecture brings the following advantages to an organization:
 
 ### Guiding you through Enterprise Architecture planning
 
-![blueprint](/img/technology-services/blueprint.jpg#left)
+![blueprint](img/technology-services/blueprint.jpg#right)
 
 Netspective has carried out numerous EA implementations, and has in the process acquired a wealth of knowledge that it can leverage to steer organizations through key phases of the process. Our Enterprise Architects work hand in hand with clients, and create iterative and incremental models based on use-cases and business rules to arrive at a model that is uniquely suited to a particular organization.
 
@@ -51,6 +49,7 @@ While building an Enterprise Architecture, our team takes every aspect of your c
 * Identifying the organization’s goals and business objectives, hierarchical structure, business functions, as well as refining the processes and standards that drive its day-to-day operations.
 * Analyzing your organization’s application portfolio and the interdependencies of various components, as well as offering plans for upgrades and future expansion.
 * Defining and classifying the information that the organization needs to operate efficiently. By defining data management policies and information collection and consumption patterns, they allow your company to develop a shared, distributed and consistent data resource.
+
 * Offering a detailed picture of your company’s technology infrastructure, including the hardware, software, operating systems and networking solutions your organization depends upon to realize its business objectives.
 
 The end result is improved decision making, greater adaptability to changing demands or market conditions, elimination of inefficient and redundant processes and better use of assets.
@@ -63,7 +62,7 @@ First we assess your business drivers and corporate strategy. Using that underst
 
 ### The NEAP Process
 
-![neap-process](/img/technology-services/neap-process.gif#left)
+![neap-process](img/technology-services/neap-process.gif#left)
 
 
 

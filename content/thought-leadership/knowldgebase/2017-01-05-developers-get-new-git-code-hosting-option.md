@@ -1,5 +1,6 @@
 +++
 title = "Developers get new Git code-hosting option"
+metatitle = "Developers get new Git code-hosting option - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/developers-get-new-git-code-hosting-option/"
 categories = "Data Science"

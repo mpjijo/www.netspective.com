@@ -23,7 +23,7 @@ In many organizations, we have bought a great deal of productivity to systems en
 ### Business Process Management in Healthcare
 **Meaningful Use: Are you ready?**
 
-The new Meaningful Use standards issued by HHS offer well-prepared providers an unprecedented opportunity to collect large financial bonuses. However, meeting these standards won’t be easy.![Healthcare-IT-Training](/img/consulting-services/Healthcare-IT-Training.jpg#left)
+The new Meaningful Use standards issued by HHS offer well-prepared providers an unprecedented opportunity to collect large financial bonuses. However, meeting these standards won’t be easy.![Healthcare-IT-Training](img/consulting-services/Healthcare-IT-Training.jpg#left)
 
 To comply with Meaningful Use rules, providers will need to make extensive use of certified electronic healthcare records (EHRs) and electronic medical records (EMRs) not only to capture and share data, but also to employ advanced electronic clinical processes that result in improved outcomes.
 

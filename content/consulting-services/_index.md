@@ -11,7 +11,7 @@ In today’s regulated industries like Healthcare, Government and Medical Techno
 
 ### Ready, set, strategize!
 
-Netspective’s Consulting Services focuses on the bigger picture, helping overall business or specific business functions achieve their goals and objectives within regulated environments. Our extensive understanding of over 15 years in Healthcare provider and Medical technology industries,can help organizations develop actionable plans at both the enterprise and business-unit level that will help organizations keep up with the pace of change.![business-planning](/img/consulting-services/business-planning.jpg#right)
+Netspective’s Consulting Services focuses on the bigger picture, helping overall business or specific business functions achieve their goals and objectives within regulated environments. Our extensive understanding of over 15 years in Healthcare provider and Medical technology industries,can help organizations develop actionable plans at both the enterprise and business-unit level that will help organizations keep up with the pace of change.![business-planning](img/consulting-services/business-planning.jpg#right)
 
 When you engage with Netspective, we help you evaluate the competitive landscape and identify areas that offer potential now and in the future. Not only do we find areas where you can move in quickly and decisively, we also help you establish markets where you can grow steadily and profitably quarter after quarter, year after year.
 

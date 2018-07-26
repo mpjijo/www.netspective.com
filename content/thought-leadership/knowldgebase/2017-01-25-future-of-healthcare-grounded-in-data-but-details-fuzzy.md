@@ -1,5 +1,6 @@
 +++
 title =  "Future of healthcare grounded in data but details fuzzy"
+metatitle = "Future of healthcare grounded in data but details fuzzy - Netspective"
 type  = "page"
 url = "/thought-leadership/knowldgebase/future-of-healthcare-grounded-in-data-but-details-fuzzy/"
 categories = "Data Science"

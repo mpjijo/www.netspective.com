@@ -1,5 +1,6 @@
 +++
 title = "Cybersecurity  What healthcare administrators need to know"
+metatitle = "Cybersecurity What healthcare administrators need to know - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/cybersecurity-what-healthcare-administrators-need-to-know/"
 categories = "Cybersecurity"

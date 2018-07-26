@@ -20,7 +20,7 @@ Activated patients are engaged. They are better able to communicate with their c
 * Describing their treatment options.
 * Getting them to take a more active role in improving their health.
 
-![Patient-Activation](/img/solutions/contexxio/Patient-Activation-1.jpg#center)
+![Patient-Activation](img/solutions/contexxio/Patient-Activation-1.jpg#center)
 
 **Use Contexxio to:**
 

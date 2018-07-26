@@ -1,7 +1,8 @@
 <!-- Service Start -->
 <section id="service">
   <div class="container service">
-    
+    {{ $baseUrl := .Site.BaseURL }}
+
     <!-- Intro -->
     <div class="row">
       <div class="section-title">
@@ -56,7 +57,7 @@
         <div class="col-md-5 col-sm-3">
           <div class="service-item">
             <a href="{{ .link }}" target="_blank">
-            <img src="{{ .image }}"></i>
+            <img src="{{ $baseUrl }}{{ .image }}"></i>
             <h4>{{ .name }}</h4>
             </a>
           </div>

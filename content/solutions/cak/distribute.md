@@ -7,7 +7,7 @@ section_icon_image: img/solutions/cak/distribution.png
 ---
 ### Say Good-bye to Manual Content Distribution
 
-![cak-Distribute](/img/solutions/cak/cak-Distribute.jpg#center)
+![cak-Distribute](img/solutions/cak/cak-Distribute.jpg#center)
 
 
 The Netspective Content Assembler Kit helps you provide your audience with well-organized, attractive content and distribute it broadly where they want to find it.

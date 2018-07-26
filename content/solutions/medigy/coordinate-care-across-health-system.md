@@ -13,7 +13,7 @@ Healthcare providers are using ever-growing volumes of data to understand how th
 
 With patient data collected at various points of care, there’s a lot of information available for analysis. When collected from various sources, this data must be aggregated and reconciled to identify gaps, duplications and conflicts. When data is harmonized, it can be used to improve healthcare coordination and standardization.
 
- ![assement-process](/img/solutions/medigy/Coordinate-Care-across-Health-Systems.jpg#center)
+ ![assement-process](img/solutions/medigy/Coordinate-Care-across-Health-Systems.jpg#center)
 
  **Use Medigy Care Coordination Services to:**
  

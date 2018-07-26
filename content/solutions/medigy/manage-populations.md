@@ -12,7 +12,7 @@ Population Health Management (PHM) focuses on improving the health of defined gr
 
 Medigy functions as an EHR add-on leveraging data to redesign care. It helps power clinical decisions to advance patient outcomes, improve quality, and lower costs.
 
- ![assement-process](/img/solutions/medigy/Manage-Populations-across-Boundaries.jpg#center)
+ ![assement-process](img/solutions/medigy/Manage-Populations-across-Boundaries.jpg#center)
 
  **Medigy facilitates PHM by making data accessible to physicians at the point of care. Use Medigy to:**
  

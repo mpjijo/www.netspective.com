@@ -15,7 +15,7 @@ section_icon_image: img/solutions/medigy/Patient-Activation.png
 Many healthcare providers don’t educate their patients so they can make informed decisions about treatment and care. Even if providers try to inform patients, many get overwhelmed and fail to follow even simple instructions.
  
 
- ![assement-process](/img/solutions/medigy/Patient-Activation.jpg#center)
+ ![assement-process](img/solutions/medigy/Patient-Activation.jpg#center)
 
 It’s possible to improve patient activation levels. But to do it, healthcare systems must provide patients with better support and communicate healthcare information more effectively. Medigy enables better patient activation. It provides tools and access to healthcare information that improves communication and outcomes and reduces healthcare costs.
 

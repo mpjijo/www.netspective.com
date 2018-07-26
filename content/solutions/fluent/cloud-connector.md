@@ -11,4 +11,4 @@ The fluent cloud agent acts as a plug and play cloud connector agent that your c
 
 **Use the Fluent Cloud Agent** when you want to securely exchange cloud data with your customers’ internal systems without the hassle of custom software installations, firewall rule changes, or VPNs.
 
-![cloudconnector](/img/solutions/fluent/cloudconnector.png#center)
+![cloudconnector](img/solutions/fluent/cloudconnector.png#center)

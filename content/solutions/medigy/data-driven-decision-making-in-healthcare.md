@@ -16,7 +16,7 @@ section_icon_image: img/solutions/medigy/Data-Driven-Decision-Making.png
 **Healthcare Data for Better Decision Making**
  <p>Netspective™ Medigy®, our healthcare data framework, helps you overcome these and other data-related issues. We designed Medigy to help healthcare professionals and organizations use their clinical and operations data to make better decisions.</p>
  
- ![assement-process](/img/solutions/medigy/Data-Driven-decision-making-in-Healthcare.jpg#center)
+ ![assement-process](img/solutions/medigy/Data-Driven-decision-making-in-Healthcare.jpg#center)
 
 Here are a few of the many ways to use Medigy in your healthcare system:
  

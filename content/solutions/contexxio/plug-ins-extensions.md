@@ -10,7 +10,7 @@ section_icon_image: img/solutions/contexxio/plugins-extensions.png
 
 The Contexxio medical content plug-in provides immediate access to a wide variety of content that helps to improve healthcare. You can install Contexxio in EMR, EHR and PHR systems, and in wellness, fitness and other healthcare-related applications.
 
-![Get-Immediate-Access-to-Context-Specific-Content](/img/solutions/contexxio/Get-Immediate-Access-to-Context-Specific-Content.jpg#center)
+![Get-Immediate-Access-to-Context-Specific-Content](img/solutions/contexxio/Get-Immediate-Access-to-Context-Specific-Content.jpg#center)
 
 #### Overcome Obstacles to Easy Data Access
 
@@ -20,7 +20,7 @@ Healthcare providers can add the extension to their browser and enjoy the same f
 
 **Because caregivers use, different browsers, Contexxio extensions are available for:**
 
-![Overcome-Obstacles-to-Easy-Data-Access](/img/solutions/contexxio/Overcome-Obstacles-to-Easy-Data-Access.jpg#right)
+![Overcome-Obstacles-to-Easy-Data-Access](img/solutions/contexxio/Overcome-Obstacles-to-Easy-Data-Access.jpg#right)
 
 * Microsoft® Internet Explorer®
 * Microsoft Edge®

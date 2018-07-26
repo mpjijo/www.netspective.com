@@ -22,6 +22,6 @@ Our customers use Fluent to get their Jobs done easily and securely.
 * **Educational Institutions** – Provides an easy channel of communication between students and teachers and much more.
 * **Enterprise** – An agent based framework for intranet and internet communication and file sharing which supports various Cloud Storage providers like Box and Dropbox.
 
-![Fluent](/img/solutions/fluent/Fluent.png#center)
+![Fluent](img/solutions/fluent/Fluent.png#center)
 
 {{<benefits type="fluent-features" column="4">}}

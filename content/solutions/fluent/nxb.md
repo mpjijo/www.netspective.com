@@ -18,9 +18,9 @@ NXB follows the principle of IFTTT. The Fluent Agent provides NXB using a plug-i
 * **Share your pictures.** Simply take a picture or a video and instantly share it from your desktop PCs.
 * **Create your own workflow.** Scan photos of your office get-togethers and have them be sent to shared locations where the staff can view them.
 
-![NXB9](/img/solutions/fluent/NXB9.png#center)
+![NXB9](img/solutions/fluent/NXB9.png#center)
 
 Multiple triggers can use the same action and vice versa.
 
 
-![NXB](/img/solutions/fluent/NXB.jpg#center)
+![NXB](img/solutions/fluent/NXB.jpg#center)

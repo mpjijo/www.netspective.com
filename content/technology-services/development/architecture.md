@@ -29,7 +29,7 @@ Netspective well-defined methodologies, processes and SOA reference architecture
 
 Our architects work closely with our customers to help them define a distinct architecture for their enterprise based on the current trends in Healthcare, Government and Medical Technology industries. We apply our years of experience in positioning the latest trends in technology within the best solutions to guarantee an architecture that will perform and be extendable.
 
-![software-architecture](/img/technology-services/software-architecture.jpg#center) 
+![software-architecture](img/technology-services/software-architecture.jpg#center) 
 
 At Netspective, we believe in building architectures with a difference.
 

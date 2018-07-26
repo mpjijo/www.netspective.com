@@ -36,8 +36,8 @@ Use Medigy to:
 
 {{<column type="medigy-why">}}
 
-![assement-process](/img/solutions/medigy/medigy.jpg#center)
-![assement-process](/img/solutions/medigy/medigy1.jpg#center)
+![assement-process](img/solutions/medigy/medigy.jpg#center)
+![assement-process](img/solutions/medigy/medigy1.jpg#center)
 
 
 Medigy is built on a secure, HIPAA-compliant, Meaningful Use certifiable, open source foundation that can support any innovative healthcare application you’re thinking of deploying. The platform can support any healthcare application you can design and deploy. And, it can integrate with EHR systems, hospital applications, patient management systems, content management systems, and dozens of other healthcare IT platforms and applications

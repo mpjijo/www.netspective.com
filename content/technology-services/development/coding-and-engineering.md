@@ -30,7 +30,7 @@ As your product development partner, Netspective offers:
 
 **Verification and Validation**: Our verification service ensures that the product is being built right in terms of architectural design and concepts, while our validation service ensures that the right product is being built in terms of envisaged features and functionalities.
 
-![software-architecture](/img/technology-services/hardware-algorithm.jpg#left)
+![software-architecture](img/technology-services/hardware-algorithm.jpg#left)
 
 ### Software Development Services Portfolio
 
@@ -42,7 +42,7 @@ Netspective offers a very broad range of custom application development services
 
 Netspective senior software development team offers not just knowledge and experience, but also mature processes and methodologies, a firm command of industry best practices, a portfolio of re-usable components and efficient coding practices that lead to significantly lower costs.
 
-![software-architecture](/img/technology-services/custom-software.jpg#left)
+![software-architecture](img/technology-services/custom-software.jpg#left)
 
 ### System Analysis and Design
 
@@ -82,7 +82,7 @@ Open Source software is a critical tool for today’s business. Not only is it f
 
 In the proprietary model, companies write code, hide it behind binaries, charge customers vast sums for use of the software, and then charge them again for updates and fixes.But Open Source development frees you from vendor lock-in.
 
-![open-source](/img/technology-services/open-source.jpg#right)
+![open-source](img/technology-services/open-source.jpg#right)
 
 If you are ready to kick off or enhance your Open Source infrastructure, Netspective is highly qualified to help. Our Open Source services span the entire solutions space, ranging from enterprise architecture and application development to application integration and data migration. We offer focused research and development support and specialized consultancy services on architectural design, performance optimization, migration and security.
 
@@ -96,7 +96,7 @@ What’s more, wea’ve created a repository of best practices in frameworks, to
 
 Microsoft .NET is a collection of technologies which, when integrated across the Microsoft platform, allows developers to quickly build, deploy, manage and use connected, secure solutions with XML Web services. .NET allows developers to use multiple programming languages on a single platform. Add to this the extensive support for Web Services that .NET offers, and you have a comprehensive solution that can help organizations achieve faster business integration.
 
-![Microsoft](/img/technology-services/Microsoft.png#right)
+![Microsoft](img/technology-services/Microsoft.png#right)
 
 Netspective has unmatched experience with .NET development tools. Not only are we experts at building with .NET, we continually experiment with new releases to understand their features and capabilities. Netspective .NET practice also provides a suite of modular solution offerings that enable collaboration internally across applications and externally with partners.
 
@@ -104,7 +104,7 @@ Netspective has unmatched experience with .NET development tools. Not only are w
 
 ### Java
 
-![java](/img/technology-services/javalogo.png#left)
+![java](img/technology-services/javalogo.png#left)
 
 Netspective Java competency helps clients realize the benefits of Java Enterprise platforms and related technologies including Web Services. With experienced Java consultants skilled on all J2EE platforms, Netspective has built a center of excellence that focuses on skill building, knowledge management and pioneering research in emerging Open Source technologies. We’ve also compiled a rich knowledge base of best practices for using Java frameworks, tools and implementation techniques.
 

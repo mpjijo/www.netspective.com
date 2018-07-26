@@ -12,7 +12,7 @@ With increase in the number of pattern recognition tools over the past decade, i
 
 Netspective IDSS, which is a part of Netspective Medigy, provides a decision support system that gives doctors faster access to the information they need to make quicker, better and informed decisions, thereby providing quality and cost-effective care, resulting in healthier patients.
 
- ![assement-process](/img/solutions/medigy/IDSS.jpg#center)
+ ![assement-process](img/solutions/medigy/IDSS.jpg#center)
  
  **Netspective IDSS is used by radiologists, oncologists as well as researchers in the field of medicine.**
 

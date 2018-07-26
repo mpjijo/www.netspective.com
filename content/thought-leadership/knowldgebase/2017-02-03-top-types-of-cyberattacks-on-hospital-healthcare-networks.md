@@ -1,5 +1,6 @@
 +++
 title = "Top types of cyberattacks on hospital, healthcare networks"
+metatitle = "Top types of cyberattacks on hospital, healthcare networks - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/top-types-of-cyberattacks-on-hospital-healthcare-networks/"
 categories ="Cybersecurity"

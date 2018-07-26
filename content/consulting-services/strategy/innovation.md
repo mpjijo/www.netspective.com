@@ -8,7 +8,7 @@ description = "It takes more than sustaining and improving current value models 
 
 It takes more than sustaining and improving current value models to operate in today’s Healthcare and Medical Technology business. To build a platform for success in tomorrow’s business environment, new and innovative value models need to be in place as part of the organization’s innovation strategy.
 
-The HITECH Act offers what may be the most significant opportunity that healthcare providers have ever had, to improve patient care and generate revenue substantially not only as a direct outcome of enhanced operational efficiency but also by way of increased Medicare and Medicaid reimbursements. Under HITECH, the federal government is handing out billions in incentives to providers who successfully implement electronic medical records.![health-care](/img/consulting-services/health-care.jpg#left)
+The HITECH Act offers what may be the most significant opportunity that healthcare providers have ever had, to improve patient care and generate revenue substantially not only as a direct outcome of enhanced operational efficiency but also by way of increased Medicare and Medicaid reimbursements. Under HITECH, the federal government is handing out billions in incentives to providers who successfully implement electronic medical records.![health-care](img/consulting-services/health-care.jpg#left)
 
 To get their share of HITECH funding, it’s critical for healthcare organizations to demonstrate that they are making meaningful use of their EMRs and integrating Medical / Clinical devices and applications with their EMRs.
 

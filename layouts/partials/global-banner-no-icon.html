@@ -5,7 +5,7 @@
 	        <div class="col-md-12">
             <div class="col-md-6">
             	{{ if isset .Params "banner_image" }}
-                <p><img src="{{ .Params.banner_image }}" alt="{{ .Title }}"></p>
+                <p><img src="{{ .Site.BaseURL }}{{ .Params.banner_image }}" alt="{{ .Title }}"></p>
 	            {{ end }}
             </div>
             <div class="col-md-6">

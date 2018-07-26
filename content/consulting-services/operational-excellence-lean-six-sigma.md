@@ -8,7 +8,7 @@ path =  "img/consulting-services/Netspective-Lean-Six-Sigma-OE-Package.jpg"
 +++
 
 ### Process Improvement using Lean Six Sigma
-![Netspective-Lean-Six-Sigma-OE-Package](/img/consulting-services/Netspective-Lean-Six-Sigma-OE-Package.jpg#right)
+![Netspective-Lean-Six-Sigma-OE-Package](img/consulting-services/Netspective-Lean-Six-Sigma-OE-Package.jpg#right)
 Achieve Operational Excellence in your organization with Netspective’s Lean Six Sigma consulting, training, and implementation services.It focuses on eliminating waste from core operational processes thereby building high quality business processes and increasing efficiency, quality, operational speed and customer satisfaction.
 
 We believe in understanding your current organizational processes before providing you a solution. Our team will work with your staff to streamline processes, improve productivity of your staff, increase your ROI and address your organization’s strategic priorities.

@@ -11,4 +11,4 @@ Because requests for information should be easy on information requester(IR)s, r
 
 ### Current Assessment Process is Arduous
 
-![Current-assement-process](/img/solutions/attest/Current-assement-process.jpg#center)
+![Current-assement-process](img/solutions/attest/Current-assement-process.jpg#center)

@@ -13,5 +13,5 @@ Access the compliance risks associated and provide guidance to support implement
 Ensure CUI security requirements are met and provide a complete coverage report based on federal policies, standards, and guidance.
 
 
-![cui](/img/solutions/opsfolio/accordin-cui-audit.jpg#center)
+![cui](img/solutions/opsfolio/accordin-cui-audit.jpg#center)
 

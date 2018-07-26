@@ -11,7 +11,7 @@ section_icon_image: img/solutions/medigy/Track-Metrics-Quality-Scores.png
  
 Effective data capture and analytics are vital to predicting chances of illness, preventing hospitalization, reducing the rate of re-admissions and ensuring high-quality care. By connecting to your EHR and other clinical systems, Medigy uses the data from these systems to measure differences from standard clinical guidelines and provides preventive care information. Medigy predictive analytics identify patients or groups of patients who are prone to illness and might need care early on.
 
- ![assement-process](/img/solutions/medigy/Track-Metrics-Quality-Scores-min.jpg#center)
+ ![assement-process](img/solutions/medigy/Track-Metrics-Quality-Scores-min.jpg#center)
 
  **Medigy can help ACOs track quality metrics and improve quality scores.**</br>
  You can use Medigy to:

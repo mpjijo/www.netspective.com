@@ -11,7 +11,7 @@ The increase in the usage of smartphones and smart devices like location devices
 
 Netspective Professional Services provides you with a robust IoT platform which can be used to share and derive insights from the data collected from all your connected objects. In the field of healthcare, our services play a major role in enhancing the quality of care and improving care coordination. We aim to make the lives of patients, especially those with complex conditions and aged patients, better.
 
-![professional_services](/img/solutions/fluent/professional_services.jpg#center)
+![professional_services](img/solutions/fluent/professional_services.jpg#center)
 
 #### The Fluent IoT offerings can:
 

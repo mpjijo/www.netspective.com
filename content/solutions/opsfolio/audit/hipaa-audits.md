@@ -14,5 +14,5 @@ Finding and classifying sensitive protected health information and preventing it
 
 Create easy-to-use management and technical reports that your own staff or partners can follow for remediation.
 
-![accordin-hippa](/img/solutions/opsfolio/accordin-hippa.jpg#center)
+![accordin-hippa](img/solutions/opsfolio/accordin-hippa.jpg#center)
 

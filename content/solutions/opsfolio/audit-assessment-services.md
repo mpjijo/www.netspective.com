@@ -14,6 +14,6 @@ Our on-demand consulting and assessment services use Opsfolio to help you:
 * Find and mitigate obvious security vulnerabilities in your network and across your infrastructure.
 * Build security and compliance monitoring strategies that adapt to changing threats and regulatory requirements.
 
-![Audit-Assessment1](/img/solutions/opsfolio/Audit-Assessment1.jpg#center)
+![Audit-Assessment1](img/solutions/opsfolio/Audit-Assessment1.jpg#center)
 
 {{<accordion type="opsfolio-audit">}}

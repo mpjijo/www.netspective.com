@@ -9,7 +9,7 @@
             {{ range .Site.Pages }}
             {{ if eq .Type $type }}
             <div class="clients-logo-img">
-              <img src="{{ .Params.image }}" alt="{{ .Title }}">
+              <img src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="{{ .Title }}">
             </div>
             {{ end }}
             {{ end }}

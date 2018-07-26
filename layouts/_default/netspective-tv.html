@@ -33,7 +33,7 @@
                   {{$slug := delimit .Params.catslug " " }}                  
                     <li class="mix {{ $slug }}">
                       <a href="{{ .Params.url }}">
-                        <img src="/{{ .Params.image }}" alt="">
+                        <img src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="">
                         <div class="overly">
                           <div class="position-center">
                             <h2>{{ .Title }}</h2>

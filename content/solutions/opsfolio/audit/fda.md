@@ -16,5 +16,5 @@ Build and maintain a compliance program that satisfies current requirements.
 
 Easily manage assets and processes when standards change.
 
-![accordin-hippa](/img/solutions/opsfolio/qsr.jpg#center)
+![accordin-hippa](img/solutions/opsfolio/qsr.jpg#center)
 

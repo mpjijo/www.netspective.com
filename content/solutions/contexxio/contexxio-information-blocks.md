@@ -16,7 +16,7 @@ Information blocks give healthcare providers immediate access to authoritative c
 * Contexxio provides information blocks for different categories of users: patients, doctors, nurses, dieticians and other caregivers.
 * The Contexxio application plug-in analyzes EHR records to help find and display content topics that are most relevant to specific patients, healthcare providers and medical conditions.
 
-![Contexxio-Information-Blocks](/img/solutions/contexxio/Contexxio-Information-Blocks.jpg#center)
+![Contexxio-Information-Blocks](img/solutions/contexxio/Contexxio-Information-Blocks.jpg#center)
 
 **Use Contexxio information blocks to display these types of patient-specific content:**
 

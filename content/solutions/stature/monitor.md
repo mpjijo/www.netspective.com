@@ -18,8 +18,8 @@ With data coming in periodically, Stature provides deep insights in data through
 * Different views of data to different roles of users (e.g. show patients what they care about, show hospitals what they care about, etc.)
 
 #### Tracking PI data
-![Tracking-PI-reputation](/img/solutions/stature/Tracking-PI-reputation.jpg#center)
+![Tracking-PI-reputation](img/solutions/stature/Tracking-PI-reputation.jpg#center)
 
 #### Tracking patient data
 
-![Tracking-patient-data](/img/solutions/stature/Tracking-patient-data.jpg)
+![Tracking-patient-data](img/solutions/stature/Tracking-patient-data.jpg)

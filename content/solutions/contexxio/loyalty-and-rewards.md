@@ -10,7 +10,7 @@ section_icon_image: img/solutions/contexxio/Loyalty-Rewards.png
 
 To improve [patient activation](/solutions/contexxio/#pa), Contexxio includes a patient compliance program based on its loyalty and rewards engine. Patients are encouraged to engage fully in their healthcare plan by receiving loyalty points for each program activity they perform and record in their healthcare plan page
 
-![Loyalty-and-Rewards-Engine](/img/solutions/contexxio/Loyalty-and-Rewards-Engine.jpg#center)
+![Loyalty-and-Rewards-Engine](img/solutions/contexxio/Loyalty-and-Rewards-Engine.jpg#center)
 
 **The loyalty and rewards engine:**
 

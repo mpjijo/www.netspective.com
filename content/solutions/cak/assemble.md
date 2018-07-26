@@ -21,4 +21,4 @@ Successful enterprise selling demands content. Lots of it. Brochures, sell sheet
   
 So, you can spend minutes, not days looking for just the right content that helps meet your marketing goals.
 
-![cak-assemble](/img/solutions/cak/CAK-1.png#center)
+![cak-assemble](img/solutions/cak/CAK-1.png#center)

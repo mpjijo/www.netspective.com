@@ -9,7 +9,7 @@ section_icon_image: img/solutions/contexxio/pghd.png
 Patient-generated health data contributes more and more to high-quality healthcare. This is due to the fact that patient data is collected by patients continuously and not by clinicians just during hospital visits. This offers an opportunity to provide information needed during care, with potential cost savings and improvements in quality, care coordination, and patient safety.
 
 
-![pghd](/img/solutions/contexxio/pghd.jpg#center)
+![pghd](img/solutions/contexxio/pghd.jpg#center)
 
 **Use Contexxio PGHD capabilities to:**
 

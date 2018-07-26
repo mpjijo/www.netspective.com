@@ -10,7 +10,7 @@ section_menu_label: What is it?
 
 The Contexxio plug-in functions as a clinical content delivery and patient education platform. Healthcare providers and organizations can use Contexxio to retrieve context sensitive information related to patients’ diagnoses, procedures, medical conditions and health plans. Contexxio uses the information collected from information providers like WebMD, PDR, CME etc to deliver relevant content to EHRs and other digital healthcare systems in real time.
 
-![What-is-Contexxio3](/img/solutions/contexxio/What-is-Contexxio3.jpg#center)
+![What-is-Contexxio3](img/solutions/contexxio/What-is-Contexxio3.jpg#center)
 
 #### Delivering Vital Medical Data in Real Time
 
@@ -31,7 +31,7 @@ The Contexxio plug-in functions as a clinical content delivery and patient educa
 
 {{<benefits type="contexxio" column="4">}}
 
-![What-is-Contexxio-Cont’d-from-previous-page](/img/solutions/contexxio/What-is-Contexxio-Cont’d-from-previous-page.jpg#center)
+![What-is-Contexxio-Cont’d-from-previous-page](img/solutions/contexxio/What-is-Contexxio-Cont’d-from-previous-page.jpg#center)
 
 #### Contexxio Data Aggregator and Processor module:
 
@@ -60,4 +60,4 @@ The custom applications can use the incoming data for predictive analysis, disea
 * Healthcare plans
 * Follow-up care
 
-![Info-Serving-Process](/img/solutions/contexxio/Info-Serving-Process.jpg#center)
+![Info-Serving-Process](img/solutions/contexxio/Info-Serving-Process.jpg#center)

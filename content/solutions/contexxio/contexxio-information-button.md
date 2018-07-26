@@ -12,7 +12,7 @@ Contexxio uses its data analytics capabilities to look for topics in EHR data th
 
 Contexxio information buttons provide links on the EHR display to third-party reference information that supports clinical decision making.
 
-![Contexxio-Information-Buttons](/img/solutions/contexxio/Contexxio-Information-Buttons.jpg#center)
+![Contexxio-Information-Buttons](img/solutions/contexxio/Contexxio-Information-Buttons.jpg#center)
 
 **Buttons are designed to anticipate and meet clinicians’ information requirements. They point users to information that’s relevant to the patient, caregivers, clinical setting or EHR task. Contexxio uses information buttons to provide:**
 

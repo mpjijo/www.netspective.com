@@ -12,7 +12,7 @@ With a huge increase in the address space with IPv6 and the convergence of wirel
 Netspective’s Fluent IoT Server is the fastest path to advanced IoT solutions. It provides all the back-end functionality that is needed for the communication and management of connected things. It enables data, agent, device and profile management for your connected objects. The Fluent agent is embedded or installed into a connected device which enables the secure exchange of data between the connected thing and the Fluent IoT Server.
 
 
-![fluent_to_server](/img/solutions/fluent/fluent_to_server.jpg#center)
+![fluent_to_server](img/solutions/fluent/fluent_to_server.jpg#center)
 
 **The following are some of the advantages of using Fluent IoT Server:**
 
@@ -31,4 +31,4 @@ Netspective’s Fluent IoT Server is the fastest path to advanced IoT solutions.
 
 #### Fluent IoT Server Usecases
 
-![iotserver_usecases](/img/solutions/fluent/iotserver_usecases.jpg#center)
+![iotserver_usecases](img/solutions/fluent/iotserver_usecases.jpg#center)

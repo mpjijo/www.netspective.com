@@ -19,4 +19,4 @@ Think of CAK as your marketing team in a box. Use it to:
 * When you use the CAK, your prospects and customers will enjoy a steady stream of authoritative content and be more likely to become or remain a customer.
 
 
-![what-is-cak](/img/solutions/cak/Netspective-Content-Assembler-Kit-Diagram.jpg#center)
+![what-is-cak](img/solutions/cak/Netspective-Content-Assembler-Kit-Diagram.jpg#center)

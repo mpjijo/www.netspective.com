@@ -1,5 +1,8 @@
 <!-- Slider Start -->
 {{ if gt (len .Site.Data.slider) 0 }}
+
+{{ $baseUrl := .Site.BaseURL }}
+
 <div class="slider-bg">
 <div class="shadow"></div>
 <section id="slider">
@@ -26,7 +29,7 @@
           <div class="carousel-inner">
             {{ range sort .Site.Data.slider "weight" }}
             <div class="item {{ .class }}">
-              <img src="{{ .image }}" alt="{{ .name }}">
+              <img src="{{ $baseUrl }}{{ .image }}" alt="{{ .name }}">
             </div>            
             {{ end }}                  
           </div>

@@ -13,7 +13,7 @@ Understanding patient behavior plays a major role in improving patient health. T
 
 Patients are usually diagnosed with a medical history—their own story of diseases, symptoms and conditions. Data from wearable devices can provide additional information, which helps diagnose the patient’s condition better and provide a more appropriate treatment.
 
- ![assement-process](/img/solutions/medigy/Medical-Devices-and-Wearables-Data-Integration.jpg#center)
+ ![assement-process](img/solutions/medigy/Medical-Devices-and-Wearables-Data-Integration.jpg#center)
 
  Wearable devices include:
  

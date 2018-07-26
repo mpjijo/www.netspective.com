@@ -11,7 +11,7 @@ Netspective Attest is an efficient way to assess the risk of your vendors, partn
 {{<benefits type="attest-features" column="5">}}
 
 ### Netspective Attest Process
-![assement-process](/img/solutions/attest/assement-process.jpg#center)
+![assement-process](img/solutions/attest/assement-process.jpg#center)
 
 #### Use Cases
 

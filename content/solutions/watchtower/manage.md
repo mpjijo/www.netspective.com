@@ -7,7 +7,7 @@ section_icon_label: Easy Integration
 section_icon_image: img/solutions/watchtower/Easy-Integration.png
 ---
 
-![Gather-and-Communicate](/img/solutions/watchtower/Gather-and-Communicate.jpg#left)
+![Gather-and-Communicate](img/solutions/watchtower/Gather-and-Communicate.jpg#left)
 
 Gather and Communicate Test Data Quickly and Easily
 
@@ -38,7 +38,7 @@ Use Watchtower to:
 
 Watchtower is easy to integrate with third-party testing tools. Simply import .csv files. Or, use APIs to capture results automatically.
 
-![Monitor-and-Guide](/img/solutions/watchtower/Monitor-and-Guide-Testing-from-an-Easy-to-Use-Dashboard.jpg#center)
+![Monitor-and-Guide](img/solutions/watchtower/Monitor-and-Guide-Testing-from-an-Easy-to-Use-Dashboard.jpg#center)
 
 Keep Your Team Productive and Your Project on Track
 
@@ -55,4 +55,4 @@ Use it to reduce the time and effort of:
 
 In short, you can spend less time finding and sharing results and more time making decisions vital to your project.
 
-![Keep-Your-Team-Productive](/img/solutions/watchtower/Keep-Your-Team-Productive.jpg#center)
+![Keep-Your-Team-Productive](img/solutions/watchtower/Keep-Your-Team-Productive.jpg#center)
