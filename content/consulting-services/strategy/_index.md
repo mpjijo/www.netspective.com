@@ -1,5 +1,6 @@
 +++
 title = "Strategy"
+metatitle = "Strategy-Business,Innovation,Product,Technology,Vendor-Healthcare,Medical Technology"
 type  = "page"
 layout = "menu-level-one"
 keywords = "Medical Technology, Healthcare & Government IT"
@@ -24,6 +25,6 @@ With extensive business and technology expertise, Netspective can guide the play
 
 **[Product](/consulting-services/strategy/product/)**: Netspective’s approach to building a complete product or platform portfolio includes examining your entire product delivery process end-to-end. By interviewing key stakeholders, we get to know the organization’s goals. These goals are then evaluated to understand the extent to which it aligns with the existing product management and marketing strategies. With this evaluation data in hand, we can provide you a review of your key processes and an assessment of the level of integration required for the existing product functions with marketing, sales and client services.
 
-**[Technology](/consulting-services/strategy/technology/)**:Netspective focuses on mapping the organization’s business goals and strategies with their expectations from technology. We can guide you in picking the core technologies that best suits your needs and provide you with solutions to implement these technologies. We also analyze the infrastructure, hardware, software, OS and architecture requirements. We help leverage cloud, mobility and social media to provide solutions that help you put out distinctive products in the market place.
+**[Technology](/consulting-services/strategy/technology/)**: Netspective focuses on mapping the organization’s business goals and strategies with their expectations from technology. We can guide you in picking the core technologies that best suits your needs and provide you with solutions to implement these technologies. We also analyze the infrastructure, hardware, software, OS and architecture requirements. We help leverage cloud, mobility and social media to provide solutions that help you put out distinctive products in the market place.
 
-**[Vendor](/consulting-services/strategy/vendor/)**:Our vendor management services take care of product and technology acquisition as well as contingent staffing and outsourcing. We build customized vendor management strategies based on your needs. We help you pick and choose from the many choices that you have managed, in-house, outsourcing and on-premise services and solution providers.
+**[Vendor](/consulting-services/strategy/vendor/)**: Our vendor management services take care of product and technology acquisition as well as contingent staffing and outsourcing. We build customized vendor management strategies based on your needs. We help you pick and choose from the many choices that you have managed, in-house, outsourcing and on-premise services and solution providers.

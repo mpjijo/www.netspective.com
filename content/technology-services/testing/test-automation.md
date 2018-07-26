@@ -1,5 +1,6 @@
 +++
 title = "Test Automation"
+metatitle = "Test Automation - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "The past few years have seen drastic changes in testing methodologies. Organizations are moving towards test automation in order to save on cost and time. Enterprises are analyzing every phase of the testing life cycle to find out the areas that can be automated by using tools. From initial automated testing strategies where scripting hellip"

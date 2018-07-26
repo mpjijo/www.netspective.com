@@ -1,5 +1,6 @@
 +++
 title = "Platform"
+metatitle = "Platform - Netspective"
 type =  "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "A platform strategy that continues to provide functionality support, performance and technology leadership while making it flexible, affordable and easy to integrate can bring sustainable growth and market leadership. Sustaining existing Platforms while focusing on new product development is a big challenge and also a very critical need for Healthcare, Government and Medical Technology enterprises hellip"

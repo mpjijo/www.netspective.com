@@ -3,7 +3,7 @@ title: "The role of information governance in Health IT: Ep 21, HealthcareTalks"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
-url: /about-us/netspective.tv/securing-organizational-support-info-management-ep-23-healthcaretalks/
+url: /about-us/netspective.tv/role-information-governance-health-ep-21-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
 ---

@@ -1,5 +1,5 @@
 ---
-title: Why Watchtower?
+title: What is it?
 type: page
 slug: what-is-watchtower
 weight: 2

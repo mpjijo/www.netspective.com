@@ -7,8 +7,11 @@ type: "opsfolio-audit"
 PCI compliance is a good way to increase customer confidence in your business and make sure that you’re not exposed to avoidable security breaches. PCI compliance audits:
 
 Measure how well your POS system complies with APCI standards.
+
 Identify potential data security vulnerabilities.
+
 Help avoid compromising data privacy and security.
+
 Identify specific problem areas
 
 Preparing for successful PCI audits requires time, resources and experience. Netspective™ Opsfolio® Audit for PCI is an on-demand consulting service. We designed it to help corporate compliance officers and legal teams prepare for and engage in PCI audits. Opsfolio Audit for PCI services:

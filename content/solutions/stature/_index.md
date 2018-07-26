@@ -1,5 +1,7 @@
 +++
 title = "Stature"
+metatitle = "Netspective Stature"
+type = "solutions"
 layout = "solutions" 
 url = "/solutions/stature"
 banner_title   = "YOU WORKED HARD TO ESTABLISH YOUR REPUTATION.<br><br>USE THE POWER OF THE INTERNET TO KEEP IT STRONG."

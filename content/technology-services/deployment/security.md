@@ -1,5 +1,6 @@
 +++
 title = "Security"
+metatitle = "Security - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Enterprises in the Healthcare, Government and Medical Technology industries have a tricky path to walk if they want to maintain their IT or product security. They must create or incorporate new features and technology to provide better customer experience and also respond proactively to security and privacy threats, all while complying with changing regulatory requirements.hellip"

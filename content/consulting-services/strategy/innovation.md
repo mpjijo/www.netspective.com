@@ -1,5 +1,6 @@
 +++
 title = "Innovation"
+metatitle = "Innovation Strategy-IT Consulting-Medical Technology,Healthcare"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "It takes more than sustaining and improving current value models to operate in today's Healthcare and Medical Technology business. To build a platform for success in tomorrow's business environment, new and innovative value models need to be in place as part of the organization's innovation strategy. The HITECH Act offers what may be the most hellip"

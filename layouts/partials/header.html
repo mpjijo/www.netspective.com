@@ -3,12 +3,18 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <div class="text-right">
+        <div class="text-left phone col-md-6">
+          {{ if isset .Params "phone_number" }}
+          <img src="{{.Params.phone_img}}" />
+          {{ end }}
+          <span>{{ .Params.phone_number }}</span>
+        </div>
+        <div class="text-right col-md-6">
             <ul>
               {{ range .Site.Menus.social }}
                   <li><a href="{{ .URL }}" target="_blank"><i class="{{ .Name }}"></i>
                   </a></li>
-              {{ end }}
+              {{ end }}              
             </ul>      
         </div>
       </div>

@@ -1,5 +1,6 @@
 +++
 title = "Product"
+metatitle = "Product Strategy-Software,Hardware-Medical Technology"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Netspective provides product portfolio rationalization, product management and product development process consulting."

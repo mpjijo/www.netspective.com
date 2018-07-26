@@ -1,5 +1,6 @@
 +++
 title = "Infrastructure"
+metatitle = "Infrastructure - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "One dramatic change for IT and Technology products has been how Infrastructure is architected, procured and managed across enterprises. This change has occurred across most industry domains, but we see this change just beginning to happen within Healthcare, Government and Medical Technology industries. Enterprises and agencies are opening up to the idea and investing into hellip"
@@ -18,4 +19,4 @@ One of the biggest issues are regulatory and compliance concerns and these have 
 
 With changes in the regulatory environment for Healthcare, Government and Medical Technology, Enterprises seeking competitive advantage must adapt to consumerization of IT infrastructure. Netspective helps manage that both at the front and back end. We bring Device , security and server side data and platform management capability with ITIL best practices for secure and regulated anytime, anywhere, any device experience.
 
-Netspective provides the benefit of an optimized IT infrastructure, leveraging existing technology assets with emerging solutions including open source, while creating efficient internal processes. This brings down the overall cost, increases up-time and provides business and IT with an platform to develop next generation of applications and products. Netspective delivers these benefits with a [secure](/technology-services/deployment/security/), scalable and optimized [architecture](/technology-services/development/architecture/) and optimized IT organization.
+Netspective provides the benefit of an optimized IT infrastructure, leveraging existing technology assets with emerging solutions including open source, while creating efficient internal processes. This brings down the overall cost, increases up-time and provides business and IT with an platform to develop next generation of applications and products. Netspective delivers these benefits with a [secure](/technology-services/deployment/security/), scalable and optimized [architecture](/technology-services/manage/enterprise-i-t/) and optimized IT organization.

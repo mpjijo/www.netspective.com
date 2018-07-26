@@ -1,5 +1,6 @@
 +++
 title =  "Web 2.0"
+metatitle = "Web 2.0 - Netspective"
 type =  "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Up until a couple of years ago, there were no web sharing sites or applications. Information published or consumed on the web merely consisted of static web pages. This paradigm has undergone a drastic transformation with websites now being areas of active discussion, collaboration and interaction. This new model of content sharing sites, together called hellip"

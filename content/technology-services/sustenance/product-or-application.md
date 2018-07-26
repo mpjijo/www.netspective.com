@@ -1,5 +1,6 @@
 +++
 title = "Product Or Application"
+metatitle = "Product Or Application - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Technology is constantly evolving and new trends and methodologies keep coming into the market place. As technology grows, user demands also increase and organizations compete with each other to put out products in the market sooner so as to reach the consumers faster. As products evolve, organizations would need to be able to sustain themselves hellip"

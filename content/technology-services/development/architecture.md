@@ -1,8 +1,10 @@
 +++
 title = "Architecture"
+metatitle = "Architecture - Netspective"
 type =  "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "A good architecture design should fit in with your legacy systems and products, and should build on what has proven to work. The architecture should also enhance the value of your past investments in technology and processes and exploit opportunities for reuse within the system and across systems. This is especially true in the Healthcare, hellip"
+path =  "img/technology-services/software-architecture.jpg"
 +++
 
 A good architecture design should fit in with your legacy systems and products, and should build on what has proven to work. The architecture should also enhance the value of your past investments in technology and processes and exploit opportunities for reuse within the system and across systems. This is especially true in the Healthcare, Government and Medical Technology Industries, wherein regulatory evironment and diverse needs require a well planned scalable solution to be put in place. Additionally, a good solution architecture provides for present and future integration across various I.T. products like EHR’s, ERP’s, Custom Software with each other and across Medical Devices, Mobile Phones, Software based products and other technology infrastructure.

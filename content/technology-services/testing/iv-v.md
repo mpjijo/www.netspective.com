@@ -1,5 +1,6 @@
 +++
 title = "IV & V"
+metatitle = "IV & V - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Before they put software into production, many enterprises conduct an Independent Verification and Validation (IV & V) process to make sure it's bulletproof. To conduct IV & V testing, IT and Product organizations in regulated industries like Healthcare, Government and Medical Technology hire third parties with no ties to the professionals who developed the software. These third parties provide hellip"

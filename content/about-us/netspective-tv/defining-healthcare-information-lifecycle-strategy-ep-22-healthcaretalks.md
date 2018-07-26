@@ -3,7 +3,7 @@ title: "Defining your healthcare information lifecycle strategy: Ep 22, Healthca
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
-url: /about-us/netspective.tv/securing-organizational-support-info-management-ep-23-healthcaretalks/
+url: /about-us/netspective.tv/defining-healthcare-information-lifecycle-strategy-ep-22-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
 ---

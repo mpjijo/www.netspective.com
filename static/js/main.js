@@ -111,8 +111,8 @@ $(document).ready(function(){
 	var url = window.location.search;
 	url = url.replace("?q=", ''); 
 	if(url == '1'){
-		document.getElementById("registerhead").innerHTML = "Get a Free Consultation";
-		document.getElementById('formtitle').value="Get a Free Consultation";
+		document.getElementById("registerhead").innerHTML = "Request A Free Demo";
+		document.getElementById('formtitle').value="Request A Free Demo";
 	}
 	else if(url == '2'){
 		document.getElementById("registerhead").innerHTML = "Get a Free Consultation Today";

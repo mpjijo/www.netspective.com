@@ -1,8 +1,10 @@
 +++
 title = "Enterprise I.T."
+metatitle = "Enterprise I.T. - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Enterprise IT planning is an immensely valuable process. It helps organizations create technically viable, cost effective projects which are easy to execute. It also capitalizes on existing technology investments, allowing enterprises scale their infrastructure to accommodate future upgrades and enhancements. This process can be particularly helpful in government, where systems often cut across agency boundaries hellip"
+path =  "img/technology-services/img-federal.jpg"
 +++
 Enterprise IT planning is an immensely valuable process. It helps organizations create technically viable, cost effective projects which are easy to execute. It also capitalizes on existing technology investments, allowing enterprises scale their infrastructure to accommodate future upgrades and enhancements. This process can be particularly helpful in government, where systems often cut across agency boundaries and highly varied technologies.
 

@@ -1,5 +1,6 @@
 +++
 title =  "Data"
+metatitle = "Data - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Data plays a vital role in the decision making process of an organization. However, Healthcare, Government and Medical Technology firms despite the availability of huge volumes of data, are not able to tap into this valuable resource because of the inconsistency, inaccuracy and incompleteness of it. Management of data involves ensuring the availability of precise, hellip"

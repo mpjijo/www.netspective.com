@@ -1,13 +1,20 @@
 +++
 title = "Legacy Modernization"
+metatitle = "Legacy Modernization - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Nobody wants to be saddled with clunky, obsolete legacy applications. After all, the core systems have undergone so many changes over the years that the source code has become defunct and virtually impossible to update. As if that wasn't bad enough, these apps may not offer good Web integration options, handle data slowly and clumsily, hellip"
+path =  "img/technology-services/legacy-modernization.jpg"
+
 +++
 
-Nobody wants to be saddled with clunky, obsolete legacy applications. After all, the core systems have undergone so many changes over the years that the source code has become defunct and virtually impossible to update.![legacy-modernization](/img/technology-services/legacy-modernization.jpg#left)
+Nobody wants to be saddled with clunky, obsolete legacy applications. After all, the core systems have undergone so many changes over the years that the source code has become defunct and virtually impossible to update.
+
+![legacy-modernization](/img/technology-services/legacy-modernization.jpg#left)
 
 As if that wasn’t bad enough, these apps may not offer good Web integration options, handle data slowly and clumsily, have connectivity and integration problems, offer little room for adding new services and functions and often get little or no support from the companies that created them.
+
+Still, you invested plenty in these legacy apps back in the day, and you want to leverage whatever value they have left while you migrate to newer technology. The question is, how can you migrate without breaking your budget or spending too much time on the project?
 
 ### Legacy migration: An intimidating process
 

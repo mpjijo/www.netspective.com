@@ -1,5 +1,7 @@
 +++
 title = "watchtower"
+metatitle = "Netspective Watchtower"
+type = "solutions"
 layout = "solutions" 
 url = "/solutions/watchtower"
 banner_title   = "REAL TIME CUSTOMER EXPERIENCE INTELLIGENCE."

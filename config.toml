@@ -50,7 +50,7 @@ enableRobotsTXT ="true"
     weight = 3
     name = "Industries"
     identifier = "industries"
-    url = "#"
+    url = "/industries/healthcare/"
       [[menu.header]]
       parent = "industries"
       weight = 1
@@ -266,7 +266,7 @@ enableRobotsTXT ="true"
   [[menu.header]]
       weight = 6
       name = "Solutions"
-      url = "#"  
+      url = "/solutions/attest/"  
       identifier = "solutions"
       [[menu.header]]
       parent = "solutions"
@@ -361,23 +361,23 @@ enableRobotsTXT ="true"
   [[menu.footer]]
     weight = 1
     name = "About us"
-    url = "#"
+    url = "/about-us/"
   [[menu.footer]]
     weight = 2
-    name = "Contact us"
-    url = "#"
+    name = "Technology Services"
+    url = "/technology-services/"
   [[menu.footer]]
     weight = 3
-    name = "How it works"
-    url = "#"
+    name = "Consulting Services"
+    url = "/consulting-services/"
   [[menu.footer]]
     weight = 4
-    name = "Blog"
-    url = "#"
-  [[menu.footer]]
-    weight = 5
-    name = "Terms"
-    url = "#"
+    name = "Thought Leadership"
+    url = "/thought-leadership/"
+  # [[menu.footer]]
+  #  weight = 5
+  #  name = "Terms"
+  #  url = "#"
 
 # The site's parameters
 [params]
@@ -407,7 +407,7 @@ enableRobotsTXT ="true"
     subtitle = "Catch up with us, anytime and anywhere"
 
   [params.feature]
-    enable = true
+    enable = false
     title = "Breaking News: Frost and Sullivan confers Netspective with"
     content = "New Product Innovation Award Medical Device Interoperability North America, 2013"
     image = "img/Netspective-Communications-Award-Logo-150x150.jpg"

@@ -1,5 +1,7 @@
 +++
 title = "Medigy"
+metatitle = "Netspective Medigy"
+type = "solutions"
 layout = "solutions" 
 url = "/solutions/medigy"
 banner_title   = "DATA-DRIVEN CARE DELIVERY PLATFORM"

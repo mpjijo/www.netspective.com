@@ -1,9 +1,11 @@
 +++
 title = "Clients"
+metatitle = "Clients - Netspective"
 type  = "page"
 layout = "menu-level-one"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Netspective has successfully supported many organizations including Healthcare service providers, Government agencies, Medical Technology firms and other key organizations. Several large government agencies have engaged Netspective's Professional Services group to perform architecture and applications assessments for their components and partners. Netspective has used the Enterprise Architecture Planning Turn-key Service to conduct detailed analysis and reviews hellip"
+path =  "img/clients/collage.png"
 +++
 
 Netspective has successfully supported many organizations including Healthcare service providers, Government agencies, Medical Technology firms and other key organizations.

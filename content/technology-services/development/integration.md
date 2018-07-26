@@ -1,5 +1,6 @@
 +++
 title = "Integration"
+metatitle = "Integration - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "In the healthcare industry, the integration among the disparate Healthcare delivery systems has been a challenge for some time now. Devices such as the vital sign monitors and infusion pumps use custom protocols that are not designed for interoperability. The want of mandatory standards for these systems result in critical medical information being lost or hellip"

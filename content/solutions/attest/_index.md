@@ -1,5 +1,7 @@
 +++
 title = "Attest"
+metatitle = "Attest - Netspective Sites"
+type = "solutions"
 layout = "solutions" 
 url = "/solutions/attest"
 banner_title   = "AUTOMATED SECURITY ASSESSMENT QUESTIONNAIRES, RESPONSE SCORING, AND COMPLIANCE REPORTING SYSTEM"

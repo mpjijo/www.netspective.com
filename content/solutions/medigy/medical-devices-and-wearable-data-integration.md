@@ -19,7 +19,7 @@ Patients are usually diagnosed with a medical history—their own story of disea
  
  
   * **FDA-regulated medical devices** operated by physicians and care delivery organizations (CDOs). 
-  * **Unregulated medical devices**,  operated by clinicians and CDOs. 
+  * **Unregulated medical devices** operated by clinicians and CDOs. 
   * **FDA-regulated consumer medical devices**operated by patients (insulin pumps worn on the body). 
   * **Unregulated consumer wearables** operated by patients.Unregulated devices are usually wellness tracking devices. Their use focuses mainly on encouraging a healthy lifestyle rather than curing or treating specific illnesses. The Medigy platform collects data from wellness and regulated devices to improve patient outcomes. 
   

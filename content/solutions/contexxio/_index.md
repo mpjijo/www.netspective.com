@@ -1,5 +1,7 @@
 +++
 title = "Contexxio"
+metatitle = "Netspective Contexxio"
+type = "solutions"
 layout = "solutions" 
 url = "/solutions/contexxio"
 banner_title   = "YOUR MOUNTAIN OF CLINICAL DATA IS GROWING. <br><br>NOW, PUT IT TO WORK FOR YOUR PATIENTS."

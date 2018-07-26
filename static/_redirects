@@ -1,61 +1,225 @@
 # Redirects from what the browser requests to what we serve
 
-/about-netspective 													    /about-us
-/team				 													/about-us/team
-/about-us/2013/01/09/clients											/about-us/clients
-/about-us/2012/12/18/events												/about-us/events
-/blog/about-us/newsroom													/about-us/newsroom
-/netspective-tv															/about-us/netspective-tv
-/contactus																/about-us/contact
-/uncategorized/2012/12/18/healthcare									/industries/healthcare
-/uncategorized/2012/12/04/government									/industries/government
-/uncategorized/2012/12/18/medical-technology							/industries/medical-technology
-/technology-services/2012/12/18/development								/technology-services/development
-/technology-services/development/2012/12/18/architecture-4				/technology-services/development/architecture
-/technology-services/development/2012/12/18/coding-and-engineering 		/technology-services/development/coding-and-engineering
-/technology-services/development/2012/12/18/u-i-i-d						/technology-services/development/ui-id
-/technology-services/development/2012/12/18/integration-2				/technology-services/development/integration
-/technology-services/development/2012/12/18/web-2-0-2					/technology-services/development/web-2.0
-/technology-services/development/2012/12/18/mobility-3					/technology-services/development/mobility
-/technology-services/2012/12/18/testing									/technology-services/testing
-/technology-services/testing/2012/12/18/iv-v-2							/technology-services/testing/iv-v
-/technology-services/testing/2012/12/18/test-automation					/technology-services/testing/test-automation
-/technology-services/testing/2012/12/18/compliance-2					/technology-services/testing/compliance
-/technology-services/2012/12/18/sustenance								/technology-services/sustenance
-/technology-services/sustenance/2012/12/18/platform-2					/technology-services/sustenance/platform
-/technology-services/sustenance/2012/12/18/product-or-application		/technology-services/sustenance/product-or-application
-/technology-services/sustenance/2012/12/18/legacy-modernization			/technology-services/sustenance/legacy-modernization
-/technology-services/2012/12/18/deployment								/technology-services/deployment
-/technology-services/deployment/2012/12/28/cloud-3						/technology-services/deployment/cloud
-/technology-services/deployment/2012/12/18/security-3					/technology-services/deployment/security
-/technology-services/deployment/2012/12/18/release-management			/technology-services/deployment/release-management
-/technology-services/2012/12/18/manage									/technology-services/manage
-/technology-services/management/2012/12/18/infrastructure				/technology-services/manage/infrastructure
-/technology-services/management/2012/12/18/data							/technology-services/manage/data
-/technology-services/management/2012/12/18/access						/technology-services/manage/access
-/technology-services/management/2012/12/18/enterprise-i-t				/technology-services/manage/enterprise-i-t
-/technology-services/management/2012/12/18/content						/technology-services/manage/content
-/consulting-services-2/2012/12/18/go-to-market							/consulting-services/go-to-market
-/consulting-services-2/2012/12/18/business-process-management			/consulting-services/business-process-management
-/operational-excellence-lean-six-sigma									/consulting-services/operational-excellence-lean-six-sigma
-/consulting-services-2/2012/12/18/strategy								/consulting-services/strategy
-/consulting-services-2/strategy/2012/12/18/business						/consulting-services/strategy/business
-/consulting-services-2/strategy/2012/12/18/product-2					/consulting-services/strategy/product
-/consulting-services-2/strategy/2012/12/18/innovation-2					/consulting-services/strategy/innovation
-/consulting-services-2/strategy/2012/12/18/vendor						/consulting-services/strategy/vendor
-/consulting-services-2/strategy/2012/12/18/technology					/consulting-services/strategy/technology
-/consulting-services-2/2012/12/18/industry-and-technology-research		/consulting-services/industry-and-technology-research
-/consulting-services-2/2012/12/18/regulatory-compliance-standards		/consulting-services/regulatory-compliance-standards
-/attest																	/solutions/attest
-/cak																	/solutions/cak
-/contexxio																/solutions/contexxio
-/easyryde																/solutions/easyryde
-/fluent																	/solutions/fluent
-/medigy																	/solutions/medigy
-/nup																	/solutions/nup
-/opsfolio																/solutions/opsfolio
-/proveit																/solutions/proveit
-/stature																/solutions/stature
-/watchtower																/solutions/watchtower
-/knowledgebase															/thought-leadership/knowldgebase
-/resources																/thought-leadership/resources
+/blog/*																				/
+/about-netspective 													    			/about-us
+/team				 																/about-us/team
+/about-us/2013/01/09/clients														/about-us/clients
+/about-us/2012/12/18/events															/about-us/events
+/blog/about-us/newsroom																/about-us/newsroom
+/netspective-tv																		/about-us/netspective-tv
+/contactus																			/about-us/contact
+/uncategorized/2012/12/18/healthcare												/industries/healthcare
+/uncategorized/2012/12/04/government												/industries/government
+/uncategorized/2012/12/18/medical-technology										/industries/medical-technology
+/technology-services/2012/12/18/development											/technology-services/development
+/technology-services/development/2012/12/18/architecture-4							/technology-services/development/architecture
+/technology-services/development/2012/12/18/coding-and-engineering 					/technology-services/development/coding-and-engineering
+/technology-services/development/2012/12/18/u-i-i-d									/technology-services/development/ui-id
+/technology-services/development/2012/12/18/integration-2							/technology-services/development/integration
+/technology-services/development/2012/12/18/web-2-0-2								/technology-services/development/web-2.0
+/technology-services/development/2012/12/18/mobility-3								/technology-services/development/mobility
+/technology-services/2012/12/18/testing												/technology-services/testing
+/technology-services/testing/2012/12/18/iv-v-2										/technology-services/testing/iv-v
+/technology-services/testing/2012/12/18/test-automation								/technology-services/testing/test-automation
+/technology-services/testing/2012/12/18/compliance-2								/technology-services/testing/compliance
+/technology-services/2012/12/18/sustenance											/technology-services/sustenance
+/technology-services/sustenance/2012/12/18/platform-2								/technology-services/sustenance/platform
+/technology-services/sustenance/2012/12/18/product-or-application					/technology-services/sustenance/product-or-application
+/technology-services/sustenance/2012/12/18/legacy-modernization						/technology-services/sustenance/legacy-modernization
+/technology-services/2012/12/18/deployment											/technology-services/deployment
+/technology-services/deployment/2012/12/28/cloud-3									/technology-services/deployment/cloud
+/technology-services/deployment/2012/12/18/security-3								/technology-services/deployment/security
+/technology-services/deployment/2012/12/18/release-management						/technology-services/deployment/release-management
+/technology-services/2012/12/18/manage												/technology-services/manage
+/technology-services/management/2012/12/18/infrastructure							/technology-services/manage/infrastructure
+/technology-services/management/2012/12/18/data										/technology-services/manage/data
+/technology-services/management/2012/12/18/access									/technology-services/manage/access
+/technology-services/management/2012/12/18/enterprise-i-t							/technology-services/manage/enterprise-i-t
+/technology-services/management/2012/12/18/content									/technology-services/manage/content
+/consulting-services-2/2012/12/18/go-to-market										/consulting-services/go-to-market
+/consulting-services-2/2012/12/18/business-process-management						/consulting-services/business-process-management
+/operational-excellence-lean-six-sigma												/consulting-services/operational-excellence-lean-six-sigma
+/consulting-services-2/2012/12/18/strategy											/consulting-services/strategy
+/consulting-services-2/strategy/2012/12/18/business									/consulting-services/strategy/business
+/consulting-services-2/strategy/2012/12/18/product-2								/consulting-services/strategy/product
+/consulting-services-2/strategy/2012/12/18/innovation-2								/consulting-services/strategy/innovation
+/consulting-services-2/strategy/2012/12/18/vendor									/consulting-services/strategy/vendor
+/consulting-services-2/strategy/2012/12/18/technology								/consulting-services/strategy/technology
+/consulting-services-2/2012/12/18/industry-and-technology-research					/consulting-services/industry-and-technology-research
+/consulting-services-2/2012/12/18/regulatory-compliance-standards					/consulting-services/regulatory-compliance-standards
+/attest																				/solutions/attest
+/cak																				/solutions/cak
+/contexxio																			/solutions/contexxio
+/easyryde																			/solutions/easyryde
+/fluent																				/solutions/fluent
+/medigy																				/solutions/medigy
+/nup																				/solutions/nup
+/opsfolio																			/solutions/opsfolio
+/proveit																			/solutions/proveit
+/stature																			/solutions/stature
+/watchtower																			/solutions/watchtower
+/knowledgebase																		/thought-leadership/knowldgebase
+/resources																			/thought-leadership/resources
+/work/building-safety-critical-medical-device-platforms-and-meaningful
+-device-platforms-and-meaningful-use-ehr-gateways
+																					/about-us/netspective-tv/building-safety-critical-medical
+																				-device-platforms-and-meaningful-use-ehr-gateways
+/work/osehra-summit-lunch-keynote-current-health-it-systems-integrate-
+poorly-and-thats-a-big-opportunity-for-the-osehra-community							/about-us/netspective-tv/chc-briefing-osehra-is-a-great-business-
+																				opportunity-for-healthcare-it-isvs-and-system-integrators
+
+/work/the-no-bs-guide-to-developing-a-healthcare-enterprise-
+integration-strategy														    /about-us/netspective-tv/the-no-bs-guide-to-developing-a-
+																				healthcare-enterprise-integration-strategy
+/work/cisq-quality-standard-overview-and-integrating-security-into-your-
+systems-development-lifecycle-sdlc-2										   	/about-us/netspective-tv/cisq-quality-standard-overview-and-
+																			   integrating-security-into-your-systems-development-lifecycle-sdlc
+
+/work/how-existing-big-data-technologies-are-
+impacting-next-generation-isr-2														/about-us/netspective-tv/how-existing-big-data-
+																				technologies-are-impacting-next-generation-isr
+
+
+/opsfolio/docs																		/solutions/opsfolio
+/stature3																			/solutions/stature
+/streams                                              								/solutions/opsfolio
+/cak7																				/solutions/cak
+/solutions																			/
+/clients                                                                        	/about-us/clients
+/tes                                                                           	 	/
+/landing_popup																		/
+/lp/test 																			/
+/opsfolio/docs/erd                                                              	/solutions/opsfolio
+/opsfolio/price-table-sample														/solutions/opsfolio
+/medigy/pghd																		/solutions/medigy
+/author																				/
+/tag/authentication																	/
+/tag/ia																				/
+/opsfolio-attest/*																	/solutions/attest
+/stature/project 																	/solutions/stature
+/tag/tls  																			/
+/netspective-insights																/netspective-insights
+/solutions/fluent3																	/solutions/fluent
+/blog/knowledgebase																	/thought-leadership/knowldgebase
+/stature/pricing																	/
+/watchtower3																		/solutions/watchtower
+/tet 																				/
+/features																			/
+/globalsearch																		/
+/tag/hspd12																			/
+/tag/ssl  	                                                                    	/
+/fluent/collaborate																	/solutions/fluent
+/neap-process																		/	
+/attest/members																		/solutions/attest
+/medigy/idss   																		/solutions/medigy
+/fluent/monitor																		/solutions/fluent
+/author/*																			/
+/tag/*																				/
+/fluent-m2m																			/solutions/fluent
+/attest/*																			/solutions/attest
+/fluent/*																			/solutions/fluent
+/cak/*																				/solutions/cak
+/attest/*																			/solutions/attest
+/opsfolio/*																			/solutions/opsfolio
+/watchtower/author/*																/solutions/watchtower
+/fluent/*																			/solutions/fluent
+/contexxio/*																		/solutions/contexxio
+/frequently-asked-questions															/
+/medigy-technical-architecture														/solutions/medigy
+/attest/*																			/solutions/attest
+/stature/*																			/solutions/stature
+/work-category/*																	/
+/medigy/*																			/
+/lp/*																				/
+/netspective-insights/*																/
+/taxonomy/*																			/
+/blog/knowledgebase/*																/thought-leadership/knowldgebase
+/blog/consulting-services-2/														/	
+/blog/knowledgebase/sensitive-sops/													/
+/netspective-cloud-esb-overview/													/
+/work-category/*																	/about-us/netspective-tv/
+/taxonomy/*																			/
+/technology-services/*																/technology-services
+/consulting-services-2/*															/
+/solutions/*																		/
+/operational-excellence-lean-six-sigma												/
+/wp-content/uploads/2012/05/Netspective-Datasheet.pdf 								/
+/fisma-fedramp-regulatory-assessments-government-compliance-management-service		/
+/wp-content/uploads/2012/05/Netspective-Corporate-Datasheet3.pdf 					/
+/wp-content/uploads/2013/10/Netspective-Communications-Final.pdf                	/
+/hipaa-digital-health-security-compliance-privacy-assessments-management-service	/
+/wp-content/uploads/2012/05/Netspective-Medigy-Features-Datasheet.pdf   			/
+/government-20/2009/07/27/mckinseys-view-of-government-20							/
+/about-us/newsroom/2012/12/03/netspective-sees-wireless-capable-medical-devices		/about-us/newsroom/2012-12-03-netspective-sees-wireless-capable-medical-devices-with-significant-software-and-data-integration-are-the-future	
+																					-with-significant-software-and-data-integration-are-the-future
+
+/about-us/newsroom/2012/11/12/netspective-advises-medical-device-manufacturers		/about-us/newsroom/2012-11-12-netspective-advises-medical-device-manufacturers-to-																						get-into-software-services-and-health-data-integration-to-help-offset-revenue-																							losses/
+-to-get	-into-software-services-and-health-data-integration-to-help-offset-
+revenue-losses
+
+/wp-content/uploads/2012/09/Daily-Meeting-Minutes-Template.pdf                      /pdf/Daily-Meeting-Minutes-Template.pdf	
+/wp-content/uploads/2012/09/Module-Design-Document-Template.pdf  					/pdf/Module-Design-Document-Template.pdf
+/wp-content/uploads/2012/09/Netspective-Software-Development-Process-Overview.pdf   /pdf/Netspective-Software-Development-Process-Overview.pdf
+/wp-content/uploads/2012/05/The-Myth-of-health-data-complexity-why-heath-IT-
+systems-integrate-poorly-today-and-what-we-can-do-about-it.pdf						/pdf/The-Myth-of-health-data-complexity-why-heath-IT-systems-integrate-poorly-																						today-and-what-we-can-do-about-it.pdf
+
+/wp-content/uploads/2012/05/Netspective-Business-Consulting-and-Regulated-IT-		 /pdf/Netspective-Business-Consulting-and-Regulated-IT-Services-forMedical-Device-																					  Manufacturers-and-Biomedical-Solutions-Firms-1.pdf
+Services-forMedical-Device-Manufacturers-and-Biomedical-Solutions-Firms-1.pdf
+
+/wp-content/uploads/2012/05/Netspective-Corporate-Datasheet3.pdf  						/pdf/Netspective-Corporate-Datasheet3.pdf
+/wp-content/uploads/2012/05/Netspective-Medigy-Architecture-Datasheet-21.pdf 			/pdf/Netspective-Medigy-Architecture-Datasheet-21.pdf
+/wp-content/uploads/2012/05/Netspective-Medigy-Features-Datasheet.pdf 					/pdf/Netspective-Medigy-Features-Datasheet.pdf
+/cybersecurity/2017/02/28/pushing-for-better-cyber-threat-info-sharing-in-healthcare	/thought-leadership/knowldgebase/pushing-for-better-cyber-threat-info-sharing-																						  in-healthcare
+/cybersecurity/2017/02/27/cybersecurity-what-healthcare-administrators-need-to-know  	/thought-leadership/knowldgebase/cybersecurity-what-healthcare-administrators-																						  need-to-know
+/cybersecurity/2017/02/23/prognosis-negative-healthcare-data-of-a-quarter-of-us-
+consumers-exposed
+																					    /thought-leadership/knowldgebase/prognosis-negative-healthcare-data-of-a-quarter-of-us-consumers-exposed
+
+/cybersecurity/2017/02/20/the-evolving-state-of-medical-device-cybersecurity			/thought-leadership/knowldgebase/the-evolving-state-of-medical-device-																								cybersecurity
+/cybersecurity/2017/02/17/himss17-a-preview-of-healthcare-cybersecurity-happenings		/thought-leadership/knowldgebase/himss17-a-preview-of-healthcare-cybersecurity																						  -happenings
+/cybersecurity/2017/02/16/cybersecurity-actions-needed-to-strengthen-us-capabilities	/thought-leadership/knowldgebase/cybersecurity-actions-needed-to-strengthen-us																						  -capabilities
+/cybersecurity/2017/02/15/survey-cybersecurity-an-executive-level-priority-for-insurers	  /thought-leadership/knowldgebase/survey-cybersecurity-an-executive-level-																							 priority-for-insurers	
+/cybersecurity/2017/02/15/the-outlook-for-hipaa-and-cybersecurity-enforcement-
+under-new-hhs-secretary-tom-price														/thought-leadership/knowldgebase/the-outlook-for-hipaa-and-cybersecurity- 																							enforcement-under-new-hhs-secretary-tom-price
+
+/cybersecurity/2017/02/13/how-will-new-hhs-secretary-lead-security-privacy-efforts		/thought-leadership/knowldgebase/how-will-new-hhs-secretary-lead-security-																								privacy-efforts	
+/cybersecurity/2017/02/10/what-do-we-do-about-cybersecurity							  	/thought-leadership/knowldgebase/what-do-we-do-about-cybersecurity
+
+/cybersecurity/2017/02/20/breaches-and-ransomware-how-does-your-security-compare	   	/thought-leadership/knowldgebase/breaches-and-ransomware-how-does-your-security																						 -compare
+/cybersecurity/2017/02/14/epidemiology-immunology-genetics-echo-in-infosecurity		   	/thought-leadership/knowldgebase/epidemiology-immunology-genetics-echo-in-																						     infosecurity
+/cybersecurity/2017/02/08/sizing-up-health-data-breaches-reported-in-2017-so-far	  	/thought-leadership/knowldgebase/sizing-up-health-data-breaches-reported-in-2017																						-so-far
+/cybersecurity/2017/02/08/breach-at-verity-health-system-exposes-data-of-more
+-than-10000-patients																  	/thought-leadership/knowldgebase/breach-at-verity-health-system-exposes-data-of- 																					    more-than-10000-patients	
+/cybersecurity/2017/02/08/will-the-good-guys-ever-catch-up-to-the-bad-guys-
+when-it-comes-to-cybercrime-in-healthcare											 	/thought-leadership/knowldgebase/will-the-good-guys-ever-catch-up-to-the-bad-guys-																					   when-it-comes-to-cybercrime-in-healthcare	
+
+/cybersecurity/2017/02/07/expert-analysis-improving-medical-device-cybersecurity		/thought-leadership/knowldgebase/expert-analysis-improving-medical-device-																							cybersecurity/
+
+/cybersecurity/2017/02/07/nist-review-confirms-copy-and-paste-safety-concerns			/thought-leadership/knowldgebase/nist-review-confirms-copy-and-paste-safety-																						concerns
+
+/cybersecurity/2017/02/03/top-types-of-cyberattacks-on-hospital-healthcare-networks		/thought-leadership/knowldgebase/top-types-of-cyberattacks-on-hospital-																								healthcare-networks	
+
+/cybersecurity/2017/02/02/hitrust-compiles-threat-catalogue-to-help-healthcare-orgs-
+prioritize-cybersecurity-risks															/thought-leadership/knowldgebase/hitrust-compiles-threat-catalogue-to-help-  																						 healthcare-orgs-prioritize-cybersecurity-risks
+
+/cybersecurity/2017/02/02/ocr-fines-childrens-medical-center-of-dallas-32-million-     
+for-lack-of-encryption																	/thought-leadership/knowldgebase/ocr-fines-childrens-medical-center-of-dallas- 																						  32-million-for-lack-of-encryption
+/cybersecurity/2017/02/02/aami-cybersecurity-standards-help-manage-it-risks				/thought-leadership/knowldgebase/aami-cybersecurity-standards-help-manage-it-																						 risks
+/cybersecurity/2017/02/01/hospitals-as-cyber-targets-how-to-prepare-
+for-the-inevitable-data-breach															/thought-leadership/knowldgebase/hospitals-as-cyber-targets-how-to-prepare-for																						  -the-inevitable-data-breach
+/data-science/2017/01/25/future-of-healthcare-grounded-in-data-but-details-fuzzy		/thought-leadership/knowldgebase/future-of-healthcare-grounded-in-data-but- 																						details-fuzzy
+
+/data-science/2017/01/18/5-reasons-we-must-untrap-digital-healths-big-data				/thought-leadership/knowldgebase/5-reasons-we-must-untrap-digital-healths-big- 																						  data
+
+/data-science/2017/01/16/lessons-learned-from-2016-its-time-to-address-internal
+-security-threats-to-health-data														/thought-leadership/knowldgebase/lessons-learned-from-2016-its-time-to-
+																						address-internal-security-threats-to-health-data
+
+/data-science/2017/01/07/a-guide-to-achieving-big-data-analytics-maturity				/thought-leadership/knowldgebase/a-guide-to-achieving-big-data-analytics-																							maturity
+/data-science/2017/01/05/developers-get-new-git-code-hosting-option						/thought-leadership/knowldgebase/developers-get-new-git-code-hosting-option
+/data-science/2017/01/04/big-data-and-apis												/thought-leadership/knowldgebase/big-data-and-apis
+/data-science/2017/01/04/eric-topol-deaggregate-data-to-liberate-and-protect-it			/thought-leadership/knowldgebase/eric-topol-deaggregate-data-to-liberate-and-																						 protect-it
+/data-science/2016/12/18/nist-sp-800-188-can-help-healthcare-innovators-
+understand-how-to-de-identify-datasets													/thought-leadership/knowldgebase/nist-sp-800-188-can-help-healthcare- 																								innovators-understand-how-to-de-identify-datasets
+
+

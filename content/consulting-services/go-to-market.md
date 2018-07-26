@@ -1,5 +1,6 @@
 +++
 title = "Go To Market"
+metatitle = "Go To Market -Sales, Marketing, Software solutions- Medical Technology"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Netspective's domain expertise combined with innovative Go To Market strategies delivers unique value propositions for the Medical Technology markets"

@@ -3,6 +3,7 @@
  * To find the original style.css that ships with Airspace, read airspace.css
  *
  */
+
  .italic {
    font-style: italic;
  }
@@ -22,10 +23,12 @@
   background-color: white;
   border-bottom: 1px dotted #ddd;
 }
+
 .post-area a:link, .post-area a:visited {
   font-size: 30px;
   color: #333;
 }
+
 .post-area a:hover {
   color: #0D0017;
 }
@@ -106,6 +109,10 @@ img[src*='#center'] {
 #industries h4{
   font-size: 25px;
   font-weight: normal;
+}
+#service{
+padding-top:0;
+padding-bottom:30px;
 }
 .industries i{
   color: #034462 !important;
@@ -233,6 +240,7 @@ img[src*='#center'] {
 }
 #intro {
     padding: 25px 0;
+    padding-bottom:0;	
 }
 #page .post-area,
 #team .post-area{
@@ -979,6 +987,17 @@ li.height81 {
 label.error {
   display: inline;
 }
+.phone{
+  color: #fff;
+}
+.phone img{
+  width: 20px;
+  height: 20px;
+}
+.phone span{
+  font-weight: bold;
+  margin-left: 5px
+}
 .col-xs-5,
 .col-sm-5,
 .col-md-5,
@@ -1155,7 +1174,7 @@ color: #666;
     background-image: -moz-linear-gradient(top,#d9d9d9,#bfbfbf);
     background-image: -ms-linear-gradient(top,#d9d9d9,#bfbfbf);
     background-image: -o-linear-gradient(top,#d9d9d9,#bfbfbf);
-    background-image: linear-gradient(top,#d9d9d9,#bfbfbf);;
+    background-image: linear-gradient(top,#d9d9d9,#bfbfbf);
 }
 .navbar-default .navbar-nav ul.dropdown-menu{border-radius: 4px;}
 .navbar-default .navbar-nav ul.dropdown-menu li:first-child {border-radius:4px 4px 0 0;}
@@ -1171,7 +1190,7 @@ color: #666;
   }
   .navbar-right .dropdown-menu {
     right: auto;
-    left: 15px; 
+    left: 15px;
   }
   .navbar-right .dropdown-menu  .dropdown-menu {
     right: auto;

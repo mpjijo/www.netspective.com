@@ -1,5 +1,6 @@
 +++
 title =  "Business"
+metatitle = "Business Strategy-Sales,Marketing,Revenue-Medical Technology,Healthcare"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Netspective's business strategies in healthcare and medical technology helps clients prepare for legislative, regulatory, technology and market changes"

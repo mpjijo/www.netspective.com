@@ -1,9 +1,11 @@
 +++
-title = "About us"
+title = "About Us"
+metatitle = "About Us - Netspective"
 type  = "page"
 layout = "menu-level-one"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997. Netspective's mission is simple to extend our client's enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from hellip"
+ 
 
 +++
 

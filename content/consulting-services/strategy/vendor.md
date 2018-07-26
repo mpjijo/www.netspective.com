@@ -1,5 +1,6 @@
 +++
 title = "Vendor"
+metatitle = "Vendor Management-Sourcing,Procurement,RFP-Healthcare,Medical Technology"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Netspective's vendor management services include product and technology procurement as well as contingent staffing and outsourcing."

@@ -7,10 +7,10 @@ section_icon_label: Activate & Engage Patients/Providers
 section_icon_image: img/solutions/medigy/Patient-Activation.png
 ---
  
-  * **What’s patient activation?** It’s about energizing patients and getting them to play an active role in their own healthcare. It’s an approach that goes a long way to reduce hospital visits and prevent health problems.
-  	* **Who are activated patients?** Examples of activated patients: patients who are aware of health problems, follow through on healthcare plans and prescriptions and adjust their lifestyles based on their health conditions.
-  	* **Why bother?** Studies show that highly activated patients get better care. They communicate with their healthcare providers more effectively. There’s a lower chance of their experiencing medical errors. Their care is better coordinated. And they are the most satisfied with their healthcare system.
-  	* **Why aren’t patients engaged?** Modern healthcare is complex. Many patients don’t understand even basic healthcare information. And often, patients don’t understand their condition.
+* **What’s patient activation?** It’s about energizing patients and getting them to play an active role in their own healthcare. It’s an approach that goes a long way to reduce hospital visits and prevent health problems.
+* **Who are activated patients?** Examples of activated patients: patients who are aware of health problems, follow through on healthcare plans and prescriptions and adjust their lifestyles based on their health conditions.
+* **Why bother?** Studies show that highly activated patients get better care. They communicate with their healthcare providers more effectively. There’s a lower chance of their experiencing medical errors. Their care is better coordinated. And they are the most satisfied with their healthcare system.
+* **Why aren’t patients engaged?** Modern healthcare is complex. Many patients don’t understand even basic healthcare information. And often, patients don’t understand their condition.
   
 Many healthcare providers don’t educate their patients so they can make informed decisions about treatment and care. Even if providers try to inform patients, many get overwhelmed and fail to follow even simple instructions.
  

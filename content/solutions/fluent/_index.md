@@ -1,5 +1,7 @@
 +++
 title = "Fluent"
+metatitle = "Netspective Fluent"
+type = "solutions"
 layout = "solutions" 
 url = "/solutions/fluent"
 banner_title   = "INTEGRATION PLATFORM FOR REGULATED MARKETS"

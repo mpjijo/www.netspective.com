@@ -1,5 +1,6 @@
 +++
 title = "Regulatory Compliance & Standards"
+metatitle = "Regulatory Compliance-HIPAA,ARRA,ICD,Meaningful Use-Medical Technology,Healthcare,Government"
 type  = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "With Netspective's knowledge of current and upcoming compliance mandates we can give broad insight into market access, strategic compliance and safety."

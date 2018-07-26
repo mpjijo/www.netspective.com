@@ -1,8 +1,11 @@
 +++
 title = "U.I. & I.D."
+metatitle = "U.I. & I.D - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "At Netspective, we've developed user interface design into a fine art, focusing not only on the functions that a software system needs to provide, but also the way in which it presents them to users. Leveraging the capabilities of a team of highly talented graphic artists and UI specialists, Netspective designs graphic interfaces that are hellip"
+path =  "img/technology-services/web-interface-design.jpg"
+
 +++
 At Netspective, we’ve developed user interface design into a fine art, focusing not only on the functions that a software system needs to provide, but also the way in which it presents them to users.
 

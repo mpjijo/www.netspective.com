@@ -1,5 +1,6 @@
 +++
 title = "Business Process Management"
+metatitle = "Business Process Management -Workflow,EHR,EMR,Practice-Government,Healthcare"
 type  = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Our BPM services help healthcare and government firms increase productivity, remove process overheads, reduce operation costs and gain competitive advantage"
