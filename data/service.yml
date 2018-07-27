@@ -40,36 +40,36 @@ title_three: Solutions
 content_three:
   - image: img/solutions/medigy.png
     name: Medigy
-    link: https://www.netspective.com/medigy
+    link: /solutions/medigy
 
   - image: img/solutions/narthex48.png
     name: Fluent
-    link: https://www.netspective.com/fluent
+    link: /solutions/fluent
 
   - image: img/solutions/stature-icon.png
     name: Stature
-    link: https://www.netspective.com/stature
+    link: /solutions/stature
 
   - image: img/solutions/contexxio-icon.png
     name: Contexxio
-    link: https://www.netspective.com/contexxio
+    link: /solutions/contexxio
 
   - image: img/solutions/cak.png
     name: Content Assembler Kit
-    link: https://www.netspective.com/cak
+    link: /solutions/cak
 
   - image: img/solutions/watch-tower.png
     name: Watchtower
-    link: https://www.netspective.com/watchtower
+    link: /solutions/watchtower
 
   - image: img/solutions/opsfolio.png
     name: Opsfolio
-    link: https://www.netspective.com/opsfolio
+    link: /solutions/opsfolio
 
   - image: img/solutions/proveit.png
     name: ProveIT
-    link: https://www.netspective.com/proveit
+    link: /solutions/proveit
 
   - image: img/solutions/nup.png
     name: Netspective Unified Process
-    link: https://www.netspective.com/nup
+    link: /solutions/nup
