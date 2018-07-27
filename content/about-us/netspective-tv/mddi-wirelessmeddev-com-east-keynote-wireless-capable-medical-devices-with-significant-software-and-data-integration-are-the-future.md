@@ -1,12 +1,16 @@
----
-title: "MDDI WirelessMedDev.com East Keynote: Wireless capable medical devices with significant software and data integration are the future"
-type: page
-category: [Presentations]
-catslug: [presentations]
-url: /about-us/netspective-tv/mddi-wirelessmeddev-com-east-keynote-wireless-capable-medical-devices-with-significant-software-and-data-integration-are-the-future/
-image: img/netspective.tv/presentations/mDDI- wirelessMedDev.com-east Keynote.jpg
-layout: menu-level-one
----
++++
+title = "MDDI WirelessMedDev.com East Keynote: Wireless capable medical devices with significant software and data integration are the future"
+metatitle ="MDDI WirelessMedDev.com East Keynote: Wireless capable medical devices with significant software and data integration are the future - Netspective"
+type = "page"
+category = "[Presentations]"
+catslug = "[presentations]"
+url = "/about-us/netspective-tv/mddi-wirelessmeddev-com-east-keynote-wireless-capable-medical-devices-with-significant-software-and-data-integration-are-the-future/"
+image = "img/netspective.tv/presentations/mDDI- wirelessMedDev.com-east Keynote.jpg"
+layout = "menu-level-one"
+description = "Description This keynote was presented at MD+DI Wireless Connectivity in Medical Devices Conference East (WirelessMedDev.com) on November 28, 2012. Topics discussed: Key takeaways"
+keywords = "Medical Technology, Healthcare & Government IT"
+path = "img/netspective.tv/presentations/mDDI- wirelessMedDev.com-east Keynote.jpg"
++++
 
 {{<video 98f546601d5a0130cba112313d16105c>}}
 

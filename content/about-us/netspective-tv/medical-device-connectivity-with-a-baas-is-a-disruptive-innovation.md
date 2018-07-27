@@ -1,11 +1,15 @@
----
-title: Medical Device Connectivity with a BaaS is a Disruptive Innovation
-category: [Presentations]
-catslug: [presentations]
-url: /about-us/netspective-tv/medical-device-connectivity-with-a-baas-is-a-disruptive-innovation/
-image: img/netspective.tv/presentations/medical-device-connectivity-with-a-baas-is-a-disruptive-innovation.jpg
-layout: menu-level-one
----
++++
+title = "Medical Device Connectivity with a BaaS is a Disruptive Innovation"
+metatitle = "Medical Device Connectivity with a BaaS is a Disruptive Innovation - Netspective"
+category = "[Presentations]"
+catslug = "[presentations]"
+url = "/about-us/netspective-tv/medical-device-connectivity-with-a-baas-is-a-disruptive-innovation/"
+image = "img/netspective.tv/presentations/medical-device-connectivity-with-a-baas-is-a-disruptive-innovation.jpg"
+layout = "menu-level-one"
+description = "Description This deck was presented at the 4th Annual Medical Device Connectivity Conference (MDCC4) where Shahid Shah, CEO of Netspective Communications, described how creating a data-centric Backend-as-a-Service (BaaS) is good business and can generate new revenue for medical device vendors. Topics covered: Key takeaways"
+keywords = "Medical Technology, Healthcare & Government IT"
+path = "img/netspective.tv/presentations/medical-device-connectivity-with-a-baas-is-a-disruptive-innovation.jpg"
++++
 
 {{<video 2961e0a00c260130abb2123139154813>}}
 

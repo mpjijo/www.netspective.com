@@ -1,12 +1,16 @@
----
-title: "Getting Beyond the Hype of “Disrupting Healthcare” and Focusing on Actionable Innovation"
-type: page
-category: [Presentations]
-catslug: [presentations]
-url: /about-us/netspective-tv/getting-beyond-the-hype-of-disrupting-healthcare-and-focusing-on-actionable-innovation/
-image: img/netspective.tv/presentations/Getting Beyond the Hype.jpg
-layout: menu-level-one
----
++++
+title = "Getting Beyond the Hype of “Disrupting Healthcare” and Focusing on Actionable Innovation"
+metatitle = "Getting Beyond the Hype of “Disrupting Healthcare” and Focusing on Actionable Innovation - Netspective"
+type = "page"
+category ="[Presentations]"
+catslug = "[presentations]"
+url = "/about-us/netspective-tv/getting-beyond-the-hype-of-disrupting-healthcare-and-focusing-on-actionable-innovation/"
+image = "img/netspective.tv/presentations/Getting Beyond the Hype.jpg"
+layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "This was a Keynote Address I gave at Healthcare Unbound 2013 and focused on what’s needed for healthcare technology innovation in a value- and outcomes-driven model. There’s a ton of hype surrounding disruptive technology innovation in healthcare but nothing is truly making a dent in the healthcare sector the same way as disruptions have occurred"
+path = "img/netspective.tv/presentations/Getting Beyond the Hype.jpg"
++++
 
 {{<video 8512d610cc6d01305c8f4e60301243cc>}}
 

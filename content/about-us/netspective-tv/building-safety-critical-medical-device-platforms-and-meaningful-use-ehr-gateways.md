@@ -1,12 +1,16 @@
----
-title: Building safety-critical medical device platforms and Meaningful Use EHR gateways
-type: page
-category: [Presentations]
-catslug: [presentations]
-url: /about-us/netspective-tv/building-safety-critical-medical-device-platforms-and-meaningful-use-ehr-gateways/
-image: img/netspective.tv/presentations/building safety-critical medical device platforms.jpg
-layout: menu-level-one
----
++++
+title = "Building safety-critical medical device platforms and Meaningful Use EHR gateways"
+metatitle = "Building safety-critical medical device platforms and Meaningful Use EHR gateways - Netspective"
+type = "page"
+category = "[Presentations]"
+catslug = "[presentations]"
+url = "/about-us/netspective-tv/building-safety-critical-medical-device-platforms-and-meaningful-use-ehr-gateways/"
+image = "img/netspective.tv/presentations/building safety-critical medical device platforms.jpg"
+layout =  "menu-level-one"
+description = "Description This is an in depth technical presentation delivered at OSCon 2012 on how to define, design, and build modern safety-critical medical device platforms and Meaningful Use compliant EHR gateways. The talk starts with a quick background on comparative effective research (CER) and patient-centered outcomes research (PCOR) and the kinds of data the government is"
+keywords = "Medical Technology, Healthcare & Government IT"
+path = "img/netspective.tv/presentations/building safety-critical medical device platforms.jpg"
++++
 
 {{<video 500b3704a2e73d00020537f1>}}
 

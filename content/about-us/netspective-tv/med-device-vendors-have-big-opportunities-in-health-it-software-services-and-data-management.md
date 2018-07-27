@@ -1,12 +1,16 @@
----
-title: Med Device Vendors Have Big Opportunities in Health IT Software, Services, and Data Management
-type: page
-category: [Presentations]
-catslug: [presentations]
-url: /about-us/netspective-tv/med-device-vendors-have-big-opportunities-in-health-it-software-services-and-data-management/
-image: img/netspective.tv/presentations/data-management.jpg
-layout: menu-level-one
----
++++
+title = "Med Device Vendors Have Big Opportunities in Health IT Software, Services, and Data Management"
+metatitle = "Med Device Vendors Have Big Opportunities in Health IT Software, Services, and Data Management, - Netspective"
+type = "page"
+category = "[Presentations]"
+catslug = "[presentations]"
+url = "/about-us/netspective-tv/med-device-vendors-have-big-opportunities-in-health-it-software-services-and-data-management/"
+image = "img/netspective.tv/presentations/data-management.jpg"
+layout = "menu-level-one"
+description = "Description If you’re in the medical device manufacturing or hardware sales business your revenue growth (CAGR) is under pressure like never before. You’re being asked to do more with less but you’re probably going to find that hard to accomplish because of one or more of the following challenges: Any one of these challenges is"
+keywords = "Medical Technology, Healthcare & Government IT"
+path = "img/netspective.tv/presentations/data-management.jpg"
++++
 
 {{<video 50918e3d0fb30200020096ff>}}
 

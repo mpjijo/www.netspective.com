@@ -1,6 +1,6 @@
 +++
 title ="Wireless capable medical devices with significant software and data integration are the future of OSEHRA"
-metatitle =" capable medical devices with significant software and data integration are the future of OSEHRA - Netspective"
+metatitle ="Wireless capable medical devices with significant software and data integration are the future of OSEHRA - Netspective"
 type = "page"
 category = ["Presentations"]
 catslug = ["presentations"]

@@ -1,11 +1,15 @@
----
-title: The EMR/EHR and Health IT Landscape for Sales Professionals
-category: [Presentations]
-catslug: [presentations]
-url: /about-us/netspective-tv/the-emrehr-and-health-it-landscape-for-sales-professionals/
-image: img/netspective.tv/presentations/the-emrehr-and-health-it-landscape-for-sales-professionals.jpg
-layout: menu-level-one
----
++++
+title = "The EMR/EHR and Health IT Landscape for Sales Professionals"
+metatitle = "The EMR/EHR and Health IT Landscape for Sales Professionals - Netspective"
+category = "[Presentations]"
+catslug = "[presentations]"
+url = "/about-us/netspective-tv/the-emrehr-and-health-it-landscape-for-sales-professionals/"
+image = "img/netspective.tv/presentations/the-emrehr-and-health-it-landscape-for-sales-professionals.jpg"
+layout = "menu-level-one"
+description = "Description This presentation was made to multiple national sale force teams who are selling EHRs and other health IT products. Topics covered"
+keywords = "Medical Technology, Healthcare & Government IT"
+path = "img/netspective.tv/presentations/the-emrehr-and-health-it-landscape-for-sales-professionals.jpg"
++++
 
 {{<video 133bbc600c340130254d123139154813>}}
 

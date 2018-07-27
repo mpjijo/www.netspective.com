@@ -1,12 +1,16 @@
----
-title: Proper Data Integration can change Medical Science
-type: page
-category: [Presentations]
-catslug: [presentations]
-url: /about-us/netspective-tv/proper-data-integration-can-change-medical-science/
-image: img/netspective.tv/presentations/proper-data Integration.jpg
-layout: menu-level-one
----
++++
+title = "Proper Data Integration can change Medical Science"
+metatitle = "Proper Data Integration can change Medical Science - Netspective"
+type = "page"
+category = "[Presentations]"
+catslug = "[presentations]"
+url = "/about-us/netspective-tv/proper-data-integration-can-change-medical-science/"
+image = "img/netspective.tv/presentations/proper-data Integration.jpg"
+layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = ""
+path = "img/netspective.tv/presentations/proper-data Integration.jpg"
++++
 
 {{<video f65a13e0e8e001304a13021448eaa125>}}
 
