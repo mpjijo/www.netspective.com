@@ -22,9 +22,10 @@ Shah emphasized the fact that Wireless capable medical devices with significant 
 * Lower margins as a reaction to commodity competition 
 * More complex and longer sales cycles due to change in buyer profile 
 * Increased cost of risk management and compliance caused by connectivity requirements 
+* Uncertainty in hardware made raising capital harder for pure-play devices
 
-Uncertainty in hardware made raising capital harder for pure-play devices
 Shah had said the solutions are not simple but the good news is that medical device manufacturers have many revenue generation opportunities today that can fund these new strategic imperatives. He advised manufacturers that data from devices is too important to be left to other software vendors, managed service providers, and system integrators.
+
 Shah declared that medical device manufacturers will have to get into software and data integration spaces to help them continue to innovate and control their own destiny. The details of the market challenges, approaches to address them and the impact it could bring were shared during [Shah briefing to the conference attendees.](http://go.netspective.com/lp-wireless-capable-medical-devices)<br />
 <br />
 

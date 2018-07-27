@@ -3,7 +3,7 @@ title: "OSEHRA Summit Lunch Keynote: Current health IT systems integrate poorly 
 type: page
 category: [Presentations]
 catslug: [presentations]
-url: /about-us/netspective-tv/chc-briefing-osehra-is-a-great-business-opportunity-for-healthcare-it-isvs-and-system-integrators/
+url: /about-us/netspective-tv/osehra-summit-lunch-keynote-current-health-it-systems-integrate-poorly-and-thats-a-big-opportunity-for-the-osehra-community/
 image: img/netspective.tv/presentations/chc- briefing.jpg
 layout: menu-level-one
 ---
