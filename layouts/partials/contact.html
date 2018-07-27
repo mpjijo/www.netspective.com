@@ -12,27 +12,30 @@
             <div class="col-md-6 col-sm-12">
               <div class="block">
                   <div class="form-group">
-                    <input type="text" name="{{ .form.name }}" class="form-control" placeholder="{{ .form.name }}">
+                    <input type="text" name="{{ .form.name }}" class="form-control" placeholder="{{ .form.name }}*" id="contactName">
+                    <span  class="error" id="name" style="display:none">The field Required.</span>
+
                   </div>
                   <div class="form-group">
-                    <input type="text" name="{{ .form.email }}" class="form-control" placeholder="{{ .form.email }}">
+                    <input type="text" name="{{ .form.email }}" class="form-control" placeholder="{{ .form.email }}*" id="contactEmail">
+                    <span  class="error" id="email" style="display:none">The field Required.</span>
                   </div>
                   <div class="form-group">
                     <input type="text" name="{{ .form.subject }}" class="form-control" placeholder="{{ .form.subject }}">
                   </div>
               </div>
             </div>
-            <div class="col-md-6 col-sm-12">
-              <div class="block">
-                  <div class="form-group">
-                    <textarea class="form-control" name="{{ .form.message }}" rows="3" placeholder="{{ .form.message }}"></textarea>
-                  </div>
-                  <div class="form-group">
-                    <button id="contactSubmit" class="btn btn-default" type="submit">{{ .form.button }}</button>
-                  </div>
-              </div>
+      <div class="col-md-6 col-sm-12">
+        <div class="block">
+            <div class="form-group">
+              <textarea class="form-control" name="{{ .form.message }}" rows="3" placeholder="{{ .form.message }}"></textarea>
             </div>
-          </form>    
+            <div class="form-group">
+              <button id="contactSubmit" class="btn btn-default" type="submit">{{ .form.button }}</button>
+            </div>
+        </div>
+      </div>
+    </form>  
             
           </div>
           <div id="contact-box" class="row">
