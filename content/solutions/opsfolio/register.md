@@ -6,7 +6,7 @@ slug ="register"
 +++
 <div class="form-section-block">
   <div class="form-section">
-    <form action="https://formspree.io/benson.ap@citrusinformatics.com" method="POST" id="registerform">
+    <form action="https://formspree.io/Gunjan.siroya@netspective.com" method="POST" id="registerform">
       <div class="col-md-6">
         <div class="form-group">
            <input type="text" name="Name" placeholder="Name*" id="firstname" class="form-control">

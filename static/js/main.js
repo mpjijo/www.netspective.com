@@ -165,6 +165,32 @@ $(document).ready(function(){
     	 $('#email').css('display', 'none');
     	 e.preventDefault();
     });
+
+
+    $('#contactSubmit').on('click', function(e){
+    	 var first_name = $('#contactName').val();
+         var email = $('#contactEmail').val();
+	     var o = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i;
+	         if (first_name == '') {
+				$('#name').css('display', 'block');
+	      		return  false;
+	      		e.preventDefault();
+	    	 }
+	    	 if (email == '' || email.search(o) == -1 ) {
+	      		$('#email').css('display', 'block');
+	      		return  false;
+	      		 e.preventDefault();
+	    	 }
+	    	 if(first_name != ''){
+	          $('#name').css('display', 'none');
+	          return  true;  
+			 }
+			 if(email != ''){
+	          $('#email').css('display', 'none');
+	          return  true;  
+ 		}
+
+    });
   
 
 });
