@@ -4,4 +4,4 @@ title: "References"
 icon: "fa-search"
 type: "nupfeatures"
 ---
-Well laid out templates for requirements, functional and technical specifications and much more
+A library of references to various resources compiled after extensive research.
