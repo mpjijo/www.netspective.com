@@ -1,5 +1,5 @@
 title = "Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology"
-baseURL = "https://netspective.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 enableRobotsTXT ="true"
