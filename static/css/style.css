@@ -1025,6 +1025,9 @@ label.error {
     border: 1px solid transparent;
     border-radius: 4px;
 }
+#nup .block-item p{
+  min-height: 100px;
+}
 .col-xs-5,
 .col-sm-5,
 .col-md-5,
