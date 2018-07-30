@@ -1,0 +1,14 @@
+[build]
+  publish = "public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.40.3"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
+  [[redirects]]
+  from = "/feed/"
+  to = "/index.xml"
+  status = 200
+  force = true
