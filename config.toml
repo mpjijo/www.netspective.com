@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 enableRobotsTXT ="true"
-#googleAnalytics = "UA-16412475-1"
+googleAnalytics = "UA-16412475-1"
 
 [sitemap]
   changefreq = "monthly"
