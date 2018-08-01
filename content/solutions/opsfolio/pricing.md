@@ -281,7 +281,7 @@ section_menu_label: Pricing
 <div class="feature-label price_value">$3,000<br><span>$6,000</span></div>
 </li>
 <li class=" height81">
-<div class="feature-label"><a href="about-us/contactus/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 </ul></div>
 </div>
