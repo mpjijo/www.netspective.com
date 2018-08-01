@@ -1,6 +1,8 @@
 ---
 title: Netspective advises medical device manufacturers to get into software, services, and health data integration to help offset revenue losses.
 author: Shahid N. Shah
+excerpt: Hundreds of medical device manufacturer executives, hospital executives, and staff gathered in Boston on November 1 to learn about how “connected devices” can significantly improve patient care and could reduce healthcare costs.
+
 date: 2012-11-12T08:51:22+00:00
 categories:
   - Newsroom

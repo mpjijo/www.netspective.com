@@ -387,7 +387,7 @@ googleAnalytics = "UA-16412475-1"
   # This license is offered with a 50% discount for all Hugo users.
   # For information see https://github.com/gohugoio/hugoThemes/issues/260
 
-  date_format = "6 January 2006"
+  date_format = "Jan 1, 2006"
 
   home = "Home"
 

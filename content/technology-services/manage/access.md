@@ -11,6 +11,8 @@ Business collaboration online is here to stay, but keeping it secure is an ongoi
 
 When using last-gen ID provisioning systems, enterprises have been forced to patch together fragmented, overlapping access and authorization mechanisms into an awkward mix. This mix of technologies creates headaches for everyone who uses it. For one thing, it makes it hard for employees, customers and partners to get access to the systems they use. Worse, these patchwork systems may be less secure than you think.
 
+Isn't it time to roll out a streamlined identity management system one which doesn't upset users, open new security holes or cost a fortune to maintain and manage?
+
 ![identity-management](img/technology-services/identity-management.jpg#right)
 
 ### Identity management that works

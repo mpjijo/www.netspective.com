@@ -21,7 +21,8 @@
 						<div class="post-area post-item">
 							<a href="{{ .Permalink }}" class="bold">{{ .Title }}</a>
 							<p class="post-date">{{ .Date.Format .Site.Params.date_format }}</p>
-							<p>{{ .Summary }}</p>
+							<p>{{ .Params.excerpt }}<a class="post-more" href="{{ .Permalink }}"> Read more...</a></p>
+
 						</div>				    
 					    {{ end }}
 					</div>

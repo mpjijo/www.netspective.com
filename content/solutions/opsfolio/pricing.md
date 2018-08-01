@@ -181,7 +181,7 @@ section_menu_label: Pricing
 <div class="feature-label"></div>
 </li>
 <li class=" height81 offer_tag_main">
-<div class="offerTag offer_tag_july"></div>
+{{<offertag>}}
 <div class="feature-label price_value">$248<br><span>$496</span></div>
 </li>
 <li class=" height81">
@@ -281,7 +281,7 @@ section_menu_label: Pricing
 <div class="feature-label price_value">$3,000<br><span>$6,000</span></div>
 </li>
 <li class=" height81">
-<div class="feature-label"><a href="https://www.netspective.com/contactus/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contactus/" target="_blank">Contact Us</a></div>
 </li>
 </ul></div>
 </div>
@@ -371,10 +371,10 @@ section_menu_label: Pricing
 <div class="feature-label price_value">$1,567<br><span>$3,134</span></div>
 </li>
 <li class=" height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 <li class=" height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 </ul></div>
 </div>
@@ -451,22 +451,22 @@ section_menu_label: Pricing
 <div class="feature-label"></div>
 </li>
 <li class="height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="/about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 <li class="height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 <li class="sep">
 <div class="feature-label"></div>
 </li>
 <li class=" height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 <li class=" height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 <li class=" height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 </ul></div>
 </div>

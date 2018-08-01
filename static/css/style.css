@@ -240,7 +240,7 @@ padding-bottom:30px;
 }
 #intro {
     padding: 25px 0;
-    padding-bottom:0;	
+    padding-bottom:0; 
 }
 #page .post-area,
 #team .post-area{
@@ -870,10 +870,98 @@ li.height81 {
     left: -62px;
     background-size: cover !important;
 }
-.offer_tag_july {
+.offer_tag_January {
     width: 100px;
     height: 100px;
-    background: url(/img/offer-tag-july.png);    position: absolute;
+    background: url(/img/solutions/opsfolio/offer-tag-january.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_February {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-tag-february.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_March {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-tag-march.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_April {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-tag-april.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_May {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-tag-may.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_June {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-tag-june.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_July {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-tag-july.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_August {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-tag-august.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_September {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-september.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_October {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-tag-october.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_November {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-tag-november.png);    position: absolute;
+    top: -69px;
+    left: -62px;
+    background-size: cover;
+}
+.offer_tag_December {
+    width: 100px;
+    height: 100px;
+    background: url(/img/solutions/opsfolio/offer-tag-december.png);    position: absolute;
     top: -69px;
     left: -62px;
     background-size: cover;
@@ -1027,6 +1115,9 @@ label.error {
 }
 #nup .block-item p{
   min-height: 100px;
+}
+.post-more{
+  color: #e54e19 !important;
 }
 .col-xs-5,
 .col-sm-5,
@@ -1186,7 +1277,7 @@ padding-bottom: 35px;
 color: #666;
     border: 1px solid #e6e6e6;
     border-width: 1px 0 0 0;
-	padding:8px 12px;
+  padding:8px 12px;
     background-color: #fff;
     background-image: -webkit-gradient(linear,0% 0%,0% 100%,from(#fff),to(#e6e6e6));
     background-image: -webkit-linear-gradient(top,#fff,#e6e6e6);

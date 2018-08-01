@@ -16,7 +16,8 @@ Think of CAK as your marketing team in a box. Use it to:
 * Offer the variety and volume of information that successful enterprise selling requires.
 * Avoid the costs of third-party consultants and marketers.
 * Deliver the content most likely to engage your customers at every stage of the buying process.
-* When you use the CAK, your prospects and customers will enjoy a steady stream of authoritative content and be more likely to become or remain a customer.
+
+When you use the CAK, your prospects and customers will enjoy a steady stream of authoritative content and be more likely to become or remain a customer.
 
 
 ![what-is-cak](img/solutions/cak/Netspective-Content-Assembler-Kit-Diagram.jpg#center)
