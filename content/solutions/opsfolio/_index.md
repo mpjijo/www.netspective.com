@@ -1,6 +1,5 @@
 +++
 title = "Opsfolio"
-metatitle = "HIPAA Compliant Cybersecurity & Risk Assessment Software | Netspective Opsfolio"
 type = "solutions"
 layout = "solutions" 
 url = "/solutions/opsfolio"
@@ -14,4 +13,6 @@ banner_register_button_link = "/solutions/opsfolio/register/?q=1"
 phone_number = "(202) 657-4064"
 phone_img = "img/Office-10-128-1.png"
 
+metatitle = "HIPAA Compliant Cybersecurity &amp; Risk Assessment Software | Netspective Opsfolio"
+description = "Our comprehensive HIPAA compliant and cybersecurity risk assessment software helps discover threats and vulnerabilities in your devices, categorizes and solves cybersecurity issues."
 +++

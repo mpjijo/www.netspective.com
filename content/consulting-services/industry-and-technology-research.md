@@ -1,5 +1,6 @@
 +++
 title = "Industry and Technology Research"
+metatitle = "Technology,Research,Webinars,Workshops,White papers-Healthcare,Medical"
 type  = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Netspective offers excellent webinars and workshops, expertise in research and white paper development in the healthcare and medical technology space"

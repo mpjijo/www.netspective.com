@@ -1,11 +1,13 @@
 ---
 title: "The difference between backup and archiving: Ep 15, HealthcareTalks"
+metatitle: "The difference between backup and archiving: Ep 15, HealthcareTalks - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
 url: /about-us/netspective.tv/difference-backup-archiving-ep-15-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
+description: One of the mistakes that, uh, a lot of, uh, managers are making these days is that they're assuming that backups of data and archiving of data are the same thing. And that would be like saying that, uh, if I properly made copies of my paper records, but uh, then I stashed them away hellip
 ---
 
 {{<youtube AXtV5TO_DZg>}}

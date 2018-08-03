@@ -1,11 +1,13 @@
 ---
 title: "The shift from fee-for-service to pay-for-performance: Ep 19, HealthcareTalks"
+metatitle: "The shift from fee-for-service to pay-for-performance: Ep 19, HealthcareTalks - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
 url: /about-us/netspective.tv/shift-fee-service-pay-performance-ep-19-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
+description: Something that all CEOs and CFOs are looking at a lot these days is what is happening with the Affordable Care Act and things like accountable care, patient centered medical homes where there's a big shift going from fee for service for seeing patients in volume, uh, volume care business, to a value care business. 
 ---
 
 {{<youtube 27sAsjY-AZk>}}

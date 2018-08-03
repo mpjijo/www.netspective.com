@@ -1,8 +1,10 @@
 ---
 title: "Securing organizational support for info management: Ep 23, HealthcareTalks"
+metatitle: "Securing organizational support for info management: Ep 23, HealthcareTalks - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
+description: It's always difficult to get money for something like ILM because it's like almost an esoteric topic. Well, you know, it's about data, it's about information. Why should I care? What you really want to do is to tie those things into, uh, high impact areas that other departments care about. For example, one of hellip
 url: /about-us/netspective.tv/securing-organizational-support-info-management-ep-23-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one

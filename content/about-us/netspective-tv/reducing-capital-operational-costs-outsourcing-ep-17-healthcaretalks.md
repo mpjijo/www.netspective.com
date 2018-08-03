@@ -1,11 +1,13 @@
 ---
 title: "Reducing capital and operational costs through outsourcing: Ep 17, HealthcareTalks"
+metatitle: "Reducing capital and operational costs through outsourcing: Ep 17, HealthcareTalks - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
 url: /about-us/netspective.tv/reducing-capital-operational-costs-outsourcing-ep-17-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
+description: Often, outsourcing can really save you a lot because it going it's going to reduce what your capex and move it more to an opex. So it's going to reduce your capital requirements because you're not going to buy storage area networks. You're not going to necessarily have to buy and pay for small hellip
 ---
 
 {{<youtube ekgHUNLXQLE>}}

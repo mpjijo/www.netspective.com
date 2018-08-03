@@ -5,7 +5,7 @@ type = "page"
 url = "/thought-leadership/knowldgebase/will-the-good-guys-ever-catch-up-to-the-bad-guys-when-it-comes-to-cybercrime-in-healthcare/"
 categories = "Cybersecurity"
 keywords = "Medical Technology, Healthcare & Government IT"
-description = "A platform strategy that continues to provide functionality support, performance and technology leadership while making it flexible, affordable and easy to integrate can bring sustainable growth and market leadership. Sustaining existing Platforms while focusing on new product development is a big challenge and also a very critical need for Healthcare, Government and Medical Technology enterprises hellip" 
+description = "Can the good guys ever catch up to the bad guys when it comes to data and IT security in healthcare That most basic of questions seemed to hang over the results of a recent new report on data and IT security that spanned all industries and was international in scopeAs Assistant Editor Heather Landi reported in an article last week Eighty-one percent of senior IT security executives at healthcare organizations anticipate IT security spending increases in the next 12 months yet at the same time successful data breaches are also up significantly" 
    
 
 +++

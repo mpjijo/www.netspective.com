@@ -1,11 +1,13 @@
 ---
 title: "Reducing TCO by outsourcing Health IT storage management: Ep 16, HealthcareTalks"
+metatitle: "Reducing TCO by outsourcing Health IT storage management: Ep 16, HealthcareTalks - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
 url: /about-us/netspective.tv/reducing-tco-outsourcing-health-storage-management-ep/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
+description: A lot of what we do these days with data, um, as we discussed is very, very important. So you want to maintain data, manage it appropriately, uh, et cetera, because it is a valuable asset on a daily basis. But some of these things like backups and archiving you shouldn't try to do yourself. 
 ---
 
 {{<youtube ekgHUNLXQLE>}}

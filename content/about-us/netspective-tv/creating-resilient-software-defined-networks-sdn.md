@@ -1,11 +1,13 @@
 ---
 title: Creating Resilient Software Defined Networks (SDN)
+metatitle: Creating Resilient Software Defined Networks (SDN) - Netspective
 type: page
 category: [Presentations]
 catslug: [presentations]
 url: /about-us/netspective-tv/creating-resilient-software-defined-networks-sdn/
 image: img/netspective.tv/presentations/slide_0.jpg
 layout: menu-level-one
+description: Dr. Arun Sood and I presented a new approach for how to create reliable and resilient software defined networks
 ---
 
 {{<video 7b1981d062a50132bcab16864c2728bb>}}

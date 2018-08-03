@@ -1,5 +1,6 @@
 ---
 title: Intelligent Healthcare Panel at HIMSS
+metatitle: Intelligent Healthcare Panel at HIMSS - Netspective
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]

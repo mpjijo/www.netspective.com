@@ -388,6 +388,10 @@ googleAnalytics = "UA-16412475-1"
   # For information see https://github.com/gohugoio/hugoThemes/issues/260
 
   date_format = "Jan 1, 2006"
+  title = "Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology"
+  description = "Software, technology, and management consulting focused on firms im pacted by FDA, ONC, NIST or other safety, privacy, and security regulations"
+  
+  metatitle = "Safety, privacy, and security focused technology consulting"
 
   home = "Home"
 

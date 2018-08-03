@@ -4,7 +4,7 @@ metatitle = "Thought Leadership - Netspective"
 type = "page"
 layout = "menu-level-one"
 keywords = "Medical Technology, Healthcare & Government IT"
-description = "buy paxil online without prescription, buy Zoloft online"
+description = "Welcome to our Thought Leadership Page where you will find interesting artifacts and discussions on technology and Industry topics on Healthcare, Government and Medical Technology. We have a viewpoint on many of these topics, but are open to hear what you thinks about these thoughts and hear from you. Please use &nbsp; Subscribe to our blogs"
 +++
 
 Welcome to our Thought Leadership Page where you will find interesting artifacts and discussions on technology and Industry topics on Healthcare, Government and Medical Technology.

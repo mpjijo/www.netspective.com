@@ -1,11 +1,13 @@
 ---
 title: "The role of information governance in Health IT: Ep 21, HealthcareTalks"
+metatitle: "The role of information governance in Health IT: Ep 21, HealthcareTalks - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
 url: /about-us/netspective.tv/role-information-governance-health-ep-21-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
+description: When you're going to begin your journey from a, uh, paper based to a digital environment, one of the most important things to do at the beginning is to say who gets to decide when things go digital, who gets to decide what my backup policy is, who gets to decide what my archiving policy 
 ---
 
 {{<youtube VoyKjI_7KxA>}}

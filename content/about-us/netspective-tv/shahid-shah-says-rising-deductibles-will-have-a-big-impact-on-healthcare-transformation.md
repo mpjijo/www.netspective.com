@@ -1,5 +1,6 @@
 ---
 title: Shahid Shah Says Rising Deductibles Will Have A Big Impact On Healthcare Transformation
+metatitle: Shahid Shah Says Rising Deductibles Will Have A Big Impact On Healthcare Transformation - Netspective
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]

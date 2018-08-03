@@ -1,11 +1,13 @@
 ---
 title: "How does accountable care impact storage management? Ep 18, HealthcareTalks"
+metatitle: How does accountable care impact storage management? Ep 18, HealthcareTalks - Netspective
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
 url: /about-us/netspective.tv/accountable-care-impact-storage-management-ep-18-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
+description: Health information exchanges, accountable care organization, patient center medical homes, the Affordable Care Act, these are major initiatives that the government is promoting, and lots of organizations are, uh, heading down on their own. When you're moving into these areas, one thing to recognize is these all of these initiatives have insatiable appetites for hellip
 ---
 
 {{<youtube v_yuytDUzpY>}}

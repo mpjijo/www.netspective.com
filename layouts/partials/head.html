@@ -2,18 +2,34 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta content="{{ delimit .Keywords ", " }}" name="keywords">
+{{ if .IsHome }}
+<meta name="title" content="{{.Site.Params.title}}" />
+<meta
+name="description" content="{{ .Site.Params.description }}"/>
+{{ else }}
 <meta name="title" content="{{.Params.metatitle}}" />
 <meta
 name="description" content="{{.Params.description}}"/>
+{{ end }}
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
+{{ if .IsHome }}
+<meta property="og:title" content="{{.Site.Params.metatitle}}" />
+<meta content="{{ .Site.Params.description }}" property="og:description">
+{{ else }}
 <meta property="og:title" content="{{.Params.metatitle}}" />
-<meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }}{{ .Description }}{{ end }}" property="og:description">
+<meta property="og:description" content="{{.Params.description}}">
+{{ end }}
 <meta property="og:site_name" content="Netspective" />
-<meta property="og:image" content="{{ .Site.BaseURL }}{{.Params.path}}" />
+<meta property="og:image" content=/{{.Params.path}} />
 <meta name="twitter:card" content="summary" />
+{{ if .IsHome }}
+<meta name="twitter:title" content="{{.Site.Params.metatitle}}" />
+<meta name = "twitter:description" content="{{ .Site.Params.description }}" property="og:description">
+{{ else }}
 <meta name="twitter:title" content="{{.Params.metatitle}}" />
-<meta name = "twitter:description" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }}{{ .Description }}{{ end }}" property="og:description">
+<meta name = "twitter:description" property="og:description" content="{{.Params.description}}">
+{{ end }}
 <!-- robots -->
 <!-- you may configure it in the front matter of the page or in site params -->
 {{ if or (isset .Params "robots") (isset .Site.Params "robots") }}

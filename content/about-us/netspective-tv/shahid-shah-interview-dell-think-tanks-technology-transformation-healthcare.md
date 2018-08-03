@@ -1,5 +1,6 @@
 ---
 title: "Shahid Shah Interview at the Dell Think Tanks on Technology and Transformation in Healthcare"
+metatitle: Shahid Shah Interview at the Dell Think Tanks on Technology and Transformation in Healthcare - Netspective
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]

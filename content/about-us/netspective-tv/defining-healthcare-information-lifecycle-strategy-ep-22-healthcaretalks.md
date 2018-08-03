@@ -1,11 +1,13 @@
 ---
 title: "Defining your healthcare information lifecycle strategy: Ep 22, HealthcareTalks"
+metatitle: "Defining your healthcare information lifecycle strategy: Ep 22, HealthcareTalks - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
 url: /about-us/netspective.tv/defining-healthcare-information-lifecycle-strategy-ep-22-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
+description: The clinical side of the world should be just as concerned about information life cycle management as the IT side. It's often treated as a kind of like a back end or back office or IT kind of environment because, hey, it's got the word information in there, and so it must be information 
 ---
 
 {{<youtube TGymNicUpwM>}}

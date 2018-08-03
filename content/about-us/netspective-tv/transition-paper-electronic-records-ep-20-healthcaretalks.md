@@ -1,11 +1,13 @@
 ---
 title: "The transition from paper to electronic records: Ep 20, HealthcareTalks"
+metatitle: "The transition from paper to electronic records: Ep 20, HealthcareTalks - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
 url: /about-us/netspective.tv/transition-paper-electronic-records-ep-20-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
+description: As you're navigating from, uh, a paper based world to a more digital world, you always wonder where do you start. And some of the easiest place, uh, to start is to think about, uh, how you're just going to take an analogue, a paper format and move it to a digital. That could mean hellip
 ---
 
 {{<youtube jlhebtiq_D4>}}

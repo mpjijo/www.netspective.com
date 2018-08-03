@@ -1,11 +1,13 @@
 ---
 title: "The healthcare data explosion is coming: Ep 14, HealthcareTalks"
+metatitle: "The healthcare data explosion is coming: Ep 14, HealthcareTalks - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]
 url: /about-us/netspective.tv/healthcare-data-explosion-coming-ep-14-healthcaretalks/
 image: img/netspective.tv/securing-organizational-support.png
 layout: menu-level-one
+description: In the future, because we know that data is starting to become used on a daily basis now, what we're going to see is that data will definitely explode. So today, we're in what we call administrative or economic style data. So the transactions, for example, for claims, the amount of data that's needed to hellip
 ---
 
 {{<youtube QTdjNgZHC8w>}}

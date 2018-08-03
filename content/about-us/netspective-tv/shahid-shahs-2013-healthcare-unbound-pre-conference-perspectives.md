@@ -1,5 +1,6 @@
 ---
 title: "Shahid Shah's 2013 Healthcare Unbound Pre-Conference Perspectives"
+metatitle: Shahid Shah's 2013 Healthcare Unbound Pre-Conference Perspectives - Netspective
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]

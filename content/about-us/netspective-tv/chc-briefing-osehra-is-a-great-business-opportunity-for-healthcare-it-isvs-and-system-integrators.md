@@ -1,13 +1,13 @@
 +++
 title = "CHC Briefing: OSEHRA is a great business opportunity for healthcare IT ISVs and system integrators"
-metatitle ="CHC Briefing: OSEHRA is a great business opportunity for healthcare IT ISVs and system integrators - Netspective"
+metatitle ="OSEHRA Summit Lunch Keynote: Current health IT systems integrate poorly and that's a big opportunity for the OSEHRA community - Netspective"
 type = "page"
 category = "[Presentations]"
 catslug = "[presentations]"
 url = "/about-us/netspective-tv/chc-briefing-osehra-is-a-great-business-opportunity-for-healthcare-it-isvs-and-system-integrators/"
 image = "img/netspective.tv/presentations/chc- briefing.jpg"
 layout = "menu-level-one"
-description = "Description An opinionated look at why current health IT systems integrate poorly and how it’s a big opportunity for the OSEHRA Community Topics Covered: Key takeaways"
+description = "Description OSEHRA Summit 2012 Lunch Keynote &#8211; The Myth of Health Data Integration Complexity. This is an opinionated look at why current health IT systems integrate poorly and how it’s a big opportunity for the OSEHRA Community. Background: Key takeaways"
 keywords = "Medical Technology, Healthcare & Government IT"
 path = "img/netspective.tv/presentations/chc- briefing.jpg"
 +++

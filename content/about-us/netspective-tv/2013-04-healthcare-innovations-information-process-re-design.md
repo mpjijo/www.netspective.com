@@ -1,5 +1,6 @@
 ---
 title: 2013-04  Healthcare Innovations Through Information and Process Re-Design
+metatitle: 2013-04 Healthcare Innovations Through Information and Process Re-Design - Netspective
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]

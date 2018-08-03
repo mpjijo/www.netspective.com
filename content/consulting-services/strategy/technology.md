@@ -1,6 +1,6 @@
 +++
 title = "Technology"
-metatitle = "Technology,Research,Webinars,Workshops,White papers-Healthcare,Medical"
+metatitle = "Architecture,Hardware,Software-Strategy-Healthcare,Medical Technology"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "With more than 15 years of experience delivering cutting edge solutions, Netspective can help you choose a technology strategy that is right for you"
