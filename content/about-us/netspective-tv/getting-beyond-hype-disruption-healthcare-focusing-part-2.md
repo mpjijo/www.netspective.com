@@ -1,5 +1,6 @@
 ---
 title: "Getting beyond the hype of disruption in healthcare and focusing - Part 2"
+metatitle: "Getting beyond the hype of disruption in healthcare and focusing - Part 2 - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]

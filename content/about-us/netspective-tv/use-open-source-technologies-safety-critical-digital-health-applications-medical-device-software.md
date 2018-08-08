@@ -1,6 +1,6 @@
 +++
 title = "How to Use Open Source Technologies in Safety-critical Digital Health Applications and Medical Device Software"
-metatitle = "Med Device Vendors Have Big Opportunities in Health IT Software, Services, and Data Management, - Netspective"
+metatitle = "How to Use Open Source Technologies in Safety-critical Digital Health Applications and Medical Device Software - Netspective"
 type = "page"
 category = "[Presentations]"
 catslug = "[presentations]"

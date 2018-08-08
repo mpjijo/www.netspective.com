@@ -1,5 +1,6 @@
 ---
 title: "InSites Build 2013 - Shahid Shah: What are the next big things in healthcare beyond the EHR?"
+metatitle: "InSites Build 2013 - Shahid Shah: What are the next big things in healthcare beyond the EHR? - Netspective"
 type: page
 category: [Shahid Shah,Video]
 catslug: [shahidshah,video]

@@ -1,13 +1,13 @@
----
-title: Reasons why health data is poorly integrated today and what we can do about it
-metatitle: Reasons Why Health Data is Poorly Integrated Today and What We Can Do About It - Netspective
-category: [Presentations]
-catslug: [presentations]
-url: /about-us/netspective-tv/reasons-why-health-data-is-poorly-integrated-today-and-what-we-can-do-about-it/
-image: img/netspective.tv/presentations/reasons-why-health-data-is-poorly-integrated.jpg
-layout: menu-level-one
-description: Presented at the 3rd Annual Open Source EHR Summit Key takeaways-* Any enterprise app which acts like a consumer app that doesn’t integrate well into hospital or ambulatory systems and workflows is doomed * There’s nothing unique about health IT data that justifies complex, expensive, or special technology. * There’s a lot unique hellip
----
++++
+title= "Reasons why health data is poorly integrated today and what we can do about it"
+metatitle= "Reasons Why Health Data is Poorly Integrated Today and What We Can Do About It - Netspective"
+category = "[Presentations]"
+catslug = "[presentations]"
+url = "/about-us/netspective-tv/reasons-why-health-data-is-poorly-integrated-today-and-what-we-can-do-about-it/"
+image ="img/netspective.tv/presentations/reasons-why-health-data-is-poorly-integrated.jpg"
+layout = "menu-level-one"
+description = "Presented at the 3rd Annual Open Source EHR Summit &#8211; Key takeaways: * Any enterprise app which acts like a consumer app that doesn’t integrate well into hospital or ambulatory systems and workflows is doomed * There’s nothing unique about health IT data that justifies complex, expensive, or special technology. * There’s a lot unique [&amp;hellip"
++++
 
 {{<video 2399e6900c290130abb2123139154813>}}
 

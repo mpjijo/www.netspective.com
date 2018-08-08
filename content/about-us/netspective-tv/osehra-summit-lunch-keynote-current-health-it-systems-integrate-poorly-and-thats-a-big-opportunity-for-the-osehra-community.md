@@ -4,6 +4,8 @@ type: page
 category: [Presentations]
 catslug: [presentations]
 url: /about-us/netspective-tv/osehra-summit-lunch-keynote-current-health-it-systems-integrate-poorly-and-thats-a-big-opportunity-for-the-osehra-community/
+metatitle: "OSEHRA Summit Lunch Keynote: Current health IT systems integrate poorly and that's a big opportunity for the OSEHRA community - Netspective"
+description: "Description OSEHRA Summit 2012 Lunch Keynote. The Myth of Health Data Integration Complexity. This is an opinionated look at why current health IT systems integrate poorly and how it’s a big opportunity for the OSEHRA Community. Background: Key takeaways"
 image: img/netspective.tv/presentations/chc- briefing.jpg
 layout: menu-level-one
 ---
