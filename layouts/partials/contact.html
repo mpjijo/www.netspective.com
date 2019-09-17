@@ -8,7 +8,7 @@
         <!-- Content -->
         {{ with .Site.Params.contact }}
           <div class="row" id="contact-form"> 
-          <form method="post" action="//formspree.io/Gunjan.siroya@netspective.com">
+          <form method="Post" id="quickcontact">
             <div class="col-md-6 col-sm-12">
               <div class="block">
                   <div class="form-group">
@@ -21,17 +21,17 @@
                     <span  class="error" id="email" style="display:none">The field Required.</span>
                   </div>
                   <div class="form-group">
-                    <input type="text" name="{{ .form.subject }}" class="form-control" placeholder="{{ .form.subject }}">
+                    <input type="text" name="{{ .form.subject }}" class="form-control" placeholder="{{ .form.subject }}" id="contactSubject">
                   </div>
               </div>
             </div>
       <div class="col-md-6 col-sm-12">
         <div class="block">
             <div class="form-group">
-              <textarea class="form-control" name="{{ .form.message }}" rows="3" placeholder="{{ .form.message }}"></textarea>
+              <textarea class="form-control" name="{{ .form.message }}" rows="3" placeholder="{{ .form.message }}" id="contactMessage"></textarea>
             </div>
             <div class="form-group">
-              <button id="contactSubmit" class="btn btn-default" type="submit">{{ .form.button }}</button>
+              <button id="contactSubmit" class="btn btn-default" type="button">{{ .form.button }}</button>
             </div>
         </div>
       </div>
