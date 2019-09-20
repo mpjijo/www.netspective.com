@@ -30,6 +30,7 @@
             <div class="form-group">
               <textarea class="form-control" name="{{ .form.message }}" rows="3" placeholder="{{ .form.message }}" id="contactMessage"></textarea>
             </div>
+			<input type="hidden" name="_subject" value="[Netspective Communications] - Contact Form Submission" />
             <div class="form-group">
               <button id="contactSubmit" class="btn btn-default" type="button">{{ .form.button }}</button>
             </div>
