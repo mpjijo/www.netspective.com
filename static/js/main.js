@@ -240,7 +240,7 @@ $(document).ready(function(){
           }
           $.ajax(settings).done(function (response) {
             if(response.meta.message != ""){
-                var url="https://formspree.io/Gunjan.siroya@netspective.com"; 
+                var url="https://formspree.io/prathitha@citrusinformatics.com"; 
                 $('#quickcontact').attr('action', url);
                 $('#quickcontact').submit();
               }
