@@ -428,7 +428,8 @@ googleAnalytics = "UA-16412475-1"
   [params.team]
     title1 = "Senior Management"
     title2 = "Engineering Associates" 
-    title3 = "Corporate Governance"  
+    title3 = "Corporate Advisory"
+    title4 = "Corporate Governance"	
 
   [params.contact]
     enable = true
