@@ -429,7 +429,7 @@ googleAnalytics = "UA-16412475-1"
     title1 = "Senior Management"
     title2 = "Engineering Associates" 
     title3 = "Corporate Advisory"
-    title4 = "Corporate Governance"	
+    title4 = "Board of Directors"	
 
   [params.contact]
     enable = true
