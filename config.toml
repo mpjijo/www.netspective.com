@@ -354,7 +354,7 @@ googleAnalytics = "UA-16412475-1"
     url = "https://www.linkedin.com/company/netspective-communications-llc"
   [[menu.social]]
     name = "fa fa-rss"
-    url = "https://feeds.feedburner.com/NetspectiveBlog"
+    url = "https://feeds.feedburner.com/Netspective"
   [[menu.social]]
     name = "fa fa-twitter"
     url = "https://twitter.com/netspective" 
